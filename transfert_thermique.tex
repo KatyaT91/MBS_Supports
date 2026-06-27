@@ -1,0 +1,128 @@
+
+% www.brianrhall.net
+
+% Document settings
+\documentclass[11pt]{article}
+\usepackage[margin=1in]{geometry}
+\usepackage[pdftex]{graphicx}
+\usepackage{multirow}
+\usepackage{setspace}
+\usepackage{listings}
+\pagestyle{plain}
+\setlength\parindent{0pt}
+
+\begin{document}
+	
+	 
+	\section*{Le transfert thermique}
+	
+	\subsection*{Les modes de transfert thermique}
+	
+	Le transfert thermique est un échange d’énergie thermique entre deux systèmes sans travail mécanique.  
+	Il existe trois modes de transfert thermique :
+	
+	\begin{itemize}
+		\item \textbf{La conduction} : l’agitation thermique des molécules se propage d’un endroit à un autre. Elle se produit lorsqu’on met en contact un corps chaud et un corps froid (une plaque électrique en est un exemple).
+		
+		\item \textbf{Le rayonnement} : il s’effectue par émission d’ondes électromagnétiques (par exemple infrarouges). C’est ainsi que l’on reçoit l’énergie thermique du Soleil.
+		
+		\item \textbf{La convection} : elle se fait grâce aux déplacements de la matière. Elle se produit dans les appareils de chauffage appelés convecteurs. La convection peut être naturelle ou forcée.
+	\end{itemize}
+	
+	Souvent, plusieurs modes de transfert ont lieu simultanément.
+	
+	\subsection*{Exemple : isolation thermique d'une maison}
+	
+	Le transfert thermique à travers les murs d’une maison est limité en raison de leur faible conductivité thermique.  
+	Pour diminuer la conduction thermique, il faut utiliser des matériaux peu conducteurs (souvent peu denses). Cependant, il faut également limiter la convection entre l’extérieur et l’intérieur.
+	
+	La solution consiste à utiliser un matériau de faible densité formant une couche épaisse, comme la laine de verre.
+	
+	\subsection*{Exemple : un thermos}
+	
+	Dans le cas d’une bouteille isolante, on utilise un récipient à double paroi avec du vide entre les parois.  
+	Ce dispositif doit être rigide afin de résister à la pression atmosphérique.
+	
+	\subsection*{Le flux thermique}
+	
+	Le flux thermique est la quantité d’énergie thermique transférée par unité de temps.
+	
+	Considérons le cas d’un mur :
+	\begin{itemize}
+		\item Le flux thermique est proportionnel à la différence de température.
+		\item Il est proportionnel à la surface du mur.
+		\item Il est inversement proportionnel à l’épaisseur du mur.
+	\end{itemize}
+	
+	\subsection*{La conductivité thermique}
+	
+	Loi de Fourier :
+	\[
+	\Phi = \lambda \times S \times \frac{\Delta T}{e}
+	\]
+	
+	où :
+	\begin{itemize}
+		\item $\Phi$ est le flux thermique,
+		\item $e$ est l’épaisseur du mur,
+		\item $\lambda$ est la conductivité thermique du matériau.
+	\end{itemize}
+	
+	La conductivité thermique dépend du matériau et s’exprime en $W \cdot m^{-1} \cdot K^{-1}$.  
+	Son inverse est appelé résistance thermique.
+	
+	\subsection*{La résistance thermique}
+	
+	\[
+	\Phi = \frac{\Delta T}{R_{th}}
+	\]
+	
+	Pour un mur homogène :
+	\[
+	R_{th} = \frac{e}{\lambda \times S}
+	\]
+	
+	\subsection*{Transfert dans des résistances en série}
+	
+	Avec deux résistances en série, le flux est le même dans chaque résistance :
+	\[
+	\Phi_1 = \frac{\Delta T_1}{R_1}, \quad
+	\Phi_2 = \frac{\Delta T_2}{R_2}, \quad
+	\Phi_1 = \Phi_2 = \Phi
+	\]
+	
+	La différence de température totale est :
+	\[
+	\Delta T = \Delta T_1 + \Delta T_2
+	\]
+	
+	Donc :
+	\[
+	R = R_1 + R_2
+	\]
+	
+	\subsection*{Transfert dans des résistances en parallèle (pont thermique)}
+	
+	Avec deux résistances en parallèle, la différence de température est la même :
+	\[
+	\Delta T_1 = \Delta T_2 = \Delta T
+	\]
+	
+	Le flux total est :
+	\[
+	\Phi = \Phi_1 + \Phi_2
+	\]
+	
+	Donc :
+	\[
+	\Phi = \Delta T \left( \frac{1}{R_1} + \frac{1}{R_2} \right)
+	\]
+	
+	et :
+	\[
+	R = \frac{R_1 R_2}{R_1 + R_2}
+	\]
+	
+	Par conséquent, si l’une des résistances est faible, la résistance totale l’est également : c’est ce qu’on appelle un pont thermique.
+	
+\end{document}

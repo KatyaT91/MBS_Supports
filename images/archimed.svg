@@ -1,0 +1,3482 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   viewBox="0 0 766.0 491.0"
+   version="1.1"
+   id="svg26"
+   sodipodi:docname="archimed.svg"
+   inkscape:version="1.4.3 (0d15f75042, 2025-12-25)"
+   inkscape:export-filename="archimed.png"
+   inkscape:export-xdpi="96"
+   inkscape:export-ydpi="96"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:xlink="http://www.w3.org/1999/xlink"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <sodipodi:namedview
+     id="namedview26"
+     pagecolor="#ffffff"
+     bordercolor="#000000"
+     borderopacity="0.25"
+     inkscape:showpageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#d1d1d1"
+     inkscape:zoom="1.1802444"
+     inkscape:cx="382.54789"
+     inkscape:cy="245.71182"
+     inkscape:window-width="2163"
+     inkscape:window-height="1217"
+     inkscape:window-x="0"
+     inkscape:window-y="0"
+     inkscape:window-maximized="0"
+     inkscape:current-layer="svg26" />
+  <defs
+     id="defs1711">
+    <linearGradient
+       id="linearGradient42"
+       inkscape:collect="always">
+      <stop
+         style="stop-color:#000000;stop-opacity:1;"
+         offset="0"
+         id="stop42" />
+      <stop
+         style="stop-color:#000000;stop-opacity:0;"
+         offset="1"
+         id="stop43" />
+    </linearGradient>
+    <inkscape:path-effect
+       effect="bspline"
+       id="path-effect41"
+       is_visible="true"
+       lpeversion="1.3"
+       weight="33.333333"
+       steps="2"
+       helper_size="0"
+       apply_no_weight="true"
+       apply_with_weight="true"
+       only_selected="false"
+       uniform="false" />
+    <g
+       id="shape171">
+      <path
+         d="M 0,0 H 1.35 V 1.4 H 0 V 0"
+         id="path1198"
+         fill="#000"
+         fill-rule="evenodd"
+         stroke="none" />
+    </g>
+    <g
+       id="shape1"
+       transform="translate(.2)">
+      <path
+         d="M 394,0.75 Q 291.7,2.3 189.45,3.8 171.2,4 153.4,8.65 135.65,13.25 120.2,23.3 102.9,35 88.7,50.35 74.5,65.7 62.4,82.65 32.9,125.05 0.55,165.3"
+         id="path688"
+         fill="none"
+         stroke="#68af23"
+         stroke-width="1.5"
+         stroke-linecap="round"
+         stroke-linejoin="round" />
+    </g>
+    <g
+       id="shape3"
+       transform="translate(.15)">
+      <path
+         d="m 242.55,45.2 q -45,-6.95 -88.6,-19.95 Q 134.05,18.6 114.7,10.6 104.85,6.45 94.2,3.05 83.6,-0.3 72.75,1.35 60.45,4 50.4,12 40.4,20.05 32.45,29.55 15.65,49.3 0.6,70.5"
+         id="path694"
+         fill="none"
+         stroke="#334b97"
+         stroke-width="1.5"
+         stroke-linecap="round"
+         stroke-linejoin="round" />
+    </g>
+    <g
+       id="shape4"
+       transform="translate(.3 .3)">
+      <path
+         d="m 0.45,251.95 q 1.05,-0.8 2.1,-1.65 m 2.8,-2.3 q 1.35,-1.05 2.7,-2.1 m 2.65,-2.2 q 1.25,-1.05 2.5,-2.1 m 2.6,-2.1 q 1.2,-1 2.4,-2 m 2.45,-2.05 q 1.15,-0.95 2.3,-1.9 m 2.35,-2.05 q 1.1,-0.95 2.2,-1.9 m 2.7,-2.35 q 1.3,-1.1 2.6,-2.25 m 2.55,-2.3 q 1.2,-1.05 2.4,-2.15 m 2.45,-2.2 q 1.15,-1.05 2.3,-2.1 m 2.3,-2.05 q 1.3,-1.2 2.6,-2.4 m 2.55,-2.45 q 1.2,-1.15 2.4,-2.3 m 2.5,-2.3 q 1.15,-1.1 2.3,-2.2 m 2.6,-2.5 q 1.2,-1.2 2.4,-2.4 m 2.45,-2.35 q 1.1,-1.1 2.2,-2.2 m 2.55,-2.55 q 1.15,-1.15 2.3,-2.35 M 74,185.85 q 1.2,-1.2 2.4,-2.45 m 2.35,-2.45 q 1.2,-1.25 2.4,-2.5 m 2.3,-2.5 q 1.15,-1.25 2.3,-2.5 m 2.5,-2.6 q 1.15,-1.25 2.3,-2.5 m 2.35,-2.6 q 1.15,-1.25 2.3,-2.5 m 2.3,-2.65 q 1.15,-1.3 2.3,-2.6 m 2.4,-2.65 q 1.1,-1.3 2.2,-2.6 m 2.4,-2.75 q 1.1,-1.3 2.2,-2.6 m 2.35,-2.75 q 1.15,-1.35 2.25,-2.7 m 2.35,-2.8 q 1.1,-1.35 2.2,-2.7 m 2.3,-2.8 q 1.1,-1.35 2.2,-2.7 m 2.1,-2.65 q 0.95,-1.25 1.9,-2.5 m 2.2,-2.8 q 1,-1.3 2,-2.6 m 2.15,-2.75 q 1,-1.3 2,-2.6 m 2.1,-2.8 q 1.05,-1.4 2.1,-2.8 m 2.05,-2.75 q 1,-1.35 2,-2.7 m 2.1,-2.8 q 1,-1.35 2,-2.7 m 2.15,-2.9 q 1,-1.35 2,-2.7 m 2.05,-2.85 q 1,-1.4 2,-2.8 m 2.2,-2.95 q 1,-1.4 2,-2.85 m 2.15,-2.9 q 1,-1.45 2,-2.9 m 2.15,-3 q 1,-1.45 2,-2.9 m 2.1,-2.9 q 0.45,-0.65 0.9,-1.3 0.45,-0.65 0.9,-1.3 m 2.1,-3.05 q 0.95,-1.4 1.9,-2.8 m 1.9,-2.7 q 0.95,-1.4 1.9,-2.8 m 2.15,-3 q 0.95,-1.35 1.9,-2.7 m 2.05,-3 q 1,-1.45 2,-2.9 m 2,-2.8 q 1,-1.45 2,-2.9 m 2.05,-2.95 q 0.95,-1.4 1.9,-2.8 M 197.85,27 q 0.95,-1.4 1.9,-2.8 m 2.1,-3 q 1,-1.45 2,-2.9 m 2.1,-2.95 q 1,-1.45 2,-2.9 M 210,9.5 q 1,-1.45 2,-2.9 m 2.1,-3 q 1,-1.45 2,-2.9"
+         id="path697"
+         fill="none"
+         stroke="#334b97"
+         stroke-width="1.5"
+         stroke-linecap="round"
+         stroke-linejoin="round" />
+    </g>
+    <g
+       id="shape5"
+       transform="translate(.2 .3)">
+      <path
+         d="m 0.55,221.2 q 1.15,-1.3 2.3,-2.6 m 2.4,-2.7 q 1.1,-1.25 2.2,-2.5 m 2.25,-2.55 q 1.05,-1.2 2.1,-2.4 m 2.2,-2.5 q 1,-1.15 2,-2.3 m 2.1,-2.4 q 0.95,-1.1 1.9,-2.2 m 2,-2.3 q 1.15,-1.35 2.3,-2.7 m 2.3,-2.7 q 1.1,-1.3 2.2,-2.6 m 2.15,-2.55 q 1,-1.2 2,-2.4 m 2.1,-2.5 q 0.95,-1.15 1.9,-2.3 m 2.35,-2.85 q 1.1,-1.35 2.2,-2.7 m 2.2,-2.7 q 1.05,-1.25 2.05,-2.5 m 2.1,-2.55 q 0.95,-1.2 1.9,-2.4 M 52,160.55 q 1.05,-1.3 2.1,-2.6 m 2,-2.6 q 1.1,-1.35 2.2,-2.75 m 2.15,-2.75 q 1,-1.25 2,-2.5 m 2.2,-2.85 q 1,-1.3 2,-2.6 m 2.25,-2.85 q 1,-1.3 2,-2.6 m 2.15,-2.9 q 1,-1.3 2,-2.6 m 2.1,-2.8 q 1.05,-1.4 2.1,-2.8 m 2.15,-2.85 q 1,-1.4 2,-2.8 m 2.15,-2.75 q 1,-1.4 2,-2.8 m 2.2,-2.9 q 1,-1.4 2,-2.8 m 2.15,-2.95 q 1,-1.4 2,-2.8 m 2.15,-2.95 q 1,-1.4 2,-2.8 m 2.1,-2.95 q 1,-1.45 2,-2.9 m 2.15,-3 q 0.75,-1.05 1.5,-2.1 0.2,-0.3 0.4,-0.6 m 1.85,-2.8 q 1,-1.45 2,-2.9 M 114,76.75 q 0.9,-1.35 1.8,-2.7 m 1.85,-2.75 q 0.95,-1.45 1.9,-2.9 m 1.95,-2.85 q 0.9,-1.3 1.8,-2.6 m 2,-3 q 0.9,-1.35 1.8,-2.7 m 2,-2.95 q 0.9,-1.35 1.8,-2.7 m 2,-2.95 q 0.95,-1.45 1.9,-2.9 m 2.05,-2.9 q 0.95,-1.4 1.9,-2.8 m 1.95,-2.95 q 0.95,-1.4 1.9,-2.8 m 2.05,-3 q 0.95,-1.4 1.9,-2.8 m 2,-2.95 q 1,-1.45 2,-2.9 m 1.95,-2.95 q 0.95,-1.4 1.9,-2.8 m 2.05,-3.05 q 1,-1.45 2,-2.9 m 2.05,-3 q 1,-1.45 2,-2.9 m 2,-3 q 0.55,-0.8 1.1,-1.6"
+         id="path700"
+         fill="none"
+         stroke="#334b97"
+         stroke-width="1.5"
+         stroke-linecap="round"
+         stroke-linejoin="round" />
+    </g>
+    <g
+       id="shape6"
+       transform="translate(.05 .3)">
+      <path
+         d="m 0.7,190.4 q 0.65,-1.55 1.35,-3.1 m 1.5,-3.25 q 0.7,-1.6 1.45,-3.15 m 1.55,-3.15 q 0.75,-1.6 1.55,-3.15 m 1.7,-3.25 q 0.8,-1.55 1.6,-3.1 m 1.7,-3.15 q 0.85,-1.55 1.7,-3.1 m 1.8,-3.2 q 0.85,-1.55 1.75,-3.05 m 1.75,-2.95 q 0.9,-1.5 1.8,-3 m 1.8,-3.05 q 0.85,-1.45 1.7,-2.9 m 1.95,-3.1 q 0.85,-1.45 1.75,-2.9 M 31,134.7 q 0.9,-1.5 1.8,-3 m 1.9,-3 q 0.9,-1.5 1.8,-3 m 1.95,-3.1 q 0.9,-1.5 1.8,-3 m 1.95,-3.1 q 0.9,-1.45 1.8,-2.9 m 1.8,-2.95 q 0.8,-1.35 1.6,-2.7 M 49.25,105 q 0.85,-1.4 1.7,-2.8 m 1.85,-3 q 0.85,-1.4 1.7,-2.8 m 1.85,-2.95 q 0.9,-1.5 1.8,-3 M 60,87.55 q 0.85,-1.45 1.7,-2.9 m 1.9,-2.95 q 0.85,-1.4 1.7,-2.8 m 1.9,-3.1 q 0.85,-1.45 1.7,-2.9 m 1.95,-2.95 q 0.9,-1.5 1.8,-3 m 1.9,-3.05 q 0.9,-1.5 1.8,-3 m 2,-3.1 q 0.9,-1.5 1.8,-3 m 1.95,-3.05 q 0.9,-1.5 1.8,-3 m 1.95,-3.1 q 0.4,-0.65 0.8,-1.3 0.45,-0.8 0.9,-1.6 M 89.4,39.8 q 0.85,-1.45 1.7,-2.85 m 1.95,-3.1 q 0.9,-1.45 1.8,-2.9 M 96.8,27.9 q 0.9,-1.45 1.8,-2.9 m 2.05,-3.1 q 0.9,-1.45 1.8,-2.9 m 2,-3.05 q 0.95,-1.45 1.9,-2.9 m 2,-3 q 0.95,-1.45 1.9,-2.9 m 2.1,-3.1 q 1,-1.45 2,-2.9"
+         id="path703"
+         fill="none"
+         stroke="#334b97"
+         stroke-width="1.5"
+         stroke-linecap="round"
+         stroke-linejoin="round" />
+    </g>
+    <g
+       id="shape7"
+       transform="translate(0 .35)">
+      <path
+         d="m 1.05,159.65 q -0.1,-1.7 -0.1,-3.4 m -0.1,-3.6 q 0,-1.75 0.05,-3.5 m 0.25,-3.5 q 0.1,-1.75 0.25,-3.5 m 0.5,-3.6 q 0.25,-1.75 0.55,-3.5 m 0.75,-3.5 q 0.35,-1.7 0.75,-3.4 m 1,-3.5 q 0.45,-1.7 1,-3.4 M 7.1,117.9 q 0.55,-1.6 1.1,-3.2 m 1.3,-3.45 q 0.6,-1.65 1.2,-3.3 m 1.3,-3.3 q 0.65,-1.65 1.3,-3.3 M 14.65,98 q 0.65,-1.6 1.3,-3.2 m 1.45,-3.35 q 0.7,-1.6 1.4,-3.2 m 1.5,-3.35 q 0.7,-1.6 1.45,-3.2 m 1.55,-3.2 q 0.65,-1.5 1.3,-3 m 1.5,-3.25 q 0.7,-1.5 1.4,-3 m 1.55,-3.35 q 0.7,-1.5 1.4,-3 M 32,59.65 q 0.7,-1.5 1.4,-3 m 1.6,-3.2 q 0.75,-1.55 1.5,-3.1 M 38.15,47.1 Q 38.9,45.55 39.7,44 m 1.65,-3.1 q 0.8,-1.55 1.6,-3.1 m 1.7,-3.25 q 0.8,-1.55 1.6,-3.1 m 1.7,-3.05 q 0.8,-1.55 1.6,-3.05 m 1.8,-3.15 q 0.85,-1.5 1.7,-3 m 1.8,-3.2 q 0.85,-1.5 1.7,-3 M 58.4,9.8 Q 59.15,8.5 59.9,7.2 60,7 60.1,6.8 m 2,-3.1 Q 63.05,2.2 64,0.75"
+         id="path706"
+         fill="none"
+         stroke="#334b97"
+         stroke-width="1.5"
+         stroke-linecap="round"
+         stroke-linejoin="round" />
+    </g>
+    <g
+       id="shape8"
+       transform="translate(0 .5)">
+      <path
+         d="M 11.5,128.75 Q 10.55,127.3 9.7,125.8 m -1.8,-3.2 q -0.8,-1.55 -1.5,-3.1 m -1.35,-3.25 q -0.6,-1.65 -1.1,-3.3 m -1.1,-3.5 Q 2.4,107.75 2.1,106 m -0.65,-3.6 q -0.2,-1.75 -0.3,-3.5 M 0.9,95.35 Q 0.85,93.6 0.85,91.85 m 0,-3.6 Q 0.85,86.5 0.9,84.7 M 1.2,81.1 Q 1.3,79.35 1.45,77.6 M 2,74 q 0.2,-1.75 0.45,-3.5 m 0.7,-3.55 q 0.3,-1.75 0.65,-3.5 m 0.9,-3.4 q 0.4,-1.7 0.8,-3.4 M 6.35,53.4 q 0.4,-1.65 0.85,-3.3 m 0.95,-3.55 q 0.45,-1.7 0.9,-3.4 m 1.05,-3.4 q 0.45,-1.65 0.95,-3.3 m 1.1,-3.4 q 0.5,-1.7 1,-3.4 M 14.3,26.3 q 0.5,-1.6 1.05,-3.2 m 1.25,-3.4 q 0.55,-1.65 1.1,-3.3 m 1.25,-3.35 q 0.6,-1.65 1.2,-3.3 m 1.35,-3.4 q 0.6,-1.65 1.25,-3.3"
+         id="path709"
+         fill="none"
+         stroke="#334b97"
+         stroke-width="1.5"
+         stroke-linecap="round"
+         stroke-linejoin="round" />
+    </g>
+    <g
+       id="shape9"
+       transform="translate(.1)">
+      <path
+         d="m 39.05,102.7 q -1.4,-1 -2.75,-2.05 m -2.65,-2.1 q -1.3,-1.05 -2.5,-2.15 m -2.6,-2.5 Q 27.3,92.7 26.15,91.45 M 23.8,88.8 q -1.1,-1.3 -2.1,-2.6 m -2.15,-2.9 q -1,-1.45 -1.95,-2.95 m -1.85,-3.1 Q 14.95,75.75 14.2,74.2 M 12.65,71 q -0.7,-1.6 -1.3,-3.25 M 10.1,64.35 Q 9.55,62.7 9.1,61 M 8.15,57.45 Q 7.75,55.75 7.45,54 M 6.8,50.4 Q 6.7,49.4 6.6,48.4 6.55,47.7 6.5,47 M 6.2,43.4 Q 6.15,41.65 6.1,39.9 M 5.9,36.3 q 0,-1.75 0,-3.5 M 5.85,29.15 q 0,-1.75 0,-3.5 M 6.05,22 Q 6.1,20.25 6.2,18.5 m 0.4,-3.6 q 0.15,-1.75 0.2,-3.5 m 0,-3.65 Q 6.75,6 6.6,4.25 M 5.45,0.85 q -0.8,-0.55 -2,0.6 -0.5,0.5 -0.95,1"
+         id="path712"
+         fill="none"
+         stroke="#334b97"
+         stroke-width="1.5"
+         stroke-linecap="round"
+         stroke-linejoin="round" />
+    </g>
+    <g
+       id="shape10"
+       transform="translate(.15)">
+      <path
+         d="M 89.95,82.95 Q 88.4,82.3 86.85,81.6 M 83.65,80 Q 82.1,79.25 80.55,78.45 M 77.3,76.7 Q 75.75,75.85 74.25,75 m -3.1,-1.85 q -1.5,-0.9 -2.95,-1.85 m -3.05,-2.05 q -1.45,-1 -2.9,-2 M 59.3,65.1 Q 58.75,64.7 58.2,64.3 57.4,63.7 56.6,63.1 M 53.85,60.7 Q 52.55,59.6 51.3,58.4 M 48.75,55.8 Q 47.55,54.55 46.4,53.2 M 44.05,50.4 Q 43,49.05 42,47.65 M 39.9,44.7 q -0.95,-1.45 -1.85,-2.95 m -1.85,-3.2 q -0.65,-1.2 -1.25,-2.45 -0.1,-0.3 -0.2,-0.6 m -1.6,-3.4 Q 32.5,30.5 31.85,28.85 M 30.5,25.45 Q 29.9,23.8 29.35,22.1 m -1.2,-3.4 Q 27.6,17 27,15.35 m -1.4,-3.4 Q 24.9,10.3 24.15,8.7 M 22.55,5.45 Q 22.3,4.95 22.05,4.45 21.4,3.35 20.7,2.6 M 17.45,0.7 q -1.4,-0.2 -2.9,0.55 -0.25,0.1 -0.5,0.2 M 11,3.55 Q 9.7,4.6 8.45,5.95 m -2.4,2.7 q -1.15,1.5 -2.15,2.8 m -2.2,2.9 q -0.6,0.8 -1.05,1.5"
+         id="path715"
+         fill="none"
+         stroke="#334b97"
+         stroke-width="1.5"
+         stroke-linecap="round"
+         stroke-linejoin="round" />
+    </g>
+    <g
+       id="shape11"
+       transform="translate(.15)">
+      <path
+         d="m 140.75,67.95 q -1.6,-0.45 -3.2,-0.95 m -3.45,-1.15 q -1.7,-0.55 -3.35,-1.1 m -3.45,-1.2 Q 125.7,63 124.1,62.4 m -3.35,-1.3 q -1.6,-0.6 -3.2,-1.2 m -3.3,-1.4 q -1.6,-0.65 -3.2,-1.35 m -3.35,-1.5 q -1.6,-0.7 -3.2,-1.45 m -3.3,-1.55 q -0.5,-0.25 -1,-0.5 Q 99.25,51.7 98.3,51.2 M 95,49.45 Q 93.5,48.65 92,47.8 M 88.95,46 q -1.5,-0.9 -3,-1.85 M 83,42.2 q -1.45,-0.95 -2.85,-1.95 m -2.9,-2.1 Q 75.85,37.1 74.5,36 M 71.65,33.7 Q 70.3,32.6 69,31.45 M 66.3,29 Q 65.45,28.2 64.6,27.4 64.2,27 63.8,26.6 M 61.25,23.95 Q 60.05,22.7 58.85,21.4 M 56.4,18.75 q -1.15,-1.3 -2.3,-2.6 m -2.45,-2.8 q -0.5,-0.55 -1,-1.1 -0.6,-0.75 -1.25,-1.5 M 46.9,8.05 Q 45.7,6.8 44.4,5.55 M 41.55,3.25 Q 40.05,2.3 38.4,1.7 M 34.9,0.85 Q 33.15,0.8 31.45,1.05 M 27.9,2 Q 26.3,2.6 24.75,3.55 M 21.8,5.7 q -1.3,1.1 -2.55,2.45 m -2.45,2.7 q -1.2,1.35 -2.3,2.65 m -2.3,2.75 Q 11.05,17.65 10,19 m -2.2,2.9 q -0.6,0.85 -1.15,1.7 -0.4,0.55 -0.8,1.1 m -2.3,2.9 Q 2.5,29 1.5,30.45"
+         id="path718"
+         fill="none"
+         stroke="#334b97"
+         stroke-width="1.5"
+         stroke-linecap="round"
+         stroke-linejoin="round" />
+    </g>
+    <g
+       id="shape12"
+       transform="translate(.15)">
+      <path
+         d="m 191.65,54.9 q -1.65,-0.35 -3.3,-0.7 m -3.6,-0.85 Q 183.1,53 181.45,52.6 M 178,51.7 q -1.7,-0.4 -3.4,-0.8 m -3.45,-0.95 q -1.65,-0.4 -3.3,-0.85 m -3.5,-1 q -1.7,-0.45 -3.4,-0.9 m -3.5,-1.05 q -1.7,-0.45 -3.4,-0.95 m -3.45,-1.1 q -0.9,-0.25 -1.8,-0.5 -0.75,-0.2 -1.5,-0.4 m -3.45,-1.25 q -1.6,-0.5 -3.2,-1.05 m -3.35,-1.2 q -1.6,-0.55 -3.2,-1.15 m -3.4,-1.35 q -1.6,-0.6 -3.2,-1.25 m -3.35,-1.4 q -1.6,-0.65 -3.2,-1.35 m -3.3,-1.5 q -1.6,-0.7 -3.2,-1.45 m -3.3,-1.6 q -1.6,-0.75 -3.2,-1.55 m -3.1,-1.8 q -1.5,-0.85 -3,-1.75 m -3.2,-1.9 q -1.5,-0.85 -3,-1.75 M 92.6,18.1 q -1.5,-0.9 -3,-1.8 m -3.1,-1.85 q -1.5,-0.9 -3,-1.8 m -3.1,-1.9 q -1.5,-0.9 -3,-1.8 M 74.3,7 Q 73,6.25 71.7,5.45 71.5,5.35 71.3,5.25 M 68.05,3.6 Q 66.4,2.9 64.8,2.35 m -3.5,-1 Q 59.5,1 57.75,0.85 m -3.6,-0.1 Q 53,0.8 51.85,0.95 51.3,1 50.75,1.1 M 47.2,2.05 q -1.6,0.5 -3.25,1.2 m -3.25,1.7 q -1.5,0.85 -3,1.85 m -2.9,2.15 q -0.65,0.5 -1.3,1.05 -0.65,0.55 -1.25,1.1 M 29.5,13.6 Q 28.25,14.8 27,16 m -2.6,2.6 q -1.2,1.25 -2.35,2.55 m -2.4,2.75 q -1.15,1.35 -2.25,2.75 m -2.2,2.8 q -1.05,1.35 -2.1,2.7 m -2.15,2.9 q -1.05,1.4 -2.1,2.8 M 6.75,40.8 Q 5.7,42.2 4.7,43.6 m -2.15,2.95 q -0.95,1.4 -1.9,2.8"
+         id="path721"
+         fill="none"
+         stroke="#334b97"
+         stroke-width="1.5"
+         stroke-linecap="round"
+         stroke-linejoin="round" />
+    </g>
+    <g
+       id="shape13"
+       transform="translate(.35)">
+      <path
+         d="m 621.7,1.1 q -51.8,0 -103.6,0 -2.05,-0.1 -4.9,-0.35 -2.85,-0.2 -4.7,0.7 -10.65,6.45 -21.3,12.9 -18.05,10.9 -36.1,21.8 -80.2,48.6 -160.5,97.05 -80.95,48.85 -161.85,97.85 -64.2,38.8 -128.35,77.6"
+         id="path724"
+         fill="none"
+         stroke="#68af23"
+         stroke-width="1.5"
+         stroke-linecap="round"
+         stroke-linejoin="round" />
+    </g>
+    <g
+       id="shape14"
+       transform="translate(.3)">
+      <path
+         d="M 588.95,0.85 Q 542,0.8 495.05,0.9 470.2,1 445.35,0.95 q -6.35,0 -12.7,0 -2.45,-0.4 -4.75,0.1 -10,6.95 -20.05,13.9 -75.6,52.2 -151.2,104.45 -78.6,54.3 -157.2,108.65 -49.5,34.2 -99,68.45"
+         id="path727"
+         fill="none"
+         stroke="#68af23"
+         stroke-width="1.5"
+         stroke-linecap="round"
+         stroke-linejoin="round" />
+    </g>
+    <g
+       id="shape15"
+       transform="translate(.3)">
+      <path
+         d="m 560.6,0.95 q -91.95,-0.5 -183.8,0.25 -5.1,-0.5 -10.05,0.1 -3.15,0.9 -5.9,3.5 -12.5,9.7 -25,19.4 Q 317.6,38.35 299.4,52.6 262.9,80.95 226.35,109.3 153.4,166.05 80.4,222.8 40.4,253.85 0.45,284.95"
+         id="path730"
+         fill="none"
+         stroke="#68af23"
+         stroke-width="1.5"
+         stroke-linecap="round"
+         stroke-linejoin="round" />
+    </g>
+    <g
+       id="shape16"
+       transform="translate(.25)">
+      <path
+         d="M 535.25,0.8 Q 443.5,0.55 351.8,1.1 q -10.5,0.1 -21,0.3 -3.35,-0.1 -8.75,-0.35 -5.4,-0.3 -8,1.4 -17,14.75 -34,29.4 -35.85,30.95 -71.7,61.9 -71.8,61.95 -143.5,123.95 -32.2,27.8 -64.35,55.65"
+         id="path733"
+         fill="none"
+         stroke="#68af23"
+         stroke-width="1.5"
+         stroke-linecap="round"
+         stroke-linejoin="round" />
+    </g>
+    <g
+       id="shape17"
+       transform="translate(.25)">
+      <path
+         d="M 511.9,0.9 Q 418.55,0.4 325.2,1.3 304.8,1.35 284.5,2.7 279.75,2.85 275.9,3.3 272.05,3.75 268.55,6.9 257.7,17.2 246.8,27.5 216.25,56.55 185.7,85.65 119.35,148.5 53.15,211.45 26.85,236.55 0.5,261.55"
+         id="path736"
+         fill="none"
+         stroke="#68af23"
+         stroke-width="1.5"
+         stroke-linecap="round"
+         stroke-linejoin="round" />
+    </g>
+    <g
+       id="shape18"
+       transform="translate(.2)">
+      <path
+         d="m 489.8,0.8 q -93.85,-0.35 -187.75,0.5 -20.85,0.15 -41.6,1.85 -9.8,0.8 -19.4,2.45 -1.7,0.2 -4.1,0.5 -2.4,0.3 -3.65,1.4 -4.6,4.8 -9.25,9.6 -31.6,32.75 -63.2,65.45 -66.65,69.15 -133.3,138.3 -13.5,13.95 -27,27.9"
+         id="path739"
+         fill="none"
+         stroke="#68af23"
+         stroke-width="1.5"
+         stroke-linecap="round"
+         stroke-linejoin="round" />
+    </g>
+    <g
+       id="shape19"
+       transform="translate(.15)">
+      <path
+         d="m 444.95,0.75 q -96,0.5 -192.05,0.95 -19.9,-0.1 -40.15,2.8 -20.3,2.95 -38.55,11.15 -9.7,3.75 -16.7,11.05 -7.35,8.95 -14.75,17.9 -15.25,18.45 -30.5,36.95 -55.9,67.4 -111.65,135"
+         id="path742"
+         fill="none"
+         stroke="#68af23"
+         stroke-width="1.5"
+         stroke-linecap="round"
+         stroke-linejoin="round" />
+    </g>
+    <g
+       id="shape20"
+       transform="translate(.2)">
+      <path
+         d="m 302.45,0.75 q -97.1,1.2 -194.2,2.4 Q 93.85,3.4 79.1,7.05 64.35,10.7 51.45,17.05 36.6,24.55 24.1,35.3 11.65,46.1 0.55,58.35"
+         id="path745"
+         fill="none"
+         stroke="#68af23"
+         stroke-width="1.5"
+         stroke-linecap="round"
+         stroke-linejoin="round" />
+    </g>
+    <g
+       id="shape21"
+       transform="translate(.25)">
+      <path
+         d="M 69.55,0.75 Q 49.7,4.15 32.35,14.05 14.95,23.95 0.5,37.7"
+         id="path748"
+         fill="none"
+         stroke="#68af23"
+         stroke-width="1.5"
+         stroke-linecap="round"
+         stroke-linejoin="round" />
+    </g>
+    <g
+       id="shape22"
+       transform="translate(.35 .35)">
+      <path
+         d="M 0.4,119.45 Q 35.95,96.9 63.65,66.6 91.4,36.35 113,0.4"
+         id="path751"
+         fill="none"
+         stroke="#b25497"
+         stroke-width="1.5"
+         stroke-linecap="round"
+         stroke-linejoin="round" />
+    </g>
+    <g
+       id="shape23"
+       transform="translate(.3 .4)">
+      <path
+         d="M 0.45,123.4 Q 33.8,99.25 60.45,67.95 87.1,36.65 106.6,0.35"
+         id="path754"
+         fill="none"
+         stroke="#b25497"
+         stroke-width="1.5"
+         stroke-linecap="round"
+         stroke-linejoin="round" />
+    </g>
+    <g
+       id="shape24"
+       transform="translate(.3 .4)">
+      <path
+         d="M 0.45,114.45 Q 29.25,91.05 53.1,62.15 76.9,33.3 94.15,0.35"
+         id="path757"
+         fill="none"
+         stroke="#b25497"
+         stroke-width="1.5"
+         stroke-linecap="round"
+         stroke-linejoin="round" />
+    </g>
+    <g
+       id="shape25"
+       transform="translate(.25 .4)">
+      <path
+         d="M 0.5,105.8 Q 26.25,83.1 47.05,55.85 57.05,42.9 66.6,28.95 76.1,15.05 83.4,0.35"
+         id="path760"
+         fill="none"
+         stroke="#b25497"
+         stroke-width="1.5"
+         stroke-linecap="round"
+         stroke-linejoin="round" />
+    </g>
+    <g
+       id="shape26"
+       transform="translate(.25 .4)">
+      <path
+         d="M 0.5,98.15 Q 45,55.05 74.15,0.35"
+         id="path763"
+         fill="none"
+         stroke="#b25497"
+         stroke-width="1.5"
+         stroke-linecap="round"
+         stroke-linejoin="round" />
+    </g>
+    <g
+       id="shape27"
+       transform="translate(.2 .4)">
+      <path
+         d="m 0.55,92.05 q 39.5,-41.3 66.4,-91.7"
+         id="path766"
+         fill="none"
+         stroke="#b25497"
+         stroke-width="1.5"
+         stroke-linecap="round"
+         stroke-linejoin="round" />
+    </g>
+    <g
+       id="shape28"
+       transform="translate(.2 .4)">
+      <path
+         d="M 0.55,88.55 Q 36.15,47.9 61.85,0.35"
+         id="path769"
+         fill="none"
+         stroke="#b25497"
+         stroke-width="1.5"
+         stroke-linecap="round"
+         stroke-linejoin="round" />
+    </g>
+    <g
+       id="shape29"
+       transform="translate(.15 .4)">
+      <path
+         d="M 0.6,85.25 Q 33.25,45.55 57.85,0.35"
+         id="path772"
+         fill="none"
+         stroke="#b25497"
+         stroke-width="1.5"
+         stroke-linecap="round"
+         stroke-linejoin="round" />
+    </g>
+    <g
+       id="shape30"
+       transform="translate(.15 .4)">
+      <path
+         d="M 0.6,86.1 Q 31.8,45.25 57,0.35"
+         id="path775"
+         fill="none"
+         stroke="#b25497"
+         stroke-width="1.5"
+         stroke-linecap="round"
+         stroke-linejoin="round" />
+    </g>
+    <g
+       id="shape31"
+       transform="translate(.15 .4)">
+      <path
+         d="M 0.6,106.25 Q 38.05,55.25 69.55,0.35"
+         id="path778"
+         fill="none"
+         stroke="#b25497"
+         stroke-width="1.5"
+         stroke-linecap="round"
+         stroke-linejoin="round" />
+    </g>
+    <g
+       id="shape32"
+       transform="translate(.35 .4)">
+      <path
+         d="m 0.4,399.15 q 39.35,-24.5 75.45,-53.6 35.05,-29.3 66.05,-62.9 32.2,-34.65 60.35,-72.75 28.15,-38.15 55,-76.95 45.7,-64.2 84.85,-132.6"
+         id="path781"
+         fill="none"
+         stroke="#b25497"
+         stroke-width="1.5"
+         stroke-linecap="round"
+         stroke-linejoin="round" />
+    </g>
+    <g
+       id="shape33"
+       transform="translate(0 .2)">
+      <path
+         d="M 0.25,0 V 8.8"
+         id="path784"
+         fill="none"
+         stroke="#000"
+         stroke-width=".45"
+         stroke-linecap="round"
+         stroke-linejoin="round" />
+    </g>
+    <g
+       id="shape34"
+       transform="translate(0 .2)">
+      <path
+         d="M 0.25,0 V 8.8"
+         id="path787"
+         fill="none"
+         stroke="#000"
+         stroke-width=".45"
+         stroke-linecap="round"
+         stroke-linejoin="round" />
+    </g>
+    <g
+       id="shape35"
+       transform="translate(0 .2)">
+      <path
+         d="M 0.25,0 V 8.8"
+         id="path790"
+         fill="none"
+         stroke="#000"
+         stroke-width=".45"
+         stroke-linecap="round"
+         stroke-linejoin="round" />
+    </g>
+    <g
+       id="shape36"
+       transform="translate(0 .2)">
+      <path
+         d="M 0.2,0 V 8.8"
+         id="path793"
+         fill="none"
+         stroke="#000"
+         stroke-width=".45"
+         stroke-linecap="round"
+         stroke-linejoin="round" />
+    </g>
+    <g
+       id="shape37"
+       transform="translate(0 .2)">
+      <path
+         d="M 0.2,0 V 8.8"
+         id="path796"
+         fill="none"
+         stroke="#000"
+         stroke-width=".45"
+         stroke-linecap="round"
+         stroke-linejoin="round" />
+    </g>
+    <g
+       id="shape38"
+       transform="translate(0 .2)">
+      <path
+         d="M 0.2,0 V 8.8"
+         id="path799"
+         fill="none"
+         stroke="#000"
+         stroke-width=".45"
+         stroke-linecap="round"
+         stroke-linejoin="round" />
+    </g>
+    <g
+       id="shape39"
+       transform="translate(0 .2)">
+      <path
+         d="M 0.25,0 V 6.55"
+         id="path802"
+         fill="none"
+         stroke="#000"
+         stroke-width=".45"
+         stroke-linecap="round"
+         stroke-linejoin="round" />
+    </g>
+    <g
+       id="shape40"
+       transform="translate(0 .2)">
+      <path
+         d="M 0.25,0 V 6.55"
+         id="path805"
+         fill="none"
+         stroke="#000"
+         stroke-width=".45"
+         stroke-linecap="round"
+         stroke-linejoin="round" />
+    </g>
+    <g
+       id="shape41"
+       transform="translate(0 .2)">
+      <path
+         d="M 0.25,0 V 6.55"
+         id="path808"
+         fill="none"
+         stroke="#000"
+         stroke-width=".45"
+         stroke-linecap="round"
+         stroke-linejoin="round" />
+    </g>
+    <g
+       id="shape42"
+       transform="translate(0 .2)">
+      <path
+         d="M 0.25,0 V 6.55"
+         id="path811"
+         fill="none"
+         stroke="#000"
+         stroke-width=".45"
+         stroke-linecap="round"
+         stroke-linejoin="round" />
+    </g>
+    <g
+       id="shape43"
+       transform="translate(0 .2)">
+      <path
+         d="M 0.25,0 V 6.55"
+         id="path814"
+         fill="none"
+         stroke="#000"
+         stroke-width=".45"
+         stroke-linecap="round"
+         stroke-linejoin="round" />
+    </g>
+    <g
+       id="shape44"
+       transform="translate(0 .2)">
+      <path
+         d="M 0.25,0 V 6.55"
+         id="path817"
+         fill="none"
+         stroke="#000"
+         stroke-width=".45"
+         stroke-linecap="round"
+         stroke-linejoin="round" />
+    </g>
+    <g
+       id="shape45"
+       transform="translate(0 .2)">
+      <path
+         d="M 0.25,0 V 6.55"
+         id="path820"
+         fill="none"
+         stroke="#000"
+         stroke-width=".45"
+         stroke-linecap="round"
+         stroke-linejoin="round" />
+    </g>
+    <g
+       id="shape46"
+       transform="translate(0 .2)">
+      <path
+         d="M 0.25,0 V 6.55"
+         id="path823"
+         fill="none"
+         stroke="#000"
+         stroke-width=".45"
+         stroke-linecap="round"
+         stroke-linejoin="round" />
+    </g>
+    <g
+       id="shape47"
+       transform="translate(0 .2)">
+      <path
+         d="M 0.25,0 V 6.55"
+         id="path826"
+         fill="none"
+         stroke="#000"
+         stroke-width=".45"
+         stroke-linecap="round"
+         stroke-linejoin="round" />
+    </g>
+    <g
+       id="shape48"
+       transform="translate(0 .2)">
+      <path
+         d="M 0.25,0 V 6.55"
+         id="path829"
+         fill="none"
+         stroke="#000"
+         stroke-width=".45"
+         stroke-linecap="round"
+         stroke-linejoin="round" />
+    </g>
+    <g
+       id="shape49"
+       transform="translate(0 .2)">
+      <path
+         d="M 0.2,0 V 6.55"
+         id="path832"
+         fill="none"
+         stroke="#000"
+         stroke-width=".45"
+         stroke-linecap="round"
+         stroke-linejoin="round" />
+    </g>
+    <g
+       id="shape50"
+       transform="translate(0 .2)">
+      <path
+         d="M 0.2,0 V 6.55"
+         id="path835"
+         fill="none"
+         stroke="#000"
+         stroke-width=".45"
+         stroke-linecap="round"
+         stroke-linejoin="round" />
+    </g>
+    <g
+       id="shape51"
+       transform="translate(0 .2)">
+      <path
+         d="M 0.2,0 V 6.55"
+         id="path838"
+         fill="none"
+         stroke="#000"
+         stroke-width=".45"
+         stroke-linecap="round"
+         stroke-linejoin="round" />
+    </g>
+    <g
+       id="shape52"
+       transform="translate(0 .2)">
+      <path
+         d="M 0.2,0 V 6.55"
+         id="path841"
+         fill="none"
+         stroke="#000"
+         stroke-width=".45"
+         stroke-linecap="round"
+         stroke-linejoin="round" />
+    </g>
+    <g
+       id="shape53"
+       transform="translate(0 .2)">
+      <path
+         d="M 0.2,0 V 6.55"
+         id="path844"
+         fill="none"
+         stroke="#000"
+         stroke-width=".45"
+         stroke-linecap="round"
+         stroke-linejoin="round" />
+    </g>
+    <g
+       id="shape54"
+       transform="translate(0 .2)">
+      <path
+         d="M 0.2,0 V 6.55"
+         id="path847"
+         fill="none"
+         stroke="#000"
+         stroke-width=".45"
+         stroke-linecap="round"
+         stroke-linejoin="round" />
+    </g>
+    <g
+       id="shape55"
+       transform="translate(0 .2)">
+      <path
+         d="M 0.2,0 V 6.55"
+         id="path850"
+         fill="none"
+         stroke="#000"
+         stroke-width=".45"
+         stroke-linecap="round"
+         stroke-linejoin="round" />
+    </g>
+    <g
+       id="shape56"
+       transform="translate(0 .2)">
+      <path
+         d="M 0.2,0 V 6.55"
+         id="path853"
+         fill="none"
+         stroke="#000"
+         stroke-width=".45"
+         stroke-linecap="round"
+         stroke-linejoin="round" />
+    </g>
+    <g
+       id="shape57"
+       transform="translate(0 .2)">
+      <path
+         d="M 0.2,0 V 6.55"
+         id="path856"
+         fill="none"
+         stroke="#000"
+         stroke-width=".45"
+         stroke-linecap="round"
+         stroke-linejoin="round" />
+    </g>
+    <g
+       id="shape58"
+       transform="translate(0 .2)">
+      <path
+         d="M 0.2,0 V 6.55"
+         id="path859"
+         fill="none"
+         stroke="#000"
+         stroke-width=".45"
+         stroke-linecap="round"
+         stroke-linejoin="round" />
+    </g>
+    <g
+       id="shape59"
+       transform="translate(0 .2)">
+      <path
+         d="M 0.2,0 V 6.55"
+         id="path862"
+         fill="none"
+         stroke="#000"
+         stroke-width=".45"
+         stroke-linecap="round"
+         stroke-linejoin="round" />
+    </g>
+    <g
+       id="shape60"
+       transform="translate(0 .2)">
+      <path
+         d="M 0.2,0 V 6.55"
+         id="path865"
+         fill="none"
+         stroke="#000"
+         stroke-width=".45"
+         stroke-linecap="round"
+         stroke-linejoin="round" />
+    </g>
+    <g
+       id="shape61"
+       transform="translate(0 .2)">
+      <path
+         d="M 0.2,0 V 6.55"
+         id="path868"
+         fill="none"
+         stroke="#000"
+         stroke-width=".45"
+         stroke-linecap="round"
+         stroke-linejoin="round" />
+    </g>
+    <g
+       id="shape62"
+       transform="translate(.2)">
+      <path
+         d="M 8.35,0.2 H 0"
+         id="path871"
+         fill="none"
+         stroke="#000"
+         stroke-width=".45"
+         stroke-linecap="round"
+         stroke-linejoin="round" />
+    </g>
+    <g
+       id="shape63"
+       transform="translate(.2)">
+      <path
+         d="M 8.35,0.2 H 0"
+         id="path874"
+         fill="none"
+         stroke="#000"
+         stroke-width=".45"
+         stroke-linecap="round"
+         stroke-linejoin="round" />
+    </g>
+    <g
+       id="shape64"
+       transform="translate(.2)">
+      <path
+         d="M 8.35,0.2 H 0"
+         id="path877"
+         fill="none"
+         stroke="#000"
+         stroke-width=".45"
+         stroke-linecap="round"
+         stroke-linejoin="round" />
+    </g>
+    <g
+       id="shape65"
+       transform="translate(.2)">
+      <path
+         d="M 8.35,0.2 H 0"
+         id="path880"
+         fill="none"
+         stroke="#000"
+         stroke-width=".45"
+         stroke-linecap="round"
+         stroke-linejoin="round" />
+    </g>
+    <g
+       id="shape66"
+       transform="translate(.2)">
+      <path
+         d="M 8.35,0.25 H 0"
+         id="path883"
+         fill="none"
+         stroke="#000"
+         stroke-width=".45"
+         stroke-linecap="round"
+         stroke-linejoin="round" />
+    </g>
+    <g
+       id="shape67"
+       transform="translate(.2)">
+      <path
+         d="M 8.35,0.25 H 0"
+         id="path886"
+         fill="none"
+         stroke="#000"
+         stroke-width=".45"
+         stroke-linecap="round"
+         stroke-linejoin="round" />
+    </g>
+    <g
+       id="shape68"
+       transform="translate(.2)">
+      <path
+         d="M 8.35,0.25 H 0"
+         id="path889"
+         fill="none"
+         stroke="#000"
+         stroke-width=".45"
+         stroke-linecap="round"
+         stroke-linejoin="round" />
+    </g>
+    <g
+       id="shape69"
+       transform="translate(.2)">
+      <path
+         d="M 8.35,0.25 H 0"
+         id="path892"
+         fill="none"
+         stroke="#000"
+         stroke-width=".45"
+         stroke-linecap="round"
+         stroke-linejoin="round" />
+    </g>
+    <g
+       id="shape70"
+       transform="translate(.2)">
+      <path
+         d="M 6.25,0.2 H 0"
+         id="path895"
+         fill="none"
+         stroke="#000"
+         stroke-width=".45"
+         stroke-linecap="round"
+         stroke-linejoin="round" />
+    </g>
+    <g
+       id="shape71"
+       transform="translate(.2)">
+      <path
+         d="M 6.25,0.2 H 0"
+         id="path898"
+         fill="none"
+         stroke="#000"
+         stroke-width=".45"
+         stroke-linecap="round"
+         stroke-linejoin="round" />
+    </g>
+    <g
+       id="shape72"
+       transform="translate(.2)">
+      <path
+         d="M 6.25,0.2 H 0"
+         id="path901"
+         fill="none"
+         stroke="#000"
+         stroke-width=".45"
+         stroke-linecap="round"
+         stroke-linejoin="round" />
+    </g>
+    <g
+       id="shape73"
+       transform="translate(.2)">
+      <path
+         d="M 6.25,0.2 H 0"
+         id="path904"
+         fill="none"
+         stroke="#000"
+         stroke-width=".45"
+         stroke-linecap="round"
+         stroke-linejoin="round" />
+    </g>
+    <g
+       id="shape74"
+       transform="translate(.2)">
+      <path
+         d="M 6.25,0.2 H 0"
+         id="path907"
+         fill="none"
+         stroke="#000"
+         stroke-width=".45"
+         stroke-linecap="round"
+         stroke-linejoin="round" />
+    </g>
+    <g
+       id="shape75"
+       transform="translate(.2)">
+      <path
+         d="M 6.25,0.2 H 0"
+         id="path910"
+         fill="none"
+         stroke="#000"
+         stroke-width=".45"
+         stroke-linecap="round"
+         stroke-linejoin="round" />
+    </g>
+    <g
+       id="shape76"
+       transform="translate(.2)">
+      <path
+         d="M 6.25,0.2 H 0"
+         id="path913"
+         fill="none"
+         stroke="#000"
+         stroke-width=".45"
+         stroke-linecap="round"
+         stroke-linejoin="round" />
+    </g>
+    <g
+       id="shape77"
+       transform="translate(.2)">
+      <path
+         d="M 6.25,0.25 H 0"
+         id="path916"
+         fill="none"
+         stroke="#000"
+         stroke-width=".45"
+         stroke-linecap="round"
+         stroke-linejoin="round" />
+    </g>
+    <g
+       id="shape78"
+       transform="translate(.2)">
+      <path
+         d="M 6.25,0.25 H 0"
+         id="path919"
+         fill="none"
+         stroke="#000"
+         stroke-width=".45"
+         stroke-linecap="round"
+         stroke-linejoin="round" />
+    </g>
+    <g
+       id="shape79"
+       transform="translate(.2)">
+      <path
+         d="M 6.25,0.25 H 0"
+         id="path922"
+         fill="none"
+         stroke="#000"
+         stroke-width=".45"
+         stroke-linecap="round"
+         stroke-linejoin="round" />
+    </g>
+    <g
+       id="shape80"
+       transform="translate(.2)">
+      <path
+         d="M 6.25,0.25 H 0"
+         id="path925"
+         fill="none"
+         stroke="#000"
+         stroke-width=".45"
+         stroke-linecap="round"
+         stroke-linejoin="round" />
+    </g>
+    <g
+       id="shape81"
+       transform="translate(.2)">
+      <path
+         d="M 6.25,0.25 H 0"
+         id="path928"
+         fill="none"
+         stroke="#000"
+         stroke-width=".45"
+         stroke-linecap="round"
+         stroke-linejoin="round" />
+    </g>
+    <g
+       id="shape82"
+       transform="translate(.2)">
+      <path
+         d="M 6.25,0.25 H 0"
+         id="path931"
+         fill="none"
+         stroke="#000"
+         stroke-width=".45"
+         stroke-linecap="round"
+         stroke-linejoin="round" />
+    </g>
+    <g
+       id="shape83"
+       transform="translate(.2)">
+      <path
+         d="M 6.25,0.25 H 0"
+         id="path934"
+         fill="none"
+         stroke="#000"
+         stroke-width=".45"
+         stroke-linecap="round"
+         stroke-linejoin="round" />
+    </g>
+    <g
+       id="shape84"
+       transform="translate(.2)">
+      <path
+         d="M 6.25,0.25 H 0"
+         id="path937"
+         fill="none"
+         stroke="#000"
+         stroke-width=".45"
+         stroke-linecap="round"
+         stroke-linejoin="round" />
+    </g>
+    <g
+       id="shape85"
+       transform="translate(.2)">
+      <path
+         d="M 0,0.2 H 627.5"
+         id="path940"
+         fill="none"
+         stroke="#000"
+         stroke-width=".45"
+         stroke-linecap="round"
+         stroke-linejoin="round" />
+    </g>
+    <g
+       id="shape86"
+       transform="translate(0 .2)">
+      <path
+         d="M 0.25,443.45 V 0"
+         id="path943"
+         fill="none"
+         stroke="#000"
+         stroke-width=".45"
+         stroke-linecap="round"
+         stroke-linejoin="round" />
+    </g>
+    <g
+       id="shape87"
+       transform="translate(.2)">
+      <path
+         d="M 467.85,0.75 Q 421.15,0.9 374.4,1 328.8,0.45 283.2,1.3 261.55,1.65 240,3.6 q -21.5,1.9 -42,9.35 -1.65,0.8 -3.2,2.8 -1.5,2 -2.65,3.4 Q 186.5,25.5 180.9,31.8 174,39.55 167.05,47.3 152.5,63.65 137.95,80 76.4,149.1 14.85,218.25 q -7.15,8 -14.3,16.05"
+         id="path946"
+         fill="none"
+         stroke="#68af23"
+         stroke-width="1.5"
+         stroke-linecap="round"
+         stroke-linejoin="round" />
+    </g>
+    <g
+       id="shape88"
+       transform="translate(.15)">
+      <path
+         d="m 418.65,0.75 q -98.45,0.7 -196.95,1.4 -19.4,0 -38.6,3.9 -19.2,3.9 -36.5,12.8 Q 127.35,29.5 113.65,45.95 100,62.4 87.2,79.8 43.9,135.9 0.6,191.95"
+         id="path949"
+         fill="none"
+         stroke="#68af23"
+         stroke-width="1.5"
+         stroke-linecap="round"
+         stroke-linejoin="round" />
+    </g>
+    <g
+       id="shape89"
+       transform="translate(.15)">
+      <path
+         d="M 348.15,0.75 Q 247.2,2.15 146.2,3.55 127.95,3.75 109.85,8.8 91.8,13.85 76.6,24.1 58.6,36.75 44,52.95 29.35,69.2 16.25,86.75 8.3,97.15 0.6,107.75"
+         id="path952"
+         fill="none"
+         stroke="#68af23"
+         stroke-width="1.5"
+         stroke-linecap="round"
+         stroke-linejoin="round" />
+    </g>
+    <g
+       id="shape90"
+       transform="translate(.2)">
+      <path
+         d="M 291,0.75 Q 196.5,1.85 102,2.95 72.15,3.6 46.65,16.15 21.15,28.75 0.55,49.65"
+         id="path955"
+         fill="none"
+         stroke="#68af23"
+         stroke-width="1.5"
+         stroke-linecap="round"
+         stroke-linejoin="round" />
+    </g>
+    <g
+       id="shape91"
+       transform="translate(.15)">
+      <path
+         d="M 317.65,0.75 Q 218.3,2.05 118.95,3.3 102.45,3.6 86.3,8.15 70.15,12.65 55.8,20.6 39.35,30.05 25.9,43.75 12.45,57.45 0.6,72.05"
+         id="path958"
+         fill="none"
+         stroke="#68af23"
+         stroke-width="1.5"
+         stroke-linecap="round"
+         stroke-linejoin="round" />
+    </g>
+    <g
+       id="shape92">
+      <path
+         d="M 5.7,1.45 Q 6.3,2.6 6.3,4.55 6.3,6.4 5.75,7.65 4.95,9.4 3.1,9.4 1.5,9.4 0.65,7.95 0,6.75 0,4.75 0,3.2 0.4,2.1 1.15,0 3.15,0 4.9,0 5.7,1.45 m -1.15,6.1 q 0.5,-0.8 0.5,-2.95 0,-1.55 -0.35,-2.55 -0.4,-1 -1.5,-1 -1,0 -1.5,0.95 -0.45,0.95 -0.45,2.8 0,1.4 0.3,2.25 0.45,1.3 1.55,1.3 0.9,0 1.45,-0.8"
+         id="path961"
+         fill="#000"
+         fill-rule="evenodd"
+         stroke="none" />
+    </g>
+    <g
+       id="shape93">
+      <path
+         d="M 0.5,7.1 Q 0.9,6.25 2.15,5.55 L 3.35,4.8 Q 4.2,4.35 4.55,4 5.05,3.45 5.05,2.8 5.05,2 4.55,1.5 4.1,1.05 3.3,1.05 2.1,1.05 1.65,1.95 1.4,2.4 1.4,3.25 H 0.2 Q 0.25,2.1 0.65,1.35 1.4,0 3.3,0 4.85,0 5.6,0.85 6.3,1.7 6.3,2.75 6.3,3.85 5.55,4.6 5.1,5.05 3.95,5.7 L 3.05,6.2 Q 2.45,6.55 2.1,6.85 1.45,7.4 1.3,8.1 H 6.25 V 9.15 H 0 Q 0.05,8 0.5,7.1"
+         id="path964"
+         fill="#000"
+         fill-rule="evenodd"
+         stroke="none" />
+    </g>
+    <g
+       id="shape94">
+      <path
+         d="M 5.7,1.45 Q 6.3,2.6 6.3,4.55 6.3,6.4 5.75,7.65 4.95,9.4 3.1,9.4 1.5,9.4 0.65,7.95 0,6.75 0,4.75 0,3.2 0.4,2.1 1.15,0 3.15,0 4.9,0 5.7,1.45 m -1.15,6.1 q 0.5,-0.8 0.5,-2.95 0,-1.55 -0.35,-2.55 -0.4,-1 -1.5,-1 -1,0 -1.5,0.95 -0.45,0.95 -0.45,2.8 0,1.4 0.3,2.25 0.45,1.3 1.55,1.3 0.9,0 1.45,-0.8"
+         id="path967"
+         fill="#000"
+         fill-rule="evenodd"
+         stroke="none" />
+    </g>
+    <g
+       id="shape95">
+      <path
+         d="M 5.7,1.45 Q 6.3,2.6 6.3,4.55 6.3,6.4 5.75,7.65 4.95,9.4 3.1,9.4 1.5,9.4 0.65,7.95 0,6.75 0,4.75 0,3.2 0.4,2.1 1.15,0 3.15,0 4.9,0 5.7,1.45 m -1.15,6.1 q 0.5,-0.8 0.5,-2.95 0,-1.55 -0.35,-2.55 -0.4,-1 -1.5,-1 -1,0 -1.5,0.95 -0.45,0.95 -0.45,2.8 0,1.4 0.3,2.25 0.45,1.3 1.55,1.3 0.9,0 1.45,-0.8"
+         id="path970"
+         fill="#000"
+         fill-rule="evenodd"
+         stroke="none" />
+    </g>
+    <g
+       id="shape96">
+      <path
+         d="M 5.7,1.45 Q 6.3,2.6 6.3,4.55 6.3,6.4 5.75,7.65 4.95,9.4 3.1,9.4 1.5,9.4 0.65,7.95 0,6.75 0,4.75 0,3.2 0.4,2.1 1.15,0 3.15,0 4.9,0 5.7,1.45 m -1.15,6.1 q 0.5,-0.8 0.5,-2.95 0,-1.55 -0.35,-2.55 -0.4,-1 -1.5,-1 -1,0 -1.5,0.95 -0.45,0.95 -0.45,2.8 0,1.4 0.3,2.25 0.45,1.3 1.55,1.3 0.9,0 1.45,-0.8"
+         id="path973"
+         fill="#000"
+         fill-rule="evenodd"
+         stroke="none" />
+    </g>
+    <g
+       id="shape97">
+      <path
+         d="M 4,9.15 V 6.95 H 0 V 5.8 L 4.2,0 H 5.15 V 5.95 H 6.5 v 1 H 5.15 v 2.2 H 4 M 4,5.95 V 1.8 L 1.05,5.95 H 4"
+         id="path976"
+         fill="#000"
+         fill-rule="evenodd"
+         stroke="none" />
+    </g>
+    <g
+       id="shape98">
+      <path
+         d="M 5.7,1.45 Q 6.3,2.6 6.3,4.55 6.3,6.4 5.75,7.65 4.95,9.4 3.1,9.4 1.5,9.4 0.65,7.95 0,6.75 0,4.75 0,3.2 0.4,2.1 1.15,0 3.15,0 4.9,0 5.7,1.45 m -1.15,6.1 q 0.5,-0.8 0.5,-2.95 0,-1.55 -0.35,-2.55 -0.4,-1 -1.5,-1 -1,0 -1.5,0.95 -0.45,0.95 -0.45,2.8 0,1.4 0.3,2.25 0.45,1.3 1.55,1.3 0.9,0 1.45,-0.8"
+         id="path979"
+         fill="#000"
+         fill-rule="evenodd"
+         stroke="none" />
+    </g>
+    <g
+       id="shape99">
+      <path
+         d="M 5.7,1.45 Q 6.3,2.6 6.3,4.55 6.3,6.4 5.75,7.65 4.95,9.4 3.1,9.4 1.5,9.4 0.65,7.95 0,6.75 0,4.75 0,3.2 0.4,2.1 1.15,0 3.15,0 4.9,0 5.7,1.45 m -1.15,6.1 q 0.5,-0.8 0.5,-2.95 0,-1.55 -0.35,-2.55 -0.4,-1 -1.5,-1 -1,0 -1.5,0.95 -0.45,0.95 -0.45,2.8 0,1.4 0.3,2.25 0.45,1.3 1.55,1.3 0.9,0 1.45,-0.8"
+         id="path982"
+         fill="#000"
+         fill-rule="evenodd"
+         stroke="none" />
+    </g>
+    <g
+       id="shape100">
+      <path
+         d="M 5.7,1.45 Q 6.3,2.6 6.3,4.55 6.3,6.4 5.75,7.65 4.95,9.4 3.1,9.4 1.5,9.4 0.65,7.95 0,6.75 0,4.75 0,3.2 0.4,2.1 1.15,0 3.15,0 4.9,0 5.7,1.45 m -1.15,6.1 q 0.5,-0.8 0.5,-2.95 0,-1.55 -0.35,-2.55 -0.4,-1 -1.5,-1 -1,0 -1.5,0.95 -0.45,0.95 -0.45,2.8 0,1.4 0.3,2.25 0.45,1.3 1.55,1.3 0.9,0 1.45,-0.8"
+         id="path985"
+         fill="#000"
+         fill-rule="evenodd"
+         stroke="none" />
+    </g>
+    <g
+       id="shape101">
+      <path
+         d="m 5.45,0.8 q 0.6,0.8 0.6,1.65 H 4.95 Q 4.85,1.9 4.6,1.6 4.2,1 3.35,1 2.4,1 1.8,1.9 1.25,2.8 1.2,4.45 1.6,3.85 2.2,3.6 2.75,3.3 3.4,3.35 4.55,3.3 5.4,4.05 6.25,4.8 6.25,6.25 6.25,7.5 5.45,8.45 4.65,9.4 3.15,9.4 1.85,9.4 0.95,8.45 0,7.45 0,5.15 0,3.45 0.4,2.25 1.2,0 3.35,0 4.85,0 5.45,0.8 M 4.6,7.8 Q 5.05,7.15 5.05,6.35 5.05,5.65 4.65,5 4.25,4.35 3.2,4.35 2.45,4.4 1.9,4.85 q -0.55,0.5 -0.55,1.5 0,0.85 0.5,1.45 0.5,0.6 1.4,0.6 0.9,0 1.35,-0.6"
+         id="path988"
+         fill="#000"
+         fill-rule="evenodd"
+         stroke="none" />
+    </g>
+    <g
+       id="shape102">
+      <path
+         d="M 5.7,1.45 Q 6.3,2.6 6.3,4.55 6.3,6.4 5.75,7.65 4.95,9.4 3.1,9.4 1.5,9.4 0.65,7.95 0,6.75 0,4.75 0,3.2 0.4,2.1 1.15,0 3.15,0 4.9,0 5.7,1.45 m -1.15,6.1 q 0.5,-0.8 0.5,-2.95 0,-1.55 -0.35,-2.55 -0.4,-1 -1.5,-1 -1,0 -1.5,0.95 -0.45,0.95 -0.45,2.8 0,1.4 0.3,2.25 0.45,1.3 1.55,1.3 0.9,0 1.45,-0.8"
+         id="path991"
+         fill="#000"
+         fill-rule="evenodd"
+         stroke="none" />
+    </g>
+    <g
+       id="shape103">
+      <path
+         d="M 5.7,1.45 Q 6.3,2.6 6.3,4.55 6.3,6.4 5.75,7.65 4.95,9.4 3.1,9.4 1.5,9.4 0.65,7.95 0,6.75 0,4.75 0,3.2 0.4,2.1 1.15,0 3.15,0 4.9,0 5.7,1.45 m -1.15,6.1 q 0.5,-0.8 0.5,-2.95 0,-1.55 -0.35,-2.55 -0.4,-1 -1.5,-1 -1,0 -1.5,0.95 -0.45,0.95 -0.45,2.8 0,1.4 0.3,2.25 0.45,1.3 1.55,1.3 0.9,0 1.45,-0.8"
+         id="path994"
+         fill="#000"
+         fill-rule="evenodd"
+         stroke="none" />
+    </g>
+    <g
+       id="shape104">
+      <path
+         d="M 5.7,1.45 Q 6.3,2.6 6.3,4.55 6.3,6.4 5.75,7.65 4.95,9.4 3.1,9.4 1.5,9.4 0.65,7.95 0,6.75 0,4.75 0,3.2 0.4,2.1 1.15,0 3.15,0 4.9,0 5.7,1.45 m -1.15,6.1 q 0.5,-0.8 0.5,-2.95 0,-1.55 -0.35,-2.55 -0.4,-1 -1.5,-1 -1,0 -1.5,0.95 -0.45,0.95 -0.45,2.8 0,1.4 0.3,2.25 0.45,1.3 1.55,1.3 0.9,0 1.45,-0.8"
+         id="path997"
+         fill="#000"
+         fill-rule="evenodd"
+         stroke="none" />
+    </g>
+    <g
+       id="shape105">
+      <path
+         d="M 0.8,3.8 Q 0.35,3.3 0.3,2.5 0.3,1.45 1.05,0.75 1.8,0 3.15,0 4.45,0 5.2,0.7 5.95,1.4 5.95,2.3 5.95,3.15 5.55,3.7 5.3,4 4.8,4.3 5.35,4.55 5.65,4.9 6.3,5.5 6.3,6.55 6.3,7.75 5.45,8.6 4.65,9.45 3.2,9.45 1.85,9.4 0.9,8.7 0,8 0,6.6 0,5.8 0.4,5.2 0.8,4.6 1.55,4.3 1.1,4.1 0.8,3.8 M 4.55,7.95 Q 5.05,7.5 5.05,6.65 5.05,5.8 4.5,5.3 3.95,4.85 3.1,4.85 q -0.8,0 -1.3,0.5 -0.55,0.45 -0.55,1.3 0,0.7 0.5,1.2 Q 2.2,8.4 3.2,8.4 4,8.4 4.55,7.95 M 4.3,3.45 Q 4.75,3 4.75,2.4 4.75,1.9 4.35,1.5 3.9,1.05 3.1,1.05 2.25,1.05 1.9,1.5 1.55,1.9 1.55,2.5 1.5,3.1 2,3.5 2.5,3.85 3.15,3.85 3.9,3.85 4.3,3.45"
+         id="path1000"
+         fill="#000"
+         fill-rule="evenodd"
+         stroke="none" />
+    </g>
+    <g
+       id="shape106">
+      <path
+         d="M 5.7,1.45 Q 6.3,2.6 6.3,4.55 6.3,6.4 5.75,7.65 4.95,9.4 3.1,9.4 1.5,9.4 0.65,7.95 0,6.75 0,4.75 0,3.2 0.4,2.1 1.15,0 3.15,0 4.9,0 5.7,1.45 m -1.15,6.1 q 0.5,-0.8 0.5,-2.95 0,-1.55 -0.35,-2.55 -0.4,-1 -1.5,-1 -1,0 -1.5,0.95 -0.45,0.95 -0.45,2.8 0,1.4 0.3,2.25 0.45,1.3 1.55,1.3 0.9,0 1.45,-0.8"
+         id="path1003"
+         fill="#000"
+         fill-rule="evenodd"
+         stroke="none" />
+    </g>
+    <g
+       id="shape107">
+      <path
+         d="M 5.7,1.45 Q 6.3,2.6 6.3,4.55 6.3,6.4 5.75,7.65 4.95,9.4 3.1,9.4 1.5,9.4 0.65,7.95 0,6.75 0,4.75 0,3.2 0.4,2.1 1.15,0 3.15,0 4.9,0 5.7,1.45 m -1.15,6.1 q 0.5,-0.8 0.5,-2.95 0,-1.55 -0.35,-2.55 -0.4,-1 -1.5,-1 -1,0 -1.5,0.95 -0.45,0.95 -0.45,2.8 0,1.4 0.3,2.25 0.45,1.3 1.55,1.3 0.9,0 1.45,-0.8"
+         id="path1006"
+         fill="#000"
+         fill-rule="evenodd"
+         stroke="none" />
+    </g>
+    <g
+       id="shape108">
+      <path
+         d="M 5.7,1.45 Q 6.3,2.6 6.3,4.55 6.3,6.4 5.75,7.65 4.95,9.4 3.1,9.4 1.5,9.4 0.65,7.95 0,6.75 0,4.75 0,3.2 0.4,2.1 1.15,0 3.15,0 4.9,0 5.7,1.45 m -1.15,6.1 q 0.5,-0.8 0.5,-2.95 0,-1.55 -0.35,-2.55 -0.4,-1 -1.5,-1 -1,0 -1.5,0.95 -0.45,0.95 -0.45,2.8 0,1.4 0.3,2.25 0.45,1.3 1.55,1.3 0.9,0 1.45,-0.8"
+         id="path1009"
+         fill="#000"
+         fill-rule="evenodd"
+         stroke="none" />
+    </g>
+    <g
+       id="shape109">
+      <path
+         d="M 0,2.65 V 1.75 Q 1.25,1.65 1.75,1.35 2.2,1.05 2.45,0 H 3.4 V 9.1 H 2.15 V 2.65 H 0"
+         id="path1012"
+         fill="#000"
+         fill-rule="evenodd"
+         stroke="none" />
+    </g>
+    <g
+       id="shape110">
+      <path
+         d="M 5.7,1.45 Q 6.3,2.6 6.3,4.55 6.3,6.4 5.75,7.65 4.95,9.4 3.1,9.4 1.5,9.4 0.65,7.95 0,6.75 0,4.75 0,3.2 0.4,2.1 1.15,0 3.15,0 4.9,0 5.7,1.45 m -1.15,6.1 q 0.5,-0.8 0.5,-2.95 0,-1.55 -0.35,-2.55 -0.4,-1 -1.5,-1 -1,0 -1.5,0.95 -0.45,0.95 -0.45,2.8 0,1.4 0.3,2.25 0.45,1.3 1.55,1.3 0.9,0 1.45,-0.8"
+         id="path1015"
+         fill="#000"
+         fill-rule="evenodd"
+         stroke="none" />
+    </g>
+    <g
+       id="shape111">
+      <path
+         d="M 5.7,1.45 Q 6.3,2.6 6.3,4.55 6.3,6.4 5.75,7.65 4.95,9.4 3.1,9.4 1.5,9.4 0.65,7.95 0,6.75 0,4.75 0,3.2 0.4,2.1 1.15,0 3.15,0 4.9,0 5.7,1.45 m -1.15,6.1 q 0.5,-0.8 0.5,-2.95 0,-1.55 -0.35,-2.55 -0.4,-1 -1.5,-1 -1,0 -1.5,0.95 -0.45,0.95 -0.45,2.8 0,1.4 0.3,2.25 0.45,1.3 1.55,1.3 0.9,0 1.45,-0.8"
+         id="path1018"
+         fill="#000"
+         fill-rule="evenodd"
+         stroke="none" />
+    </g>
+    <g
+       id="shape112">
+      <path
+         d="M 5.7,1.45 Q 6.3,2.6 6.3,4.55 6.3,6.4 5.75,7.65 4.95,9.4 3.1,9.4 1.5,9.4 0.65,7.95 0,6.75 0,4.75 0,3.2 0.4,2.1 1.15,0 3.15,0 4.9,0 5.7,1.45 m -1.15,6.1 q 0.5,-0.8 0.5,-2.95 0,-1.55 -0.35,-2.55 -0.4,-1 -1.5,-1 -1,0 -1.5,0.95 -0.45,0.95 -0.45,2.8 0,1.4 0.3,2.25 0.45,1.3 1.55,1.3 0.9,0 1.45,-0.8"
+         id="path1021"
+         fill="#000"
+         fill-rule="evenodd"
+         stroke="none" />
+    </g>
+    <g
+       id="shape113">
+      <path
+         d="M 5.7,1.45 Q 6.3,2.6 6.3,4.55 6.3,6.4 5.75,7.65 4.95,9.4 3.1,9.4 1.5,9.4 0.65,7.95 0,6.75 0,4.75 0,3.2 0.4,2.1 1.15,0 3.15,0 4.9,0 5.7,1.45 m -1.15,6.1 q 0.5,-0.8 0.5,-2.95 0,-1.55 -0.35,-2.55 -0.4,-1 -1.5,-1 -1,0 -1.5,0.95 -0.45,0.95 -0.45,2.8 0,1.4 0.3,2.25 0.45,1.3 1.55,1.3 0.9,0 1.45,-0.8"
+         id="path1024"
+         fill="#000"
+         fill-rule="evenodd"
+         stroke="none" />
+    </g>
+    <g
+       id="shape114">
+      <path
+         d="M 5.7,1.45 Q 6.3,2.6 6.3,4.55 6.3,6.4 5.75,7.65 4.95,9.4 3.1,9.4 1.5,9.4 0.65,7.95 0,6.75 0,4.75 0,3.2 0.4,2.1 1.15,0 3.15,0 4.9,0 5.7,1.45 m -1.15,6.1 q 0.5,-0.8 0.5,-2.95 0,-1.55 -0.35,-2.55 -0.4,-1 -1.5,-1 -1,0 -1.5,0.95 -0.45,0.95 -0.45,2.8 0,1.4 0.3,2.25 0.45,1.3 1.55,1.3 0.9,0 1.45,-0.8"
+         id="path1027"
+         fill="#000"
+         fill-rule="evenodd"
+         stroke="none" />
+    </g>
+    <g
+       id="shape115">
+      <path
+         d="M 0,0 H 1.35 V 1.4 H 0 V 0"
+         id="path1030"
+         fill="#000"
+         fill-rule="evenodd"
+         stroke="none" />
+    </g>
+    <g
+       id="shape116">
+      <path
+         d="M 5.7,1.45 Q 6.3,2.6 6.3,4.55 6.3,6.4 5.75,7.65 4.95,9.4 3.1,9.4 1.5,9.4 0.65,7.95 0,6.75 0,4.75 0,3.2 0.4,2.1 1.15,0 3.15,0 4.9,0 5.7,1.45 m -1.15,6.1 q 0.5,-0.8 0.5,-2.95 0,-1.55 -0.35,-2.55 -0.4,-1 -1.5,-1 -1,0 -1.5,0.95 -0.45,0.95 -0.45,2.8 0,1.4 0.3,2.25 0.45,1.3 1.55,1.3 0.9,0 1.45,-0.8"
+         id="path1033"
+         fill="#000"
+         fill-rule="evenodd"
+         stroke="none" />
+    </g>
+    <g
+       id="shape117">
+      <path
+         d="M 4.6,0.35 Q 5.3,0.7 5.65,1.25 6,1.75 6.1,2.45 6.2,2.9 6.2,3.95 H 1.25 Q 1.25,5 1.7,5.6 2.2,6.25 3.15,6.25 4,6.25 4.55,5.65 4.85,5.3 5,4.85 H 6.1 Q 6.05,5.2 5.8,5.7 5.55,6.15 5.25,6.45 4.75,6.95 3.95,7.15 3.55,7.25 3.05,7.25 1.75,7.25 0.9,6.3 0,5.35 0,3.7 0,2.05 0.9,1.05 1.75,0 3.2,0 3.95,0 4.6,0.35 M 5,3.05 Q 4.95,2.25 4.7,1.85 4.25,1 3.15,1 2.35,1 1.8,1.55 1.3,2.15 1.25,3.05 H 5"
+         id="path1036"
+         fill="#000"
+         fill-rule="evenodd"
+         stroke="none" />
+    </g>
+    <g
+       id="shape118">
+      <path
+         d="M 0,3.85 V 2.8 H 2.8 V 0 h 1.05 v 2.8 h 2.8 v 1.05 h -2.8 v 2.8 H 2.8 V 3.85 H 0"
+         id="path1039"
+         fill="#000"
+         fill-rule="evenodd"
+         stroke="none" />
+    </g>
+    <g
+       id="shape119">
+      <path
+         d="M 5.7,1.45 Q 6.3,2.6 6.3,4.55 6.3,6.4 5.75,7.65 4.95,9.4 3.1,9.4 1.5,9.4 0.65,7.95 0,6.75 0,4.75 0,3.2 0.4,2.1 1.15,0 3.15,0 4.9,0 5.7,1.45 m -1.15,6.1 q 0.5,-0.8 0.5,-2.95 0,-1.55 -0.35,-2.55 -0.4,-1 -1.5,-1 -1,0 -1.5,0.95 -0.45,0.95 -0.45,2.8 0,1.4 0.3,2.25 0.45,1.3 1.55,1.3 0.9,0 1.45,-0.8"
+         id="path1042"
+         fill="#000"
+         fill-rule="evenodd"
+         stroke="none" />
+    </g>
+    <g
+       id="shape120">
+      <path
+         d="M 5.7,1.45 Q 6.3,2.6 6.3,4.55 6.3,6.4 5.75,7.65 4.95,9.4 3.1,9.4 1.5,9.4 0.65,7.95 0,6.75 0,4.75 0,3.2 0.4,2.1 1.15,0 3.15,0 4.9,0 5.7,1.45 m -1.15,6.1 q 0.5,-0.8 0.5,-2.95 0,-1.55 -0.35,-2.55 -0.4,-1 -1.5,-1 -1,0 -1.5,0.95 -0.45,0.95 -0.45,2.8 0,1.4 0.3,2.25 0.45,1.3 1.55,1.3 0.9,0 1.45,-0.8"
+         id="path1045"
+         fill="#000"
+         fill-rule="evenodd"
+         stroke="none" />
+    </g>
+    <g
+       id="shape121">
+      <path
+         d="M 5.7,1.45 Q 6.3,2.6 6.3,4.55 6.3,6.4 5.75,7.65 4.95,9.4 3.1,9.4 1.5,9.4 0.65,7.95 0,6.75 0,4.75 0,3.2 0.4,2.1 1.15,0 3.15,0 4.9,0 5.7,1.45 m -1.15,6.1 q 0.5,-0.8 0.5,-2.95 0,-1.55 -0.35,-2.55 -0.4,-1 -1.5,-1 -1,0 -1.5,0.95 -0.45,0.95 -0.45,2.8 0,1.4 0.3,2.25 0.45,1.3 1.55,1.3 0.9,0 1.45,-0.8"
+         id="path1048"
+         fill="#000"
+         fill-rule="evenodd"
+         stroke="none" />
+    </g>
+    <g
+       id="shape122">
+      <path
+         d="m 1.2,6.65 q 0.1,1 0.9,1.35 0.4,0.2 0.95,0.2 1,0 1.5,-0.65 Q 5.05,6.9 5.05,6.1 5.05,5.15 4.45,4.65 3.9,4.1 3.05,4.1 2.5,4.1 2.05,4.35 1.65,4.55 1.35,5 L 0.35,4.9 1.05,0 H 5.8 V 1.1 H 1.9 L 1.5,3.65 Q 1.8,3.4 2.1,3.3 2.6,3.05 3.3,3.1 4.55,3.05 5.4,3.9 6.3,4.7 6.3,5.95 6.3,7.25 5.5,8.25 4.7,9.2 2.95,9.2 1.8,9.2 0.95,8.6 0.1,7.95 0,6.65 h 1.2"
+         id="path1051"
+         fill="#000"
+         fill-rule="evenodd"
+         stroke="none" />
+    </g>
+    <g
+       id="shape123">
+      <path
+         d="M 0,0 H 1.35 V 1.4 H 0 V 0"
+         id="path1054"
+         fill="#000"
+         fill-rule="evenodd"
+         stroke="none" />
+    </g>
+    <g
+       id="shape124">
+      <path
+         d="M 5.7,1.45 Q 6.3,2.6 6.3,4.55 6.3,6.4 5.75,7.65 4.95,9.4 3.1,9.4 1.5,9.4 0.65,7.95 0,6.75 0,4.75 0,3.2 0.4,2.1 1.15,0 3.15,0 4.9,0 5.7,1.45 m -1.15,6.1 q 0.5,-0.8 0.5,-2.95 0,-1.55 -0.35,-2.55 -0.4,-1 -1.5,-1 -1,0 -1.5,0.95 -0.45,0.95 -0.45,2.8 0,1.4 0.3,2.25 0.45,1.3 1.55,1.3 0.9,0 1.45,-0.8"
+         id="path1057"
+         fill="#000"
+         fill-rule="evenodd"
+         stroke="none" />
+    </g>
+    <g
+       id="shape125">
+      <path
+         d="M 4.6,0.35 Q 5.3,0.7 5.65,1.25 6,1.75 6.1,2.45 6.2,2.9 6.2,3.95 H 1.25 Q 1.25,5 1.7,5.6 2.2,6.25 3.15,6.25 4,6.25 4.55,5.65 4.85,5.3 5,4.85 H 6.1 Q 6.05,5.2 5.8,5.7 5.55,6.15 5.25,6.45 4.75,6.95 3.95,7.15 3.55,7.25 3.05,7.25 1.75,7.25 0.9,6.3 0,5.35 0,3.7 0,2.05 0.9,1.05 1.75,0 3.2,0 3.95,0 4.6,0.35 M 5,3.05 Q 4.95,2.25 4.7,1.85 4.25,1 3.15,1 2.35,1 1.8,1.55 1.3,2.15 1.25,3.05 H 5"
+         id="path1060"
+         fill="#000"
+         fill-rule="evenodd"
+         stroke="none" />
+    </g>
+    <g
+       id="shape126">
+      <path
+         d="M 0,3.85 V 2.8 H 2.8 V 0 h 1.05 v 2.8 h 2.8 v 1.05 h -2.8 v 2.8 H 2.8 V 3.85 H 0"
+         id="path1063"
+         fill="#000"
+         fill-rule="evenodd"
+         stroke="none" />
+    </g>
+    <g
+       id="shape127">
+      <path
+         d="M 5.7,1.45 Q 6.3,2.6 6.3,4.55 6.3,6.4 5.75,7.65 4.95,9.4 3.1,9.4 1.5,9.4 0.65,7.95 0,6.75 0,4.75 0,3.2 0.4,2.1 1.15,0 3.15,0 4.9,0 5.7,1.45 m -1.15,6.1 q 0.5,-0.8 0.5,-2.95 0,-1.55 -0.35,-2.55 -0.4,-1 -1.5,-1 -1,0 -1.5,0.95 -0.45,0.95 -0.45,2.8 0,1.4 0.3,2.25 0.45,1.3 1.55,1.3 0.9,0 1.45,-0.8"
+         id="path1066"
+         fill="#000"
+         fill-rule="evenodd"
+         stroke="none" />
+    </g>
+    <g
+       id="shape128">
+      <path
+         d="M 5.7,1.45 Q 6.3,2.6 6.3,4.55 6.3,6.4 5.75,7.65 4.95,9.4 3.1,9.4 1.5,9.4 0.65,7.95 0,6.75 0,4.75 0,3.2 0.4,2.1 1.15,0 3.15,0 4.9,0 5.7,1.45 m -1.15,6.1 q 0.5,-0.8 0.5,-2.95 0,-1.55 -0.35,-2.55 -0.4,-1 -1.5,-1 -1,0 -1.5,0.95 -0.45,0.95 -0.45,2.8 0,1.4 0.3,2.25 0.45,1.3 1.55,1.3 0.9,0 1.45,-0.8"
+         id="path1069"
+         fill="#000"
+         fill-rule="evenodd"
+         stroke="none" />
+    </g>
+    <g
+       id="shape129">
+      <path
+         d="m 1.2,6.65 q 0.1,1 0.9,1.35 0.4,0.2 0.95,0.2 1,0 1.5,-0.65 Q 5.05,6.9 5.05,6.1 5.05,5.15 4.45,4.65 3.9,4.1 3.05,4.1 2.5,4.1 2.05,4.35 1.65,4.55 1.35,5 L 0.35,4.9 1.05,0 H 5.8 V 1.1 H 1.9 L 1.5,3.65 Q 1.8,3.4 2.1,3.3 2.6,3.05 3.3,3.1 4.55,3.05 5.4,3.9 6.3,4.7 6.3,5.95 6.3,7.25 5.5,8.25 4.7,9.2 2.95,9.2 1.8,9.2 0.95,8.6 0.1,7.95 0,6.65 h 1.2"
+         id="path1072"
+         fill="#000"
+         fill-rule="evenodd"
+         stroke="none" />
+    </g>
+    <g
+       id="shape130">
+      <path
+         d="M 0,2.65 V 1.75 Q 1.25,1.65 1.75,1.35 2.2,1.05 2.45,0 H 3.4 V 9.1 H 2.15 V 2.65 H 0"
+         id="path1075"
+         fill="#000"
+         fill-rule="evenodd"
+         stroke="none" />
+    </g>
+    <g
+       id="shape131">
+      <path
+         d="M 0,0 H 1.35 V 1.4 H 0 V 0"
+         id="path1078"
+         fill="#000"
+         fill-rule="evenodd"
+         stroke="none" />
+    </g>
+    <g
+       id="shape132">
+      <path
+         d="M 5.7,1.45 Q 6.3,2.6 6.3,4.55 6.3,6.4 5.75,7.65 4.95,9.4 3.1,9.4 1.5,9.4 0.65,7.95 0,6.75 0,4.75 0,3.2 0.4,2.1 1.15,0 3.15,0 4.9,0 5.7,1.45 m -1.15,6.1 q 0.5,-0.8 0.5,-2.95 0,-1.55 -0.35,-2.55 -0.4,-1 -1.5,-1 -1,0 -1.5,0.95 -0.45,0.95 -0.45,2.8 0,1.4 0.3,2.25 0.45,1.3 1.55,1.3 0.9,0 1.45,-0.8"
+         id="path1081"
+         fill="#000"
+         fill-rule="evenodd"
+         stroke="none" />
+    </g>
+    <g
+       id="shape133">
+      <path
+         d="M 4.6,0.35 Q 5.3,0.7 5.65,1.25 6,1.75 6.1,2.45 6.2,2.9 6.2,3.95 H 1.25 Q 1.25,5 1.7,5.6 2.2,6.25 3.15,6.25 4,6.25 4.55,5.65 4.85,5.3 5,4.85 H 6.1 Q 6.05,5.2 5.8,5.7 5.55,6.15 5.25,6.45 4.75,6.95 3.95,7.15 3.55,7.25 3.05,7.25 1.75,7.25 0.9,6.3 0,5.35 0,3.7 0,2.05 0.9,1.05 1.75,0 3.2,0 3.95,0 4.6,0.35 M 5,3.05 Q 4.95,2.25 4.7,1.85 4.25,1 3.15,1 2.35,1 1.8,1.55 1.3,2.15 1.25,3.05 H 5"
+         id="path1084"
+         fill="#000"
+         fill-rule="evenodd"
+         stroke="none" />
+    </g>
+    <g
+       id="shape134">
+      <path
+         d="M 0,3.85 V 2.8 H 2.8 V 0 h 1.05 v 2.8 h 2.8 v 1.05 h -2.8 v 2.8 H 2.8 V 3.85 H 0"
+         id="path1087"
+         fill="#000"
+         fill-rule="evenodd"
+         stroke="none" />
+    </g>
+    <g
+       id="shape135">
+      <path
+         d="M 5.7,1.45 Q 6.3,2.6 6.3,4.55 6.3,6.4 5.75,7.65 4.95,9.4 3.1,9.4 1.5,9.4 0.65,7.95 0,6.75 0,4.75 0,3.2 0.4,2.1 1.15,0 3.15,0 4.9,0 5.7,1.45 m -1.15,6.1 q 0.5,-0.8 0.5,-2.95 0,-1.55 -0.35,-2.55 -0.4,-1 -1.5,-1 -1,0 -1.5,0.95 -0.45,0.95 -0.45,2.8 0,1.4 0.3,2.25 0.45,1.3 1.55,1.3 0.9,0 1.45,-0.8"
+         id="path1090"
+         fill="#000"
+         fill-rule="evenodd"
+         stroke="none" />
+    </g>
+    <g
+       id="shape136">
+      <path
+         d="M 5.7,1.45 Q 6.3,2.6 6.3,4.55 6.3,6.4 5.75,7.65 4.95,9.4 3.1,9.4 1.5,9.4 0.65,7.95 0,6.75 0,4.75 0,3.2 0.4,2.1 1.15,0 3.15,0 4.9,0 5.7,1.45 m -1.15,6.1 q 0.5,-0.8 0.5,-2.95 0,-1.55 -0.35,-2.55 -0.4,-1 -1.5,-1 -1,0 -1.5,0.95 -0.45,0.95 -0.45,2.8 0,1.4 0.3,2.25 0.45,1.3 1.55,1.3 0.9,0 1.45,-0.8"
+         id="path1093"
+         fill="#000"
+         fill-rule="evenodd"
+         stroke="none" />
+    </g>
+    <g
+       id="shape137">
+      <path
+         d="m 5.45,0.8 q 0.6,0.8 0.6,1.65 H 4.95 Q 4.85,1.9 4.6,1.6 4.2,1 3.35,1 2.4,1 1.8,1.9 1.25,2.8 1.2,4.45 1.6,3.85 2.2,3.6 2.75,3.3 3.4,3.35 4.55,3.3 5.4,4.05 6.25,4.8 6.25,6.25 6.25,7.5 5.45,8.45 4.65,9.4 3.15,9.4 1.85,9.4 0.95,8.45 0,7.45 0,5.15 0,3.45 0.4,2.25 1.2,0 3.35,0 4.85,0 5.45,0.8 M 4.6,7.8 Q 5.05,7.15 5.05,6.35 5.05,5.65 4.65,5 4.25,4.35 3.2,4.35 2.45,4.4 1.9,4.85 q -0.55,0.5 -0.55,1.5 0,0.85 0.5,1.45 0.5,0.6 1.4,0.6 0.9,0 1.35,-0.6"
+         id="path1096"
+         fill="#000"
+         fill-rule="evenodd"
+         stroke="none" />
+    </g>
+    <g
+       id="shape138">
+      <path
+         d="M 0,2.65 V 1.75 Q 1.25,1.65 1.75,1.35 2.2,1.05 2.45,0 H 3.4 V 9.1 H 2.15 V 2.65 H 0"
+         id="path1099"
+         fill="#000"
+         fill-rule="evenodd"
+         stroke="none" />
+    </g>
+    <g
+       id="shape139">
+      <path
+         d="M 0,0 H 1.35 V 1.4 H 0 V 0"
+         id="path1102"
+         fill="#000"
+         fill-rule="evenodd"
+         stroke="none" />
+    </g>
+    <g
+       id="shape140">
+      <path
+         d="m 1.2,6.65 q 0.1,1 0.9,1.35 0.4,0.2 0.95,0.2 1,0 1.5,-0.65 Q 5.05,6.9 5.05,6.1 5.05,5.15 4.45,4.65 3.9,4.1 3.05,4.1 2.5,4.1 2.05,4.35 1.65,4.55 1.35,5 L 0.35,4.9 1.05,0 H 5.8 V 1.1 H 1.9 L 1.5,3.65 Q 1.8,3.4 2.1,3.3 2.6,3.05 3.3,3.1 4.55,3.05 5.4,3.9 6.3,4.7 6.3,5.95 6.3,7.25 5.5,8.25 4.7,9.2 2.95,9.2 1.8,9.2 0.95,8.6 0.1,7.95 0,6.65 h 1.2"
+         id="path1105"
+         fill="#000"
+         fill-rule="evenodd"
+         stroke="none" />
+    </g>
+    <g
+       id="shape141">
+      <path
+         d="M 4.6,0.35 Q 5.3,0.7 5.65,1.25 6,1.75 6.1,2.45 6.2,2.9 6.2,3.95 H 1.25 Q 1.25,5 1.7,5.6 2.2,6.25 3.15,6.25 4,6.25 4.55,5.65 4.85,5.3 5,4.85 H 6.1 Q 6.05,5.2 5.8,5.7 5.55,6.15 5.25,6.45 4.75,6.95 3.95,7.15 3.55,7.25 3.05,7.25 1.75,7.25 0.9,6.3 0,5.35 0,3.7 0,2.05 0.9,1.05 1.75,0 3.2,0 3.95,0 4.6,0.35 M 5,3.05 Q 4.95,2.25 4.7,1.85 4.25,1 3.15,1 2.35,1 1.8,1.55 1.3,2.15 1.25,3.05 H 5"
+         id="path1108"
+         fill="#000"
+         fill-rule="evenodd"
+         stroke="none" />
+    </g>
+    <g
+       id="shape142">
+      <path
+         d="M 0,3.85 V 2.8 H 2.8 V 0 h 1.05 v 2.8 h 2.8 v 1.05 h -2.8 v 2.8 H 2.8 V 3.85 H 0"
+         id="path1111"
+         fill="#000"
+         fill-rule="evenodd"
+         stroke="none" />
+    </g>
+    <g
+       id="shape143">
+      <path
+         d="M 5.7,1.45 Q 6.3,2.6 6.3,4.55 6.3,6.4 5.75,7.65 4.95,9.4 3.1,9.4 1.5,9.4 0.65,7.95 0,6.75 0,4.75 0,3.2 0.4,2.1 1.15,0 3.15,0 4.9,0 5.7,1.45 m -1.15,6.1 q 0.5,-0.8 0.5,-2.95 0,-1.55 -0.35,-2.55 -0.4,-1 -1.5,-1 -1,0 -1.5,0.95 -0.45,0.95 -0.45,2.8 0,1.4 0.3,2.25 0.45,1.3 1.55,1.3 0.9,0 1.45,-0.8"
+         id="path1114"
+         fill="#000"
+         fill-rule="evenodd"
+         stroke="none" />
+    </g>
+    <g
+       id="shape144">
+      <path
+         d="M 5.7,1.45 Q 6.3,2.6 6.3,4.55 6.3,6.4 5.75,7.65 4.95,9.4 3.1,9.4 1.5,9.4 0.65,7.95 0,6.75 0,4.75 0,3.2 0.4,2.1 1.15,0 3.15,0 4.9,0 5.7,1.45 m -1.15,6.1 q 0.5,-0.8 0.5,-2.95 0,-1.55 -0.35,-2.55 -0.4,-1 -1.5,-1 -1,0 -1.5,0.95 -0.45,0.95 -0.45,2.8 0,1.4 0.3,2.25 0.45,1.3 1.55,1.3 0.9,0 1.45,-0.8"
+         id="path1117"
+         fill="#000"
+         fill-rule="evenodd"
+         stroke="none" />
+    </g>
+    <g
+       id="shape145">
+      <path
+         d="m 5.45,0.8 q 0.6,0.8 0.6,1.65 H 4.95 Q 4.85,1.9 4.6,1.6 4.2,1 3.35,1 2.4,1 1.8,1.9 1.25,2.8 1.2,4.45 1.6,3.85 2.2,3.6 2.75,3.3 3.4,3.35 4.55,3.3 5.4,4.05 6.25,4.8 6.25,6.25 6.25,7.5 5.45,8.45 4.65,9.4 3.15,9.4 1.85,9.4 0.95,8.45 0,7.45 0,5.15 0,3.45 0.4,2.25 1.2,0 3.35,0 4.85,0 5.45,0.8 M 4.6,7.8 Q 5.05,7.15 5.05,6.35 5.05,5.65 4.65,5 4.25,4.35 3.2,4.35 2.45,4.4 1.9,4.85 q -0.55,0.5 -0.55,1.5 0,0.85 0.5,1.45 0.5,0.6 1.4,0.6 0.9,0 1.35,-0.6"
+         id="path1120"
+         fill="#000"
+         fill-rule="evenodd"
+         stroke="none" />
+    </g>
+    <g
+       id="shape146">
+      <path
+         d="M 0.5,7.1 Q 0.9,6.25 2.15,5.55 L 3.35,4.8 Q 4.2,4.35 4.55,4 5.05,3.45 5.05,2.8 5.05,2 4.55,1.5 4.1,1.05 3.3,1.05 2.1,1.05 1.65,1.95 1.4,2.4 1.4,3.25 H 0.2 Q 0.25,2.1 0.65,1.35 1.4,0 3.3,0 4.85,0 5.6,0.85 6.3,1.7 6.3,2.75 6.3,3.85 5.55,4.6 5.1,5.05 3.95,5.7 L 3.05,6.2 Q 2.45,6.55 2.1,6.85 1.45,7.4 1.3,8.1 H 6.25 V 9.15 H 0 Q 0.05,8 0.5,7.1"
+         id="path1123"
+         fill="#000"
+         fill-rule="evenodd"
+         stroke="none" />
+    </g>
+    <g
+       id="shape147">
+      <path
+         d="M 0,0 H 1.35 V 1.4 H 0 V 0"
+         id="path1126"
+         fill="#000"
+         fill-rule="evenodd"
+         stroke="none" />
+    </g>
+    <g
+       id="shape148">
+      <path
+         d="M 5.7,1.45 Q 6.3,2.6 6.3,4.55 6.3,6.4 5.75,7.65 4.95,9.4 3.1,9.4 1.5,9.4 0.65,7.95 0,6.75 0,4.75 0,3.2 0.4,2.1 1.15,0 3.15,0 4.9,0 5.7,1.45 m -1.15,6.1 q 0.5,-0.8 0.5,-2.95 0,-1.55 -0.35,-2.55 -0.4,-1 -1.5,-1 -1,0 -1.5,0.95 -0.45,0.95 -0.45,2.8 0,1.4 0.3,2.25 0.45,1.3 1.55,1.3 0.9,0 1.45,-0.8"
+         id="path1129"
+         fill="#000"
+         fill-rule="evenodd"
+         stroke="none" />
+    </g>
+    <g
+       id="shape149">
+      <path
+         d="M 4.6,0.35 Q 5.3,0.7 5.65,1.25 6,1.75 6.1,2.45 6.2,2.9 6.2,3.95 H 1.25 Q 1.25,5 1.7,5.6 2.2,6.25 3.15,6.25 4,6.25 4.55,5.65 4.85,5.3 5,4.85 H 6.1 Q 6.05,5.2 5.8,5.7 5.55,6.15 5.25,6.45 4.75,6.95 3.95,7.15 3.55,7.25 3.05,7.25 1.75,7.25 0.9,6.3 0,5.4 0,3.7 0,2.05 0.9,1.05 1.75,0 3.2,0 3.95,0 4.6,0.35 M 5,3.05 Q 4.95,2.25 4.7,1.85 4.25,1 3.15,1 2.35,1 1.8,1.55 1.3,2.15 1.25,3.05 H 5"
+         id="path1132"
+         fill="#000"
+         fill-rule="evenodd"
+         stroke="none" />
+    </g>
+    <g
+       id="shape150">
+      <path
+         d="M 0,3.85 V 2.8 H 2.8 V 0 h 1.05 v 2.8 h 2.8 v 1.05 h -2.8 v 2.8 H 2.8 V 3.85 H 0"
+         id="path1135"
+         fill="#000"
+         fill-rule="evenodd"
+         stroke="none" />
+    </g>
+    <g
+       id="shape151">
+      <path
+         d="M 5.7,1.45 Q 6.3,2.6 6.3,4.55 6.3,6.4 5.75,7.65 4.95,9.4 3.1,9.4 1.5,9.4 0.65,7.95 0,6.75 0,4.75 0,3.2 0.4,2.1 1.15,0 3.15,0 4.9,0 5.7,1.45 m -1.15,6.1 q 0.5,-0.8 0.5,-2.95 0,-1.55 -0.35,-2.55 -0.4,-1 -1.5,-1 -1,0 -1.5,0.95 -0.45,0.95 -0.45,2.8 0,1.4 0.3,2.25 0.45,1.3 1.55,1.3 0.9,0 1.45,-0.8"
+         id="path1138"
+         fill="#000"
+         fill-rule="evenodd"
+         stroke="none" />
+    </g>
+    <g
+       id="shape152">
+      <path
+         d="M 5.7,1.45 Q 6.3,2.6 6.3,4.55 6.3,6.4 5.75,7.65 4.95,9.4 3.1,9.4 1.5,9.4 0.65,7.95 0,6.75 0,4.75 0,3.2 0.4,2.1 1.15,0 3.15,0 4.9,0 5.7,1.45 m -1.15,6.1 q 0.5,-0.8 0.5,-2.95 0,-1.55 -0.35,-2.55 -0.4,-1 -1.5,-1 -1,0 -1.5,0.95 -0.45,0.95 -0.45,2.8 0,1.4 0.3,2.25 0.45,1.3 1.55,1.3 0.9,0 1.45,-0.8"
+         id="path1141"
+         fill="#000"
+         fill-rule="evenodd"
+         stroke="none" />
+    </g>
+    <g
+       id="shape153">
+      <path
+         d="m 5.45,0.8 q 0.6,0.8 0.6,1.65 H 4.95 Q 4.85,1.9 4.6,1.6 4.2,1 3.35,1 2.4,1 1.8,1.9 1.25,2.8 1.2,4.45 1.6,3.85 2.2,3.6 2.75,3.3 3.4,3.35 4.55,3.3 5.4,4.05 6.25,4.8 6.25,6.25 6.25,7.5 5.45,8.45 4.65,9.4 3.15,9.4 1.85,9.4 0.95,8.45 0,7.45 0,5.15 0,3.45 0.4,2.25 1.2,0 3.35,0 4.85,0 5.45,0.8 M 4.6,7.8 Q 5.05,7.15 5.05,6.35 5.05,5.65 4.65,5 4.25,4.35 3.2,4.35 2.45,4.4 1.9,4.85 q -0.55,0.5 -0.55,1.5 0,0.85 0.5,1.45 0.5,0.6 1.4,0.6 0.9,0 1.35,-0.6"
+         id="path1144"
+         fill="#000"
+         fill-rule="evenodd"
+         stroke="none" />
+    </g>
+    <g
+       id="shape154">
+      <path
+         d="M 0.5,7.1 Q 0.9,6.25 2.15,5.55 L 3.35,4.8 Q 4.2,4.35 4.55,4 5.05,3.45 5.05,2.8 5.05,2 4.55,1.5 4.1,1.05 3.3,1.05 2.1,1.05 1.65,1.95 1.4,2.4 1.4,3.25 H 0.2 Q 0.25,2.1 0.65,1.35 1.4,0 3.3,0 4.85,0 5.6,0.85 6.3,1.7 6.3,2.75 6.3,3.85 5.55,4.6 5.1,5.05 3.95,5.7 L 3.05,6.2 Q 2.45,6.55 2.1,6.85 1.45,7.4 1.3,8.1 H 6.25 V 9.15 H 0 Q 0.05,8 0.5,7.1"
+         id="path1147"
+         fill="#000"
+         fill-rule="evenodd"
+         stroke="none" />
+    </g>
+    <g
+       id="shape155">
+      <path
+         d="M 0,0 H 1.35 V 1.4 H 0 V 0"
+         id="path1150"
+         fill="#000"
+         fill-rule="evenodd"
+         stroke="none" />
+    </g>
+    <g
+       id="shape156">
+      <path
+         d="m 1.2,6.65 q 0.1,1 0.9,1.35 0.4,0.2 0.95,0.2 1,0 1.5,-0.65 Q 5.05,6.9 5.05,6.1 5.05,5.15 4.45,4.65 3.9,4.1 3.05,4.1 2.5,4.1 2.05,4.35 1.65,4.55 1.35,5 L 0.35,4.9 1.05,0 H 5.8 V 1.1 H 1.9 L 1.5,3.65 Q 1.8,3.4 2.1,3.3 2.6,3.05 3.3,3.1 4.55,3.05 5.4,3.9 6.3,4.7 6.3,5.95 6.3,7.25 5.5,8.25 4.7,9.2 2.95,9.2 1.8,9.2 0.95,8.6 0.1,7.95 0,6.65 h 1.2"
+         id="path1153"
+         fill="#000"
+         fill-rule="evenodd"
+         stroke="none" />
+    </g>
+    <g
+       id="shape157">
+      <path
+         d="M 4.6,0.35 Q 5.3,0.7 5.65,1.25 6,1.75 6.1,2.45 6.2,2.9 6.2,3.95 H 1.25 Q 1.25,5 1.7,5.6 2.2,6.25 3.15,6.25 4,6.25 4.55,5.65 4.85,5.3 5,4.85 H 6.1 Q 6.05,5.2 5.8,5.7 5.55,6.15 5.25,6.45 4.75,6.95 3.95,7.15 3.55,7.25 3.05,7.25 1.75,7.25 0.9,6.3 0,5.4 0,3.7 0,2.05 0.9,1.05 1.75,0 3.2,0 3.95,0 4.6,0.35 M 5,3.05 Q 4.95,2.25 4.7,1.85 4.25,1 3.15,1 2.35,1 1.8,1.55 1.3,2.15 1.25,3.05 H 5"
+         id="path1156"
+         fill="#000"
+         fill-rule="evenodd"
+         stroke="none" />
+    </g>
+    <g
+       id="shape158">
+      <path
+         d="M 0,3.85 V 2.8 H 2.8 V 0 h 1.05 v 2.8 h 2.8 v 1.05 h -2.8 v 2.8 H 2.8 V 3.85 H 0"
+         id="path1159"
+         fill="#000"
+         fill-rule="evenodd"
+         stroke="none" />
+    </g>
+    <g
+       id="shape159">
+      <path
+         d="M 5.7,1.45 Q 6.3,2.6 6.3,4.55 6.3,6.4 5.75,7.65 4.95,9.4 3.1,9.4 1.5,9.4 0.65,7.95 0,6.75 0,4.75 0,3.2 0.4,2.1 1.15,0 3.15,0 4.9,0 5.7,1.45 m -1.15,6.1 q 0.5,-0.8 0.5,-2.95 0,-1.55 -0.35,-2.55 -0.4,-1 -1.5,-1 -1,0 -1.5,0.95 -0.45,0.95 -0.45,2.8 0,1.4 0.3,2.25 0.45,1.3 1.55,1.3 0.9,0 1.45,-0.8"
+         id="path1162"
+         fill="#000"
+         fill-rule="evenodd"
+         stroke="none" />
+    </g>
+    <g
+       id="shape160">
+      <path
+         d="M 5.7,1.45 Q 6.3,2.6 6.3,4.55 6.3,6.4 5.75,7.65 4.95,9.4 3.1,9.4 1.5,9.4 0.65,7.95 0,6.75 0,4.75 0,3.2 0.4,2.1 1.15,0 3.15,0 4.9,0 5.7,1.45 m -1.15,6.1 q 0.5,-0.8 0.5,-2.95 0,-1.55 -0.35,-2.55 -0.4,-1 -1.5,-1 -1,0 -1.5,0.95 -0.45,0.95 -0.45,2.8 0,1.4 0.3,2.25 0.45,1.3 1.55,1.3 0.9,0 1.45,-0.8"
+         id="path1165"
+         fill="#000"
+         fill-rule="evenodd"
+         stroke="none" />
+    </g>
+    <g
+       id="shape161">
+      <path
+         d="m 5.45,0.8 q 0.6,0.8 0.6,1.65 H 4.95 Q 4.85,1.9 4.6,1.6 4.2,1 3.35,1 2.4,1 1.8,1.9 1.25,2.8 1.2,4.45 1.6,3.85 2.2,3.6 2.75,3.3 3.4,3.35 4.55,3.3 5.4,4.05 6.25,4.8 6.25,6.25 6.25,7.5 5.45,8.45 4.65,9.4 3.15,9.4 1.85,9.4 0.95,8.45 0,7.45 0,5.15 0,3.45 0.4,2.25 1.2,0 3.35,0 4.85,0 5.45,0.8 M 4.6,7.8 Q 5.05,7.15 5.05,6.35 5.05,5.65 4.65,5 4.25,4.35 3.2,4.35 2.45,4.4 1.9,4.85 q -0.55,0.5 -0.55,1.5 0,0.85 0.5,1.45 0.5,0.6 1.4,0.6 0.9,0 1.35,-0.6"
+         id="path1168"
+         fill="#000"
+         fill-rule="evenodd"
+         stroke="none" />
+    </g>
+    <g
+       id="shape162">
+      <path
+         d="M 0.75,8.5 Q 0,7.6 0,6.35 h 1.2 q 0.1,0.9 0.35,1.3 0.4,0.7 1.6,0.7 0.9,0 1.45,-0.5 Q 5.15,7.4 5.15,6.6 5.15,5.7 4.55,5.3 4,4.9 2.95,4.9 2.85,4.95 2.75,4.9 2.6,4.95 2.5,4.95 V 3.9 q 0.15,0.05 0.3,0.05 0.1,0 0.25,0 0.65,0 1.05,-0.2 Q 4.85,3.4 4.85,2.45 4.85,1.8 4.35,1.4 3.9,1.05 3.25,1.05 2.1,1.05 1.65,1.8 1.4,2.25 1.35,3 H 0.25 Q 0.2,2 0.65,1.3 1.35,0 3.1,0 4.5,0 5.25,0.6 6.05,1.25 6.05,2.45 6.05,3.25 5.6,3.8 5.3,4.1 4.85,4.3 5.6,4.5 6,5.05 6.4,5.65 6.4,6.45 6.4,7.75 5.55,8.6 4.65,9.4 3.1,9.4 1.45,9.4 0.75,8.5"
+         id="path1171"
+         fill="#000"
+         fill-rule="evenodd"
+         stroke="none" />
+    </g>
+    <g
+       id="shape163">
+      <path
+         d="M 0,0 H 1.35 V 1.4 H 0 V 0"
+         id="path1174"
+         fill="#000"
+         fill-rule="evenodd"
+         stroke="none" />
+    </g>
+    <g
+       id="shape164">
+      <path
+         d="M 5.7,1.45 Q 6.3,2.6 6.3,4.55 6.3,6.4 5.75,7.65 4.95,9.4 3.1,9.4 1.5,9.4 0.65,7.95 0,6.75 0,4.75 0,3.2 0.4,2.1 1.15,0 3.15,0 4.9,0 5.7,1.45 m -1.15,6.1 q 0.5,-0.8 0.5,-2.95 0,-1.55 -0.35,-2.55 -0.4,-1 -1.5,-1 -1,0 -1.5,0.95 -0.45,0.95 -0.45,2.8 0,1.4 0.3,2.25 0.45,1.3 1.55,1.3 0.9,0 1.45,-0.8"
+         id="path1177"
+         fill="#000"
+         fill-rule="evenodd"
+         stroke="none" />
+    </g>
+    <g
+       id="shape165">
+      <path
+         d="M 4.6,0.35 Q 5.3,0.7 5.65,1.25 6,1.75 6.1,2.45 6.2,2.9 6.2,3.95 H 1.25 Q 1.25,5 1.7,5.6 2.2,6.25 3.15,6.25 4,6.25 4.55,5.65 4.85,5.3 5,4.85 H 6.1 Q 6.05,5.2 5.8,5.7 5.55,6.15 5.25,6.45 4.75,6.95 3.95,7.15 3.55,7.25 3.05,7.25 1.75,7.25 0.9,6.3 0,5.4 0,3.7 0,2.05 0.9,1.05 1.75,0 3.2,0 3.95,0 4.6,0.35 M 5,3.05 Q 4.95,2.25 4.7,1.85 4.25,1 3.15,1 2.35,1 1.8,1.55 1.3,2.15 1.25,3.05 H 5"
+         id="path1180"
+         fill="#000"
+         fill-rule="evenodd"
+         stroke="none" />
+    </g>
+    <g
+       id="shape166">
+      <path
+         d="M 0,3.85 V 2.8 H 2.8 V 0 h 1.05 v 2.8 h 2.8 v 1.05 h -2.8 v 2.8 H 2.8 V 3.85 H 0"
+         id="path1183"
+         fill="#000"
+         fill-rule="evenodd"
+         stroke="none" />
+    </g>
+    <g
+       id="shape167">
+      <path
+         d="M 5.7,1.45 Q 6.3,2.6 6.3,4.55 6.3,6.4 5.75,7.65 4.95,9.4 3.1,9.4 1.5,9.4 0.65,7.95 0,6.75 0,4.75 0,3.2 0.4,2.1 1.15,0 3.15,0 4.9,0 5.7,1.45 m -1.15,6.1 q 0.5,-0.8 0.5,-2.95 0,-1.55 -0.35,-2.55 -0.4,-1 -1.5,-1 -1,0 -1.5,0.95 -0.45,0.95 -0.45,2.8 0,1.4 0.3,2.25 0.45,1.3 1.55,1.3 0.9,0 1.45,-0.8"
+         id="path1186"
+         fill="#000"
+         fill-rule="evenodd"
+         stroke="none" />
+    </g>
+    <g
+       id="shape168">
+      <path
+         d="M 5.7,1.45 Q 6.3,2.6 6.3,4.55 6.3,6.4 5.75,7.65 4.95,9.4 3.1,9.4 1.5,9.4 0.65,7.95 0,6.75 0,4.75 0,3.2 0.4,2.1 1.15,0 3.15,0 4.9,0 5.7,1.45 m -1.15,6.1 q 0.5,-0.8 0.5,-2.95 0,-1.55 -0.35,-2.55 -0.4,-1 -1.5,-1 -1,0 -1.5,0.95 -0.45,0.95 -0.45,2.8 0,1.4 0.3,2.25 0.45,1.3 1.55,1.3 0.9,0 1.45,-0.8"
+         id="path1189"
+         fill="#000"
+         fill-rule="evenodd"
+         stroke="none" />
+    </g>
+    <g
+       id="shape169">
+      <path
+         d="m 5.45,0.8 q 0.6,0.8 0.6,1.65 H 4.95 Q 4.85,1.9 4.6,1.6 4.2,1 3.35,1 2.4,1 1.8,1.9 1.25,2.8 1.2,4.45 1.6,3.85 2.2,3.6 2.75,3.3 3.4,3.35 4.55,3.3 5.4,4.05 6.25,4.8 6.25,6.25 6.25,7.5 5.45,8.45 4.65,9.4 3.15,9.4 1.85,9.4 0.95,8.45 0,7.45 0,5.15 0,3.45 0.4,2.25 1.2,0 3.35,0 4.85,0 5.45,0.8 M 4.6,7.8 Q 5.05,7.15 5.05,6.35 5.05,5.65 4.65,5 4.25,4.35 3.2,4.35 2.45,4.4 1.9,4.85 q -0.55,0.5 -0.55,1.5 0,0.85 0.5,1.45 0.5,0.6 1.4,0.6 0.9,0 1.35,-0.6"
+         id="path1192"
+         fill="#000"
+         fill-rule="evenodd"
+         stroke="none" />
+    </g>
+    <g
+       id="shape170">
+      <path
+         d="M 0.75,8.5 Q 0,7.6 0,6.35 h 1.2 q 0.1,0.9 0.35,1.3 0.4,0.7 1.6,0.7 0.9,0 1.45,-0.5 Q 5.15,7.4 5.15,6.6 5.15,5.7 4.55,5.3 4,4.9 2.95,4.9 2.85,4.95 2.75,4.9 2.6,4.95 2.5,4.95 V 3.9 q 0.15,0.05 0.3,0.05 0.1,0 0.25,0 0.65,0 1.05,-0.2 Q 4.85,3.4 4.85,2.45 4.85,1.8 4.35,1.4 3.9,1.05 3.25,1.05 2.1,1.05 1.65,1.8 1.4,2.25 1.35,3 H 0.25 Q 0.2,2 0.65,1.3 1.35,0 3.1,0 4.5,0 5.25,0.6 6.05,1.25 6.05,2.45 6.05,3.25 5.6,3.8 5.3,4.1 4.85,4.3 5.6,4.5 6,5.05 6.4,5.65 6.4,6.45 6.4,7.75 5.55,8.6 4.65,9.4 3.1,9.4 1.45,9.4 0.75,8.5"
+         id="path1195"
+         fill="#000"
+         fill-rule="evenodd"
+         stroke="none" />
+    </g>
+    <g
+       id="shape2"
+       transform="translate(.35 .3)">
+      <path
+         d="M 0.4,282.7 Q 76.6,236 137.75,170.75 q 30.4,-32.7 57.15,-68.55 26.75,-35.85 51.85,-72.75 10.1,-14.6 20.4,-29"
+         id="path691"
+         fill="none"
+         stroke="#334b97"
+         stroke-width="1.5"
+         stroke-linecap="round"
+         stroke-linejoin="round" />
+    </g>
+    <g
+       id="shape172">
+      <path
+         d="m 1.2,6.65 q 0.1,1 0.9,1.35 0.4,0.2 0.95,0.2 1,0 1.5,-0.65 Q 5.05,6.9 5.05,6.1 5.05,5.15 4.45,4.65 3.9,4.1 3.05,4.1 2.5,4.1 2.05,4.35 1.65,4.55 1.35,5 L 0.35,4.9 1.05,0 H 5.8 V 1.1 H 1.9 L 1.5,3.65 Q 1.8,3.4 2.1,3.3 2.6,3.05 3.3,3.1 4.55,3.05 5.4,3.9 6.3,4.7 6.3,5.95 6.3,7.25 5.5,8.25 4.7,9.2 2.95,9.2 1.8,9.2 0.95,8.6 0.1,7.95 0,6.65 h 1.2"
+         id="path1201"
+         fill="#000"
+         fill-rule="evenodd"
+         stroke="none" />
+    </g>
+    <g
+       id="shape173">
+      <path
+         d="M 4.6,0.35 Q 5.3,0.7 5.65,1.25 6,1.75 6.1,2.45 6.2,2.9 6.2,3.95 H 1.25 Q 1.25,5 1.7,5.6 2.2,6.25 3.15,6.25 4,6.25 4.55,5.65 4.85,5.3 5,4.85 H 6.1 Q 6.05,5.2 5.8,5.7 5.55,6.15 5.25,6.45 4.75,6.95 3.95,7.15 3.55,7.25 3.05,7.25 1.75,7.25 0.9,6.3 0,5.4 0,3.7 0,2.05 0.9,1.05 1.75,0 3.2,0 3.95,0 4.6,0.35 M 5,3.05 Q 4.95,2.25 4.7,1.85 4.25,1 3.15,1 2.35,1 1.8,1.55 1.3,2.15 1.25,3.05 H 5"
+         id="path1204"
+         fill="#000"
+         fill-rule="evenodd"
+         stroke="none" />
+    </g>
+    <g
+       id="shape174">
+      <path
+         d="M 0,3.85 V 2.8 H 2.8 V 0 h 1.05 v 2.8 h 2.8 v 1.05 h -2.8 v 2.8 H 2.8 V 3.85 H 0"
+         id="path1207"
+         fill="#000"
+         fill-rule="evenodd"
+         stroke="none" />
+    </g>
+    <g
+       id="shape175">
+      <path
+         d="M 5.7,1.45 Q 6.3,2.6 6.3,4.55 6.3,6.4 5.75,7.65 4.95,9.4 3.1,9.4 1.5,9.4 0.65,7.95 0,6.75 0,4.75 0,3.2 0.4,2.1 1.15,0 3.15,0 4.9,0 5.7,1.45 m -1.15,6.1 q 0.5,-0.8 0.5,-2.95 0,-1.55 -0.35,-2.55 -0.4,-1 -1.5,-1 -1,0 -1.5,0.95 -0.45,0.95 -0.45,2.8 0,1.4 0.3,2.25 0.45,1.3 1.55,1.3 0.9,0 1.45,-0.8"
+         id="path1210"
+         fill="#000"
+         fill-rule="evenodd"
+         stroke="none" />
+    </g>
+    <g
+       id="shape176">
+      <path
+         d="M 5.7,1.45 Q 6.3,2.6 6.3,4.55 6.3,6.4 5.75,7.65 4.95,9.4 3.1,9.4 1.5,9.4 0.65,7.95 0,6.75 0,4.75 0,3.2 0.4,2.1 1.15,0 3.15,0 4.9,0 5.7,1.45 m -1.15,6.1 q 0.5,-0.8 0.5,-2.95 0,-1.55 -0.35,-2.55 -0.4,-1 -1.5,-1 -1,0 -1.5,0.95 -0.45,0.95 -0.45,2.8 0,1.4 0.3,2.25 0.45,1.3 1.55,1.3 0.9,0 1.45,-0.8"
+         id="path1213"
+         fill="#000"
+         fill-rule="evenodd"
+         stroke="none" />
+    </g>
+    <g
+       id="shape177">
+      <path
+         d="m 5.45,0.8 q 0.6,0.8 0.6,1.65 H 4.95 Q 4.85,1.9 4.6,1.6 4.2,1 3.35,1 2.4,1 1.8,1.9 1.25,2.8 1.2,4.45 1.6,3.85 2.2,3.6 2.75,3.3 3.4,3.35 4.55,3.3 5.4,4.05 6.25,4.8 6.25,6.25 6.25,7.5 5.45,8.45 4.65,9.4 3.15,9.4 1.85,9.4 0.95,8.45 0,7.45 0,5.15 0,3.45 0.4,2.25 1.2,0 3.35,0 4.85,0 5.45,0.8 M 4.6,7.8 Q 5.05,7.15 5.05,6.35 5.05,5.65 4.65,5 4.25,4.35 3.2,4.35 2.45,4.4 1.9,4.85 q -0.55,0.5 -0.55,1.5 0,0.85 0.5,1.45 0.5,0.6 1.4,0.6 0.9,0 1.35,-0.6"
+         id="path1216"
+         fill="#000"
+         fill-rule="evenodd"
+         stroke="none" />
+    </g>
+    <g
+       id="shape178">
+      <path
+         d="M 0,4.85 H 0.3 Q 0.45,5.7 0.75,6.15 1.3,7.05 2.3,7 2.9,7.05 3.2,6.7 3.55,6.4 3.55,5.9 3.55,5.55 3.35,5.25 3.15,4.95 2.7,4.7 L 1.85,4.2 Q 0.9,3.7 0.45,3.15 0,2.65 0,1.95 0,1.1 0.6,0.55 1.25,0 2.15,0 q 0.4,0 0.9,0.15 0.5,0.15 0.55,0.15 0.15,0 0.2,-0.05 0.05,0 0.1,-0.1 H 4.1 L 4.15,2.3 H 3.9 Q 3.75,1.55 3.5,1.15 3,0.35 2.1,0.35 1.6,0.35 1.25,0.7 0.95,1 0.95,1.45 0.95,2.15 2,2.7 l 1.05,0.55 q 1.6,0.9 1.6,2.1 Q 4.65,6.25 4,6.8 3.3,7.4 2.2,7.4 1.75,7.4 1.2,7.25 0.6,7.05 0.5,7.1 0.4,7.05 0.35,7.15 0.25,7.2 0.2,7.3 H 0 V 4.85"
+         id="path1219"
+         fill="#000"
+         fill-rule="evenodd"
+         stroke="none" />
+    </g>
+    <g
+       id="shape179">
+      <path
+         d="M 1.6,2 Q 2.55,0.75 3.9,0 l 0.15,0.25 q -1.25,1 -1.75,1.9 -0.95,1.65 -0.95,4.3 0,2 0.35,3.3 0.65,2.25 2.35,3.4 L 3.85,13.4 Q 2.9,12.95 1.8,11.65 0,9.45 0,6.65 0,4 1.6,2"
+         id="path1222"
+         fill="#000"
+         fill-rule="evenodd"
+         stroke="none" />
+    </g>
+    <g
+       id="shape180">
+      <path
+         d="M 0.25,8.85 Q 0.45,8.7 0.75,8.7 1.25,8.7 1.5,9.35 1.75,10 2.05,10 2.35,10 2.5,9.75 2.6,9.45 2.6,8.8 V 1.7 Q 2.6,0.85 2.3,0.6 2.05,0.35 1.15,0.3 V 0 h 4.5 V 0.3 Q 4.75,0.35 4.45,0.6 4.2,0.9 4.2,1.7 v 5.75 q 0,1.6 -0.75,2.35 -0.8,0.75 -1.9,0.75 -0.75,0 -1.15,-0.3 Q 0,9.9 0,9.45 0,9.05 0.25,8.85"
+         id="path1225"
+         fill="#000"
+         fill-rule="evenodd"
+         stroke="none" />
+    </g>
+    <g
+       id="shape181">
+      <path
+         d="M 3.4,0 H 4.2 L 0.8,10.85 H 0 L 3.4,0"
+         id="path1228"
+         fill="#000"
+         fill-rule="evenodd"
+         stroke="none" />
+    </g>
+    <g
+       id="shape182">
+      <path
+         d="M 0,10.1 Q 0.95,10.05 1.2,9.75 1.4,9.5 1.4,8.5 V 1.7 Q 1.4,0.85 1.15,0.6 0.9,0.35 0,0.3 V 0 H 4.45 V 0.3 Q 3.55,0.35 3.3,0.6 3,0.85 3,1.7 V 4.9 Q 4.45,3.7 5.4,2.8 7,1.25 7.05,0.8 7,0.5 6.75,0.4 6.45,0.3 5.95,0.3 V 0 h 4.1 V 0.3 Q 9.3,0.35 8.9,0.6 8.45,0.8 7.7,1.5 L 4.6,4.35 8.35,8.4 q 1,1.1 1.4,1.35 0.35,0.3 1.05,0.35 v 0.3 H 6.05 V 10.1 Q 6.65,10.1 6.9,10 7.15,9.95 7.15,9.7 7.15,9.55 7,9.3 6.85,9 6.5,8.65 L 3.5,5.4 3,5.85 V 8.7 q 0,0.85 0.25,1.1 0.3,0.25 1.2,0.3 v 0.3 H 0 v -0.3"
+         id="path1231"
+         fill="#000"
+         fill-rule="evenodd"
+         stroke="none" />
+    </g>
+    <g
+       id="shape183">
+      <path
+         d="M 3.4,0 H 4.2 L 0.8,10.85 H 0 L 3.4,0"
+         id="path1234"
+         fill="#000"
+         fill-rule="evenodd"
+         stroke="none" />
+    </g>
+    <g
+       id="shape184">
+      <path
+         d="M 0,10.45 Q 0.75,10.4 0.95,10.25 1.2,10.05 1.2,9.4 V 1.7 Q 1.2,1.15 1,1 0.85,0.9 0.5,0.85 0.35,0.9 0.25,0.9 0.15,0.9 0,0.9 V 0.7 L 0.7,0.5 Q 1.5,0.3 2.05,0.1 2.35,0 2.4,0 q 0.05,0 0.1,0 0,0.05 0,0.1 V 6.55 L 4.6,4.7 Q 4.85,4.45 4.9,4.35 5,4.25 5,4.15 5,3.95 4.85,3.9 4.65,3.85 4.2,3.85 v -0.2 h 3.2 v 0.2 Q 6.55,3.9 6.05,4.2 5.5,4.45 4.05,5.85 L 3.6,6.25 5,8.1 q 1.05,1.4 1.65,1.85 0.55,0.45 1.15,0.5 v 0.2 H 4.4 v -0.2 H 4.65 Q 4.8,10.45 4.9,10.4 5,10.35 5,10.25 5,10.15 4.95,10.1 4.95,10 4.85,9.9 L 2.5,6.8 v 2.85 q 0,0.55 0.4,0.7 0.2,0.1 0.75,0.1 v 0.2 H 0 v -0.2"
+         id="path1237"
+         fill="#000"
+         fill-rule="evenodd"
+         stroke="none" />
+    </g>
+    <g
+       id="shape185">
+      <path
+         d="M 1.05,3.85 Q 0.65,3.25 0.65,2.5 0.65,1.6 1.35,0.8 2.1,0 3.4,0 3.95,0 4.6,0.25 5.3,0.55 5.9,0.55 6.05,0.5 6.4,0.5 q 0.3,0 0.45,0 h 0.1 v 0.65 h -1.3 q 0.1,0.3 0.2,0.55 0.1,0.45 0.1,0.85 Q 6,3.4 5.25,4.15 4.55,4.85 3.3,4.85 3.1,4.85 2.6,4.8 2.4,4.8 2,5.15 1.65,5.55 1.65,5.8 q 0,0.25 0.55,0.35 0.35,0.05 0.75,0.05 2,0 2.7,0.25 Q 6.8,6.8 6.8,8 q 0,1.2 -1.35,1.9 -1.35,0.75 -2.7,0.75 -1.3,0 -2,-0.5 Q 0,9.6 0,9.05 0,8.8 0.2,8.5 0.4,8.25 0.95,7.75 L 1.45,7.3 1.55,7.2 Q 1.2,7.05 1.05,6.9 0.7,6.7 0.75,6.4 0.7,6.1 1,5.75 1.25,5.4 2.1,4.65 1.45,4.4 1.05,3.85 m 0.8,5.7 Q 2.55,9.75 3.5,9.75 4.8,9.8 5.6,9.35 6.35,8.9 6.35,8.25 6.4,7.75 5.75,7.55 5.3,7.45 4.2,7.45 3.95,7.45 3.6,7.45 3.3,7.4 3.05,7.4 2.85,7.4 2.5,7.35 2.1,7.3 1.95,7.25 1.85,7.25 1.5,7.75 1.1,8.2 1.15,8.65 1.1,9.3 1.85,9.55 M 4.3,4.25 Q 4.75,3.9 4.75,3 4.75,2.25 4.35,1.35 4,0.45 3.15,0.45 2.4,0.45 2.1,1.15 1.95,1.5 1.95,2.1 1.95,3 2.4,3.75 2.85,4.5 3.6,4.5 4,4.5 4.3,4.25"
+         id="path1240"
+         fill="#000"
+         fill-rule="evenodd"
+         stroke="none" />
+    </g>
+    <g
+       id="shape186">
+      <path
+         d="m 3.75,8.9 q -0.3,1 -0.85,1.9 -0.65,1 -1.65,1.8 -0.65,0.6 -1.1,0.8 L 0,13.15 q 1.2,-0.9 1.7,-1.85 1,-1.65 1,-4.35 0,-2.2 -0.45,-3.6 Q 1.6,1.4 0,0.25 L 0.2,0 q 1.2,0.65 2.25,2.05 1.6,2.1 1.6,4.7 0,1.15 -0.3,2.15"
+         id="path1243"
+         fill="#000"
+         fill-rule="evenodd"
+         stroke="none" />
+    </g>
+    <g
+       id="shape187">
+      <path
+         d="M 10.5,7.5 Q 10.4,6.85 10.15,6.7 9.95,6.45 9.1,6.5 H 1.75 Q 1.3,6.45 1.1,6.6 0.9,6.7 0.9,7.15 0.9,7.2 0.9,7.3 0.95,7.4 0.95,7.5 H 0.65 Q 0.6,7.15 0.45,6.65 0.3,6.15 0.25,5.95 L 0,5.2 h 0.05 4.7 Q 4.2,4.75 3.95,4.35 3.5,3.7 3.5,2.9 3.5,1.65 4.55,1.2 5.05,0.95 5.95,0.95 H 9.1 q 0.8,0 1.05,-0.2 Q 10.4,0.6 10.5,0 h 0.2 V 3.3 H 10.5 Q 10.4,2.65 10.15,2.45 9.95,2.25 9.1,2.25 H 6 Q 5.25,2.25 4.8,2.5 4.35,2.75 4.35,3.45 4.35,4.05 4.75,4.6 5.2,5.15 5.3,5.15 H 9.1 Q 9.95,5.2 10.15,4.95 10.4,4.8 10.5,4.1 h 0.2 v 3.4 h -0.2"
+         id="path1246"
+         fill="#000"
+         fill-rule="evenodd"
+         stroke="none" />
+    </g>
+    <g
+       id="shape188">
+      <path
+         d="M 2,2.45 Q 0.75,1.5 0,0.15 L 0.25,0 q 1,1.25 1.9,1.75 1.65,0.95 4.3,0.95 2,0 3.3,-0.35 Q 12,1.7 13.15,0 l 0.25,0.2 q -0.45,0.95 -1.75,2.05 -2.2,1.8 -5,1.8 Q 4,4.05 2,2.45"
+         id="path1249"
+         fill="#000"
+         fill-rule="evenodd"
+         stroke="none" />
+    </g>
+    <g
+       id="shape189">
+      <path
+         d="M 8.85,5.4 Q 8.7,5.2 8.7,4.9 8.7,4.4 9.35,4.15 10,3.85 10,3.6 10,3.3 9.75,3.15 9.45,3.05 8.8,3.05 H 1.7 Q 0.85,3.05 0.6,3.35 0.35,3.6 0.3,4.5 H 0 V 0 h 0.3 q 0.05,0.9 0.3,1.2 0.3,0.25 1.1,0.25 h 5.75 q 1.6,0 2.35,0.75 0.75,0.8 0.75,1.9 0,0.7 -0.3,1.15 Q 9.9,5.65 9.5,5.65 9.05,5.65 8.85,5.4"
+         id="path1252"
+         fill="#000"
+         fill-rule="evenodd"
+         stroke="none" />
+    </g>
+    <g
+       id="shape190">
+      <path
+         d="M 0,0.75 V 0 L 10.85,3.4 V 4.2 L 0,0.75"
+         id="path1255"
+         fill="#000"
+         fill-rule="evenodd"
+         stroke="none" />
+    </g>
+    <g
+       id="shape191">
+      <path
+         d="M 10.45,7.8 Q 10.4,7.05 10.25,6.85 10.05,6.6 9.4,6.6 H 1.7 Q 1.15,6.6 1,6.8 0.9,6.95 0.85,7.3 0.9,7.45 0.9,7.55 0.9,7.7 0.9,7.8 H 0.7 L 0.5,7.1 Q 0.3,6.35 0.1,5.8 0,5.45 0,5.4 0,5.35 0,5.35 0.05,5.3 0.1,5.3 H 6.55 L 4.7,3.2 Q 4.45,2.95 4.35,2.9 4.25,2.8 4.15,2.8 3.95,2.8 3.9,3 3.85,3.15 3.85,3.6 H 3.65 V 0.4 h 0.2 Q 3.9,1.25 4.2,1.75 4.45,2.3 5.85,3.75 L 6.25,4.25 8.1,2.8 Q 9.5,1.75 9.95,1.2 10.4,0.6 10.45,0 h 0.2 v 3.4 h -0.2 V 3.15 Q 10.45,3 10.4,2.9 10.35,2.8 10.25,2.8 q -0.1,0 -0.15,0.05 -0.1,0 -0.2,0.1 L 6.8,5.3 h 2.85 q 0.55,0 0.7,-0.35 0.1,-0.25 0.1,-0.8 h 0.2 V 7.8 h -0.2"
+         id="path1258"
+         fill="#000"
+         fill-rule="evenodd"
+         stroke="none" />
+    </g>
+    <g
+       id="shape192">
+      <path
+         d="M 3.85,5.9 Q 3.25,6.3 2.5,6.3 1.6,6.3 0.8,5.6 0,4.9 0,3.6 0,3 0.25,2.35 0.55,1.65 0.55,1.05 0.5,0.9 0.5,0.55 0.5,0.25 0.5,0.1 V 0 H 1.15 V 1.35 Q 1.45,1.2 1.7,1.1 2.15,1 2.55,1 q 0.85,0 1.6,0.7 0.7,0.75 0.7,1.95 0,0.2 -0.05,0.7 0,0.2 0.35,0.6 Q 5.55,5.3 5.8,5.3 6,5.3 6.15,4.75 6.2,4.4 6.2,4 6.2,2 6.45,1.3 6.8,0.15 8,0.15 q 1.2,0 1.9,1.35 0.75,1.35 0.75,2.75 0,1.25 -0.5,1.95 Q 9.6,6.95 9.05,6.95 8.8,6.95 8.5,6.75 8.25,6.55 7.75,6 L 7.3,5.5 7.2,5.4 Q 7.05,5.75 6.9,5.9 6.7,6.25 6.4,6.25 6.1,6.2 5.75,5.95 5.4,5.7 4.65,4.85 4.4,5.55 3.85,5.9 M 4.25,2.65 Q 3.9,2.2 3,2.2 2.25,2.2 1.35,2.6 0.45,2.95 0.45,3.8 0.45,4.6 1.15,4.85 1.5,5 2.1,5 3,5 3.75,4.55 4.5,4.1 4.5,3.4 4.5,2.95 4.25,2.65 M 9.55,5.1 Q 9.75,4.4 9.75,3.45 9.8,2.15 9.35,1.4 8.9,0.6 8.25,0.6 q -0.5,0 -0.7,0.65 -0.1,0.35 -0.1,1.5 0,0.25 0,0.6 Q 7.4,3.65 7.4,3.9 7.4,4.1 7.35,4.45 7.3,4.85 7.25,5 q 0,0.1 0.5,0.45 0.45,0.4 0.9,0.4 Q 9.3,5.8 9.55,5.1"
+         id="path1261"
+         fill="#000"
+         fill-rule="evenodd"
+         stroke="none" />
+    </g>
+    <g
+       id="shape193">
+      <path
+         d="m 8.9,0.3 q 1,0.3 1.9,0.85 1,0.65 1.8,1.65 0.6,0.65 0.8,1.1 l -0.25,0.15 q -0.9,-1.2 -1.85,-1.7 -1.65,-1 -4.35,-1 -2.2,0 -3.6,0.45 Q 1.4,2.45 0.25,4.05 L 0,3.85 Q 0.65,2.65 2.05,1.6 4.15,0 6.75,0 7.9,0 8.9,0.3"
+         id="path1264"
+         fill="#000"
+         fill-rule="evenodd"
+         stroke="none" />
+    </g>
+    <g
+       id="shape194">
+      <path
+         d="M 0,0.4 0.45,0 4.45,4.15 5.4,3.2 6,3.8 5,4.75 6.55,6.3 5.8,7 4.3,5.45 1.65,8 1.05,7.4 0,0.4 M 0.6,1.65 1.45,7 3.7,4.85 0.6,1.65"
+         id="path1267"
+         fill="#0d902f"
+         fill-rule="evenodd"
+         stroke="none" />
+    </g>
+    <g
+       id="shape195">
+      <path
+         d="M 1.8,4.6 Q 1,4.45 0.5,3.95 -0.1,3.35 0,2.4 0.1,1.5 0.9,0.75 1.65,0 2.45,0 3.3,0 3.8,0.5 4.35,1.05 4.3,1.9 4.25,2.4 4,3.25 5.35,3.1 6.1,3.2 6.85,3.3 7.4,3.9 8.05,4.55 8,5.45 7.9,6.4 7.1,7.2 6.35,7.95 5.4,8.05 4.45,8.15 3.8,7.45 3.25,6.85 3.2,6.05 3.15,5.55 3.35,4.55 2.3,4.65 1.8,4.6 M 3.65,2.25 Q 3.6,1.65 3.1,1.15 2.7,0.7 2.15,0.65 1.55,0.6 1.05,1.15 0.6,1.55 0.6,2.05 0.55,2.6 0.95,3 1.35,3.4 2.05,3.45 2.7,3.55 3.55,3.35 3.7,2.6 3.65,2.25 M 7.4,5.85 Q 7.4,5.3 6.95,4.85 6.45,4.35 5.9,4.3 5.3,4.3 3.8,4.5 3.65,5.15 3.85,5.7 4.05,6.3 4.4,6.65 5,7.25 5.7,7.35 6.35,7.4 6.9,6.9 7.4,6.4 7.4,5.85"
+         id="path1270"
+         fill="#0d902f"
+         fill-rule="evenodd"
+         stroke="none" />
+    </g>
+    <g
+       id="shape196">
+      <path
+         d="m 3.5,0.2 q 1.35,0.45 2.45,1.6 0.9,0.9 1.4,2 0.9,2.05 -0.4,3.3 Q 6.05,8 4.65,7.75 3.2,7.45 1.75,5.95 0.6,4.75 0.2,3.5 -0.4,1.8 0.8,0.65 1.85,-0.35 3.5,0.2 M 6.95,5.15 Q 6.5,4.2 5.15,2.8 4.05,1.65 3.25,1.15 1.8,0.2 1,0.95 0.25,1.7 1.15,3.25 q 0.55,0.8 1.6,1.95 1,1 1.75,1.5 1.45,0.9 2.25,0.1 0.65,-0.65 0.2,-1.65"
+         id="path1273"
+         fill="#0d902f"
+         fill-rule="evenodd"
+         stroke="none" />
+    </g>
+    <g
+       id="shape197">
+      <path
+         d="m 5.85,11.9 q 0.55,-0.6 0.5,-0.9 0,-0.3 -0.6,-0.9 L 1.85,6.05 Q 1.35,5.5 1.05,5.5 0.75,5.5 0.15,6 L 0,5.85 2.7,3.25 2.85,3.4 Q 2.3,4 2.3,4.3 2.3,4.6 2.8,5.1 L 4.65,7.05 Q 4.8,5.45 4.85,4.4 4.95,2.5 4.7,2.25 4.5,2.05 4.25,2.15 4.05,2.25 3.75,2.55 L 3.55,2.4 6.05,0 6.2,0.15 Q 5.8,0.65 5.65,1.05 5.55,1.4 5.5,2.3 L 5.3,5.75 9.85,6.05 Q 11.1,6.1 11.5,6.05 11.85,6 12.35,5.6 L 12.5,5.8 9.6,8.55 9.45,8.4 Q 9.85,8 9.95,7.85 10,7.65 9.9,7.5 9.8,7.45 9.55,7.35 9.35,7.3 8.9,7.25 L 5.2,7.05 V 7.6 l 1.65,1.7 q 0.5,0.5 0.8,0.5 0.3,0 0.85,-0.5 L 8.65,9.5 6,12.05 5.85,11.9"
+         id="path1276"
+         fill="#0d902f"
+         fill-rule="evenodd"
+         stroke="none" />
+    </g>
+    <g
+       id="shape198">
+      <path
+         d="M 5.35,8.4 Q 6.05,8.3 6.3,8.05 6.8,7.55 6.75,6.7 6.65,5.85 6,5.2 4.8,4 3.05,4.75 2.1,5.15 1.5,5.75 1.4,5.85 1.35,5.9 q 0,0 -0.1,0 Q 1.2,5.85 1.2,5.8 1.2,5.8 1.15,5.75 L 0,2.6 1.95,0.65 Q 2.1,0.55 2.1,0.4 2.15,0.25 2.15,0 h 0.1 l 0.5,1.2 Q 2.8,1.25 2.7,1.35 2.65,1.4 2.55,1.5 L 0.8,3.25 1.2,4.45 Q 2.05,3.85 2.5,3.6 3.3,3.2 4,3.2 q 0.7,0 1.25,0.25 0.55,0.2 1,0.65 1,1 0.95,2.4 Q 7.15,7.9 6.05,8.95 5.65,9.4 5.25,9.6 4.7,9.9 4.3,9.55 4.2,9.4 4.2,9.2 4.15,9 4.4,8.8 4.65,8.55 5.35,8.4"
+         id="path1279"
+         fill="#0d902f"
+         fill-rule="evenodd"
+         stroke="none" />
+    </g>
+    <g
+       id="shape199">
+      <path
+         d="M 4.95,8.8 Q 4.9,5.45 4.7,4.05 4.45,2.65 3.7,1.9 3.05,1.2 2.35,1.25 1.6,1.25 1.15,1.75 0.5,2.35 0.6,3.2 0.6,3.65 0.95,4.35 L 0.7,4.5 Q -0.1,3.25 0,2.3 0.15,1.4 0.75,0.75 1.55,0 2.5,0 q 0.95,0 1.65,0.7 0.7,0.75 0.9,1.95 0.2,1.2 0.2,4.65 L 7.35,5.2 Q 7.8,4.8 7.85,4.5 7.9,4.25 7.75,3.6 L 7.9,3.55 8.65,5.3 5.05,8.9 4.95,8.8"
+         id="path1282"
+         fill="#0d902f"
+         fill-rule="evenodd"
+         stroke="none" />
+    </g>
+    <g
+       id="shape200">
+      <path
+         d="M 3.45,0.15 Q 4.8,0.6 5.95,1.75 6.85,2.65 7.35,3.7 8.3,5.75 7,7.05 6.15,7.9 4.75,7.7 3.25,7.45 1.8,5.95 0.65,4.8 0.2,3.55 -0.4,1.85 0.75,0.7 1.8,-0.35 3.45,0.15 M 7,5.1 Q 6.5,4.1 5.15,2.75 4.05,1.65 3.25,1.15 1.75,0.2 1,0.95 0.2,1.75 1.2,3.25 1.7,4.1 2.8,5.15 3.8,6.2 4.6,6.65 6,7.5 6.8,6.7 7.5,6.05 7,5.1"
+         id="path1285"
+         fill="#0d902f"
+         fill-rule="evenodd"
+         stroke="none" />
+    </g>
+    <g
+       id="shape201">
+      <path
+         d="m 5.95,11.9 q 0.55,-0.6 0.5,-0.9 0,-0.3 -0.6,-0.9 l -4,-4 Q 1.35,5.6 1.05,5.6 0.75,5.6 0.15,6.1 L 0,5.95 2.65,3.3 2.8,3.45 q -0.5,0.6 -0.5,0.9 -0.05,0.3 0.45,0.8 l 1.9,1.9 Q 4.8,5.45 4.85,4.4 4.85,2.55 4.6,2.25 4.45,2.1 4.2,2.2 4,2.3 3.7,2.6 L 3.5,2.4 5.95,0 6.1,0.15 Q 5.7,0.65 5.55,1.05 5.45,1.4 5.4,2.3 L 5.3,5.8 9.85,5.95 Q 11.1,6 11.5,5.95 11.85,5.9 12.35,5.5 L 12.5,5.65 9.65,8.5 9.5,8.35 Q 9.9,7.95 9.95,7.75 10.05,7.6 9.9,7.45 9.85,7.35 9.6,7.3 9.35,7.2 8.95,7.2 L 5.25,7.05 5.2,7.6 6.9,9.3 Q 7.4,9.8 7.7,9.8 8,9.75 8.55,9.3 L 8.7,9.45 6.1,12.05 5.95,11.9"
+         id="path1288"
+         fill="#0d902f"
+         fill-rule="evenodd"
+         stroke="none" />
+    </g>
+    <g
+       id="shape202">
+      <path
+         d="M 0,0.4 0.45,0 4.35,4.2 5.35,3.3 5.9,3.9 4.95,4.8 6.4,6.4 5.7,7.1 4.2,5.5 1.5,8 0.95,7.4 0,0.4 M 0.6,1.65 1.3,7.05 3.6,4.9 0.6,1.65"
+         id="path1291"
+         fill="#0d902f"
+         fill-rule="evenodd"
+         stroke="none" />
+    </g>
+    <g
+       id="shape203">
+      <path
+         d="M 0,0.4 0.45,0 4.35,4.2 5.35,3.3 5.9,3.9 4.95,4.8 6.45,6.4 5.7,7.1 4.2,5.5 1.5,8 0.95,7.4 0,0.4 M 0.6,1.65 1.3,7.05 3.6,4.9 0.6,1.65"
+         id="path1294"
+         fill="#0d902f"
+         fill-rule="evenodd"
+         stroke="none" />
+    </g>
+    <g
+       id="shape204">
+      <path
+         d="M 3.55,0.2 Q 4.85,0.7 5.95,1.85 6.85,2.8 7.3,3.9 8.2,5.95 6.85,7.2 5.95,8.05 4.55,7.75 3.1,7.45 1.65,5.95 0.55,4.7 0.15,3.45 q -0.5,-1.7 0.7,-2.8 1.05,-1 2.7,-0.45 M 6.9,5.25 Q 6.45,4.25 5.15,2.85 4.1,1.7 3.3,1.15 1.85,0.15 1.05,0.9 q -0.8,0.75 0.1,2.3 0.5,0.85 1.55,2 1,1.05 1.75,1.55 1.4,0.9 2.2,0.1 0.7,-0.6 0.25,-1.6"
+         id="path1297"
+         fill="#0d902f"
+         fill-rule="evenodd"
+         stroke="none" />
+    </g>
+    <g
+       id="shape205">
+      <path
+         d="M 5.75,11.9 Q 6.3,11.3 6.3,11 6.25,10.7 5.7,10.1 L 1.85,5.95 Q 1.35,5.45 1.05,5.45 0.75,5.4 0.15,5.9 L 0,5.7 2.7,3.2 2.9,3.35 Q 2.35,3.9 2.35,4.2 2.3,4.55 2.8,5.05 L 4.65,7 Q 4.8,5.45 4.9,4.4 5,2.5 4.75,2.2 4.55,2.05 4.35,2.1 4.1,2.25 3.8,2.5 L 3.65,2.35 6.15,0 6.3,0.2 Q 5.9,0.65 5.75,1.05 5.6,1.4 5.55,2.3 L 5.3,5.75 9.85,6.1 Q 11.1,6.15 11.5,6.15 11.85,6.1 12.35,5.75 L 12.5,5.9 9.55,8.6 9.4,8.45 Q 9.8,8.1 9.9,7.9 10,7.7 9.85,7.55 9.8,7.5 9.55,7.4 9.3,7.35 8.9,7.3 L 5.2,7.05 5.15,7.6 6.75,9.3 Q 7.3,9.85 7.55,9.85 7.85,9.8 8.45,9.35 L 8.6,9.55 5.9,12.05 5.75,11.9"
+         id="path1300"
+         fill="#0d902f"
+         fill-rule="evenodd"
+         stroke="none" />
+    </g>
+    <g
+       id="shape206">
+      <path
+         d="M 0.15,0.35 0.7,0 3.9,4.75 5,4 5.45,4.7 4.35,5.45 5.6,7.25 4.75,7.85 3.5,6.05 0.45,8.1 0,7.4 0.15,0.35 m 0.4,1.3 -0.1,5.45 2.6,-1.75 -2.5,-3.7"
+         id="path1303"
+         fill="#0d902f"
+         fill-rule="evenodd"
+         stroke="none" />
+    </g>
+    <g
+       id="shape207">
+      <path
+         d="M 3.9,0.4 Q 5.1,1.1 6,2.4 6.75,3.5 7.05,4.65 7.6,6.8 6.05,7.8 5.05,8.55 3.7,8.05 2.3,7.5 1.15,5.75 0.2,4.4 0.05,3.1 -0.2,1.3 1.15,0.4 2.35,-0.4 3.9,0.4 M 6.4,5.9 Q 6.15,4.85 5.05,3.25 4.2,1.95 3.5,1.3 2.2,0.1 1.3,0.7 0.4,1.3 1.05,3 1.4,3.9 2.3,5.2 3.1,6.4 3.75,7 5,8.1 5.95,7.5 6.7,6.95 6.4,5.9"
+         id="path1306"
+         fill="#0d902f"
+         fill-rule="evenodd"
+         stroke="none" />
+    </g>
+    <g
+       id="shape208">
+      <path
+         d="M 3.9,0.4 Q 5.1,1.1 6,2.4 6.75,3.5 7.05,4.65 7.6,6.8 6.05,7.8 5.05,8.55 3.7,8.05 2.3,7.5 1.15,5.75 0.2,4.4 0.05,3.1 -0.2,1.3 1.15,0.4 2.35,-0.4 3.9,0.4 M 6.4,5.9 Q 6.15,4.85 5.05,3.25 4.2,1.95 3.5,1.3 2.2,0.1 1.3,0.7 0.4,1.3 1.05,3 1.4,3.9 2.3,5.2 3.1,6.4 3.75,7 5,8.1 5.95,7.5 6.7,6.95 6.4,5.9"
+         id="path1309"
+         fill="#0d902f"
+         fill-rule="evenodd"
+         stroke="none" />
+    </g>
+    <g
+       id="shape209">
+      <path
+         d="M 4.7,11.7 Q 5.35,11.15 5.35,10.9 5.4,10.6 4.95,9.9 L 1.75,5.2 Q 1.4,4.6 1.1,4.55 0.8,4.5 0.15,4.9 L 0,4.7 3.1,2.6 3.2,2.8 Q 2.6,3.25 2.55,3.6 2.5,3.85 2.85,4.45 L 4.35,6.7 Q 4.8,5.15 5.05,4.15 5.45,2.25 5.25,1.95 5.1,1.75 4.85,1.8 4.6,1.9 4.25,2.1 L 4.1,1.9 6.95,0 7.1,0.2 Q 6.6,0.6 6.4,0.95 6.2,1.3 6,2.15 L 5.2,5.55 9.7,6.6 q 1.2,0.3 1.6,0.3 0.35,0 0.9,-0.25 L 12.3,6.8 9,9.05 8.9,8.85 Q 9.3,8.55 9.45,8.4 9.55,8.2 9.45,8.05 9.4,7.95 9.15,7.85 8.95,7.75 8.55,7.65 L 4.95,6.8 4.8,7.35 6.15,9.3 q 0.4,0.6 0.7,0.65 0.25,0 0.9,-0.35 L 7.9,9.8 4.85,11.85 4.7,11.7"
+         id="path1312"
+         fill="#0d902f"
+         fill-rule="evenodd"
+         stroke="none" />
+    </g>
+    <g
+       id="shape210">
+      <path
+         d="m 4.65,7.8 q 0.7,0 1,-0.2 Q 6.4,7.05 6.45,6.35 6.45,5.6 6.05,5 5.7,4.45 5.1,4.2 4.1,3.8 2.95,4.6 2.85,4.65 2.8,4.7 2.75,4.75 2.65,4.8 L 2.55,4.65 Q 3.2,3.8 3.45,3.05 3.65,2.35 3.2,1.7 2.8,1.1 2.25,1.05 q -0.6,0 -1.1,0.3 -0.6,0.4 -0.75,1.15 -0.05,0.4 0,1.05 L 0.2,3.65 Q -0.15,2.7 0.1,1.8 0.35,0.95 1.1,0.45 1.95,-0.1 2.65,0.05 q 0.75,0.1 1.15,0.7 0.35,0.5 0.25,1.2 0,0.4 -0.25,0.95 0.65,-0.1 1.15,0 0.95,0.15 1.55,1 0.65,1 0.4,2.3 Q 6.6,7.5 5.15,8.5 4.5,8.95 4.1,8.9 3.7,8.9 3.55,8.7 3.5,8.55 3.5,8.35 3.5,8.15 3.7,8.05 3.95,7.85 4.65,7.8"
+         id="path1315"
+         fill="#0d902f"
+         fill-rule="evenodd"
+         stroke="none" />
+    </g>
+    <g
+       id="shape211">
+      <path
+         d="M 6.55,7 Q 6.5,8.2 5.5,8.85 4.55,9.5 3.2,9.15 1.85,8.8 0.85,7.35 -0.4,5.45 0.2,3.15 0.75,1.1 2.4,0 L 2.55,0.15 Q 1.95,0.75 1.65,1.25 1.3,1.8 1.15,2.4 1.05,3.05 1.1,3.9 1.15,4.7 1.4,5.35 1.6,4.95 1.8,4.7 2.1,4.2 2.5,3.95 3.35,3.35 4.3,3.55 5.3,3.75 6,4.85 6.65,5.8 6.55,7 M 4.25,4.8 Q 3.25,4.15 2.4,4.75 1.55,5.3 1.6,5.95 1.65,6.35 2.1,7 2.7,7.9 3.6,8.45 4.55,9.05 5.35,8.5 5.95,8.1 5.9,7.35 5.8,6.6 5.3,5.9 4.85,5.2 4.25,4.8"
+         id="path1318"
+         fill="#0d902f"
+         fill-rule="evenodd"
+         stroke="none" />
+    </g>
+    <g
+       id="shape212">
+      <path
+         d="M 3.9,0.4 Q 5.1,1.1 6,2.4 6.75,3.5 7.05,4.65 7.6,6.8 6.05,7.8 5.05,8.55 3.7,8.05 2.3,7.5 1.15,5.75 0.2,4.4 0.05,3.1 -0.2,1.3 1.15,0.4 2.35,-0.4 3.9,0.4 M 6.4,5.9 Q 6.15,4.85 5.05,3.25 4.2,1.95 3.5,1.3 2.2,0.1 1.3,0.7 0.4,1.3 1.05,3 1.4,3.9 2.3,5.2 3.1,6.4 3.75,7 5,8.1 5.95,7.5 6.7,6.95 6.4,5.9"
+         id="path1321"
+         fill="#0d902f"
+         fill-rule="evenodd"
+         stroke="none" />
+    </g>
+    <g
+       id="shape213">
+      <path
+         d="M 4.7,11.7 Q 5.35,11.15 5.35,10.9 5.4,10.6 4.95,9.9 L 1.75,5.2 Q 1.4,4.6 1.1,4.55 0.8,4.5 0.15,4.9 L 0,4.7 3.1,2.6 3.2,2.8 Q 2.6,3.25 2.55,3.6 2.5,3.85 2.85,4.45 L 4.35,6.7 Q 4.8,5.15 5.05,4.15 5.45,2.25 5.25,1.95 5.1,1.75 4.85,1.8 4.6,1.9 4.25,2.1 L 4.1,1.9 6.95,0 7.1,0.2 Q 6.6,0.6 6.4,0.95 6.2,1.3 6,2.15 L 5.2,5.55 9.7,6.6 q 1.2,0.3 1.6,0.3 0.35,0 0.9,-0.25 L 12.3,6.8 9,9.05 8.85,8.85 Q 9.3,8.55 9.45,8.4 9.55,8.2 9.45,8.05 9.4,7.95 9.15,7.85 8.95,7.75 8.55,7.65 L 4.95,6.8 4.8,7.35 6.15,9.3 q 0.4,0.6 0.7,0.65 0.25,0 0.9,-0.35 L 7.9,9.8 4.85,11.85 4.7,11.7"
+         id="path1324"
+         fill="#0d902f"
+         fill-rule="evenodd"
+         stroke="none" />
+    </g>
+    <g
+       id="shape214">
+      <path
+         d="m 4.65,7.8 q 0.7,0 1,-0.2 Q 6.4,7.05 6.45,6.35 6.45,5.6 6.05,5 5.7,4.45 5.1,4.2 4.1,3.8 2.95,4.6 2.85,4.65 2.8,4.7 2.75,4.75 2.65,4.8 L 2.55,4.65 Q 3.2,3.8 3.45,3.05 3.65,2.35 3.2,1.7 2.8,1.1 2.25,1.05 q -0.6,0 -1.1,0.3 -0.6,0.4 -0.75,1.15 -0.05,0.4 0,1.05 L 0.2,3.65 Q -0.15,2.7 0.1,1.8 0.35,0.95 1.1,0.45 1.95,-0.1 2.65,0.05 q 0.75,0.1 1.15,0.7 0.35,0.5 0.25,1.2 0,0.4 -0.25,0.95 0.65,-0.1 1.15,0 0.95,0.15 1.55,1 0.65,1 0.4,2.3 Q 6.6,7.5 5.15,8.5 4.5,8.95 4.1,8.9 3.7,8.9 3.55,8.7 3.5,8.55 3.5,8.35 3.5,8.15 3.7,8.05 3.95,7.85 4.65,7.8"
+         id="path1327"
+         fill="#0d902f"
+         fill-rule="evenodd"
+         stroke="none" />
+    </g>
+    <g
+       id="shape215">
+      <path
+         d="M 3.75,9.15 Q 4.3,5.85 4.35,4.45 4.45,3.05 3.8,2.15 3.3,1.35 2.6,1.25 1.9,1.1 1.3,1.5 0.6,2 0.5,2.8 0.45,3.3 0.6,4.05 L 0.35,4.15 Q -0.2,2.75 0.1,1.85 0.45,0.95 1.15,0.45 2.05,-0.15 3,0.05 3.9,0.25 4.45,1.05 5.05,1.9 5,3.1 4.95,4.35 4.3,7.75 L 6.75,6.1 Q 7.25,5.75 7.4,5.5 7.5,5.25 7.45,4.6 L 7.65,4.55 8.05,6.45 3.8,9.3 3.75,9.15"
+         id="path1330"
+         fill="#0d902f"
+         fill-rule="evenodd"
+         stroke="none" />
+    </g>
+    <g
+       id="shape216">
+      <path
+         d="M 3.9,0.4 Q 5.1,1.1 6,2.4 6.75,3.5 7.05,4.65 7.6,6.8 6.05,7.8 5.05,8.55 3.7,8.05 2.3,7.5 1.15,5.75 0.2,4.4 0.05,3.1 -0.2,1.3 1.15,0.4 2.35,-0.4 3.9,0.4 M 6.4,5.9 Q 6.15,4.85 5.05,3.25 4.2,1.95 3.5,1.3 2.2,0.1 1.3,0.7 0.4,1.35 1.05,3 1.4,3.9 2.3,5.2 3.1,6.4 3.75,7 5,8.1 5.95,7.5 6.7,6.95 6.4,5.9"
+         id="path1333"
+         fill="#0d902f"
+         fill-rule="evenodd"
+         stroke="none" />
+    </g>
+    <g
+       id="shape217">
+      <path
+         d="M 4.7,11.7 Q 5.35,11.15 5.35,10.9 5.4,10.6 4.95,9.9 L 1.75,5.2 Q 1.4,4.6 1.1,4.55 0.8,4.5 0.15,4.9 L 0,4.7 3.1,2.6 3.2,2.8 Q 2.6,3.25 2.55,3.6 2.5,3.85 2.85,4.45 L 4.35,6.7 Q 4.8,5.15 5.05,4.15 5.45,2.25 5.25,1.95 5.1,1.75 4.85,1.8 4.6,1.9 4.25,2.1 L 4.1,1.9 6.95,0 7.1,0.2 Q 6.6,0.6 6.4,0.95 6.2,1.3 6,2.15 L 5.2,5.55 9.7,6.6 q 1.2,0.3 1.6,0.3 0.35,0 0.9,-0.25 L 12.3,6.8 9,9.05 8.85,8.85 Q 9.3,8.55 9.45,8.4 9.55,8.2 9.45,8.05 9.4,7.95 9.15,7.85 8.95,7.75 8.55,7.65 L 4.95,6.8 4.8,7.35 6.15,9.3 q 0.4,0.6 0.7,0.65 0.25,0 0.9,-0.35 L 7.9,9.8 4.85,11.85 4.7,11.7"
+         id="path1336"
+         fill="#0d902f"
+         fill-rule="evenodd"
+         stroke="none" />
+    </g>
+    <g
+       id="shape218">
+      <path
+         d="M 3.75,9.15 Q 4.3,5.85 4.35,4.45 4.45,3.05 3.8,2.15 3.3,1.35 2.6,1.25 1.9,1.1 1.3,1.5 0.6,2 0.5,2.8 0.45,3.3 0.6,4.05 L 0.35,4.15 Q -0.2,2.75 0.1,1.85 0.45,0.95 1.15,0.45 2.05,-0.15 3,0.05 3.9,0.25 4.45,1.05 5.05,1.9 5,3.1 4.95,4.35 4.3,7.75 L 6.75,6.1 Q 7.25,5.75 7.4,5.5 7.5,5.25 7.45,4.6 L 7.65,4.55 8.05,6.45 3.8,9.3 3.75,9.15"
+         id="path1339"
+         fill="#0d902f"
+         fill-rule="evenodd"
+         stroke="none" />
+    </g>
+    <g
+       id="shape219">
+      <path
+         d="M 1.45,4.4 Q 0.7,4.15 0.3,3.55 -0.15,2.85 0.1,2 0.35,1.1 1.25,0.45 2.1,-0.1 2.95,0 3.75,0.15 4.15,0.75 4.55,1.35 4.4,2.2 4.3,2.7 3.85,3.5 5.2,3.55 5.95,3.8 6.65,4 7.1,4.7 7.65,5.45 7.4,6.35 7.2,7.25 6.2,7.9 5.35,8.5 4.4,8.45 3.5,8.35 2.95,7.6 2.5,6.9 2.6,6.1 2.65,5.6 3,4.65 1.95,4.6 1.45,4.4 M 3.7,2.45 Q 3.75,1.8 3.35,1.25 3.05,0.75 2.5,0.6 1.95,0.45 1.3,0.9 0.8,1.2 0.7,1.75 0.6,2.25 0.9,2.7 1.25,3.2 1.9,3.35 2.55,3.55 3.4,3.5 3.7,2.8 3.7,2.45 M 6.75,6.6 Q 6.85,6.1 6.5,5.55 6.1,5 5.55,4.85 4.95,4.75 3.45,4.7 3.2,5.3 3.3,5.9 3.4,6.45 3.7,6.9 4.15,7.6 4.85,7.8 5.5,7.95 6.05,7.6 6.7,7.15 6.75,6.6"
+         id="path1342"
+         fill="#0d902f"
+         fill-rule="evenodd"
+         stroke="none" />
+    </g>
+    <g
+       id="shape220">
+      <path
+         d="M 3.9,0.4 Q 5.1,1.1 6,2.4 6.75,3.5 7.05,4.65 7.6,6.8 6.05,7.8 5.05,8.55 3.7,8.05 2.3,7.5 1.15,5.75 0.2,4.4 0.05,3.1 -0.2,1.3 1.15,0.4 2.35,-0.4 3.9,0.4 M 6.4,5.9 Q 6.15,4.85 5.05,3.25 4.2,1.95 3.5,1.3 2.2,0.1 1.3,0.7 0.4,1.3 1.05,3 1.4,3.9 2.3,5.2 3.1,6.4 3.75,7 5,8.1 5.95,7.5 6.7,6.95 6.4,5.9"
+         id="path1345"
+         fill="#0d902f"
+         fill-rule="evenodd"
+         stroke="none" />
+    </g>
+    <g
+       id="shape221">
+      <path
+         d="M 4.7,11.7 Q 5.35,11.15 5.35,10.9 5.4,10.6 4.95,9.9 L 1.75,5.2 Q 1.4,4.6 1.1,4.55 0.8,4.5 0.15,4.9 L 0,4.7 3.1,2.6 3.2,2.8 Q 2.6,3.25 2.55,3.6 2.5,3.85 2.85,4.45 L 4.35,6.7 Q 4.8,5.15 5.05,4.15 5.45,2.25 5.25,1.95 5.1,1.75 4.85,1.8 4.6,1.9 4.25,2.1 L 4.1,1.9 6.95,0 7.1,0.2 Q 6.6,0.6 6.4,0.95 6.2,1.3 6,2.15 L 5.2,5.55 9.7,6.6 q 1.2,0.3 1.6,0.3 0.35,0 0.9,-0.25 L 12.3,6.8 9,9.05 8.85,8.85 Q 9.3,8.55 9.45,8.4 9.55,8.2 9.45,8.05 9.4,7.95 9.15,7.85 8.95,7.75 8.55,7.65 L 4.95,6.8 4.8,7.35 6.15,9.3 q 0.4,0.6 0.7,0.65 0.25,0 0.9,-0.35 L 7.9,9.8 4.85,11.85 4.7,11.7"
+         id="path1348"
+         fill="#0d902f"
+         fill-rule="evenodd"
+         stroke="none" />
+    </g>
+    <g
+       id="shape222">
+      <path
+         d="M 1.5,8.2 Q 2.1,8.65 2.45,8.65 3.15,8.65 3.7,8 4.25,7.35 4.25,6.4 4.25,4.75 2.5,4 1.5,3.6 0.7,3.6 0.55,3.6 0.5,3.6 0.45,3.6 0.4,3.55 0.45,3.5 0.45,3.45 0.45,3.4 0.45,3.4 L 1.85,0.35 H 4.6 q 0.2,0 0.3,-0.1 Q 5,0.2 5.2,0 L 5.3,0.1 4.8,1.25 q 0,0.1 -0.15,0.1 -0.1,0 -0.25,0 H 1.95 L 1.4,2.5 q 1.05,0.15 1.55,0.3 0.8,0.3 1.3,0.8 0.5,0.45 0.7,1 0.25,0.6 0.25,1.2 0,1.45 -1,2.4 Q 3.2,9.1 1.65,9.1 1,9.15 0.65,9 0,8.8 0,8.3 0,8.1 0.15,7.95 0.25,7.8 0.55,7.8 q 0.4,0 0.95,0.4"
+         id="path1351"
+         fill="#0d902f"
+         fill-rule="evenodd"
+         stroke="none" />
+    </g>
+    <g
+       id="shape223">
+      <path
+         d="M 4.9,8.15 Q 4.15,9.05 2.95,9.1 1.85,9.05 0.9,8 0,7 0,5.2 0,2.95 1.8,1.35 3.4,0 5.35,0 L 5.4,0.2 Q 4.6,0.35 4.05,0.6 3.45,0.85 3,1.3 2.55,1.8 2.15,2.5 1.7,3.2 1.55,3.9 1.95,3.65 2.25,3.55 2.75,3.3 3.25,3.35 4.3,3.3 5,4.05 q 0.65,0.65 0.65,2 0,1.15 -0.75,2.1 M 4.25,5 Q 3.8,3.9 2.7,3.9 1.75,3.9 1.4,4.5 1.2,4.85 1.2,5.65 q 0,1.05 0.45,2.05 0.45,1 1.4,1 0.75,0 1.1,-0.65 Q 4.5,7.4 4.5,6.5 4.5,5.7 4.25,5"
+         id="path1354"
+         fill="#0d902f"
+         fill-rule="evenodd"
+         stroke="none" />
+    </g>
+    <g
+       id="shape224">
+      <path
+         d="M 5.25,1.55 Q 5.9,2.8 5.9,4.4 5.9,5.65 5.5,6.8 4.8,8.9 2.95,8.9 1.65,8.9 0.85,7.75 0,6.55 0,4.45 0,2.8 0.6,1.6 1.35,0 3,0 4.45,0 5.25,1.55 M 4.3,7.5 q 0.35,-1 0.35,-2.95 0,-1.55 -0.2,-2.5 -0.4,-1.7 -1.5,-1.7 -1.05,0 -1.5,1.75 -0.2,0.95 -0.2,2.5 0,1.45 0.25,2.3 0.4,1.65 1.5,1.65 0.95,0 1.3,-1.05"
+         id="path1357"
+         fill="#0d902f"
+         fill-rule="evenodd"
+         stroke="none" />
+    </g>
+    <g
+       id="shape225">
+      <path
+         d="M 0,8.45 Q 0.8,8.35 1,8.15 1.2,7.9 1.2,7.1 V 1.4 Q 1.2,0.7 0.95,0.5 0.75,0.3 0,0.25 V 0 H 3.7 V 0.25 Q 2.95,0.3 2.75,0.5 2.5,0.7 2.5,1.4 V 4.1 Q 3.7,3.05 4.5,2.35 5.85,1.05 5.85,0.65 5.85,0.4 5.6,0.35 5.4,0.25 4.95,0.25 V 0 H 8.4 V 0.25 Q 7.75,0.3 7.4,0.5 7.05,0.65 6.4,1.25 L 3.85,3.65 6.95,7 Q 7.8,7.9 8.1,8.15 8.45,8.35 9,8.45 v 0.2 H 5 V 8.45 Q 5.55,8.4 5.75,8.35 5.95,8.25 5.95,8.05 5.95,7.95 5.8,7.75 5.7,7.5 5.45,7.2 L 2.9,4.5 2.5,4.9 v 2.35 q 0,0.7 0.25,0.9 0.2,0.2 0.95,0.3 v 0.2 H 0 v -0.2"
+         id="path1360"
+         fill="#0d902f"
+         fill-rule="evenodd"
+         stroke="none" />
+    </g>
+    <g
+       id="shape226">
+      <path
+         d="M 4.9,8.15 Q 4.15,9.05 2.95,9.1 1.85,9.05 0.9,8 0,7 0,5.2 0,2.95 1.8,1.35 3.4,0 5.35,0 L 5.4,0.2 Q 4.6,0.35 4.05,0.6 3.45,0.85 3,1.3 2.55,1.8 2.15,2.5 1.7,3.2 1.55,3.9 1.95,3.65 2.25,3.55 2.75,3.3 3.25,3.35 4.3,3.3 5,4.05 q 0.65,0.65 0.65,2 0,1.15 -0.75,2.1 M 4.25,5 Q 3.8,3.9 2.7,3.9 1.75,3.9 1.4,4.5 1.2,4.85 1.2,5.65 q 0,1.05 0.45,2.05 0.45,1 1.4,1 0.75,0 1.1,-0.65 Q 4.5,7.4 4.5,6.5 4.5,5.7 4.25,5"
+         id="path1363"
+         fill="#0d902f"
+         fill-rule="evenodd"
+         stroke="none" />
+    </g>
+    <g
+       id="shape227">
+      <path
+         d="M 5.25,1.55 Q 5.9,2.8 5.9,4.4 5.9,5.65 5.5,6.8 4.8,8.9 2.95,8.9 1.65,8.9 0.85,7.75 0,6.55 0,4.45 0,2.8 0.6,1.6 1.35,0 3,0 4.45,0 5.25,1.55 M 4.3,7.5 q 0.35,-1 0.35,-2.95 0,-1.55 -0.2,-2.5 -0.4,-1.7 -1.5,-1.7 -1.05,0 -1.5,1.75 -0.2,0.95 -0.2,2.5 0,1.45 0.25,2.3 0.4,1.65 1.5,1.65 0.95,0 1.3,-1.05"
+         id="path1366"
+         fill="#0d902f"
+         fill-rule="evenodd"
+         stroke="none" />
+    </g>
+    <g
+       id="shape228">
+      <path
+         d="M 5.25,1.55 Q 5.9,2.8 5.9,4.4 5.9,5.65 5.5,6.8 4.8,8.9 2.95,8.9 1.65,8.9 0.85,7.75 0,6.55 0,4.45 0,2.8 0.6,1.6 1.35,0 3,0 4.45,0 5.25,1.55 M 4.3,7.5 q 0.35,-1 0.35,-2.95 0,-1.55 -0.2,-2.5 -0.4,-1.7 -1.5,-1.7 -1.05,0 -1.5,1.75 -0.2,0.95 -0.2,2.5 0,1.45 0.25,2.3 0.4,1.65 1.5,1.65 0.95,0 1.3,-1.05"
+         id="path1369"
+         fill="#0d902f"
+         fill-rule="evenodd"
+         stroke="none" />
+    </g>
+    <g
+       id="shape229">
+      <path
+         d="M 0,8.45 Q 0.8,8.35 1,8.15 1.2,7.9 1.2,7.1 V 1.4 Q 1.2,0.7 0.95,0.5 0.75,0.3 0,0.25 V 0 H 3.7 V 0.25 Q 2.95,0.3 2.75,0.5 2.5,0.7 2.5,1.4 V 4.1 Q 3.7,3.05 4.5,2.35 5.85,1.05 5.85,0.65 5.85,0.4 5.6,0.35 5.4,0.25 4.95,0.25 V 0 H 8.4 V 0.25 Q 7.75,0.3 7.4,0.5 7.05,0.65 6.4,1.25 L 3.85,3.65 6.95,7 Q 7.8,7.9 8.1,8.15 8.45,8.35 9,8.45 v 0.2 H 5 V 8.45 Q 5.55,8.4 5.75,8.35 5.95,8.25 5.95,8.05 5.95,7.95 5.8,7.75 5.7,7.5 5.45,7.2 L 2.9,4.5 2.5,4.9 v 2.35 q 0,0.7 0.25,0.9 0.2,0.2 0.95,0.3 v 0.2 H 0 v -0.2"
+         id="path1372"
+         fill="#0d902f"
+         fill-rule="evenodd"
+         stroke="none" />
+    </g>
+    <g
+       id="shape230">
+      <path
+         d="M 4.9,8.15 Q 4.15,9.05 2.95,9.1 1.85,9.05 0.9,8 0,7 0,5.2 0,2.95 1.8,1.35 3.4,0 5.35,0 L 5.4,0.2 Q 4.6,0.35 4.05,0.6 3.45,0.85 3,1.3 2.55,1.8 2.15,2.5 1.7,3.2 1.55,3.9 1.95,3.65 2.25,3.55 2.75,3.3 3.25,3.35 4.3,3.3 5,4.05 q 0.65,0.65 0.65,2 0,1.15 -0.75,2.1 M 4.25,5 Q 3.8,3.9 2.7,3.9 1.75,3.9 1.4,4.5 1.2,4.85 1.2,5.65 q 0,1.05 0.45,2.05 0.45,1 1.4,1 0.75,0 1.1,-0.65 Q 4.5,7.4 4.5,6.5 4.5,5.7 4.25,5"
+         id="path1375"
+         fill="#0d902f"
+         fill-rule="evenodd"
+         stroke="none" />
+    </g>
+    <g
+       id="shape231">
+      <path
+         d="M 4.1,0 H 4.7 V 5.75 H 6.05 V 6.6 H 4.7 v 2.15 h -1 V 6.6 H 0 V 5.75 L 4.1,0 M 3.65,1.3 0.55,5.75 h 3.1 V 1.3"
+         id="path1378"
+         fill="#0d902f"
+         fill-rule="evenodd"
+         stroke="none" />
+    </g>
+    <g
+       id="shape232">
+      <path
+         d="M 5.6,0 V 0.2 L 2.85,8.75 H 2 L 4.6,0.95 H 1.8 Q 1.2,0.95 0.9,1.15 0.65,1.4 0.2,2 L 0,1.9 Q 0.4,0.9 0.5,0.65 0.6,0.4 0.75,0 H 5.6"
+         id="path1381"
+         fill="#0d902f"
+         fill-rule="evenodd"
+         stroke="none" />
+    </g>
+    <g
+       id="shape233">
+      <path
+         d="M 0,8.45 Q 0.8,8.35 1,8.15 1.2,7.9 1.2,7.1 V 1.4 Q 1.2,0.7 0.95,0.5 0.75,0.3 0,0.25 V 0 H 3.7 V 0.25 Q 2.95,0.3 2.75,0.5 2.5,0.7 2.5,1.4 V 4.1 Q 3.7,3.05 4.5,2.35 5.85,1.05 5.85,0.65 5.85,0.4 5.6,0.35 5.4,0.25 4.95,0.25 V 0 H 8.4 V 0.25 Q 7.75,0.3 7.4,0.5 7.05,0.65 6.4,1.25 L 3.85,3.65 6.95,7 Q 7.8,7.9 8.1,8.15 8.45,8.35 9,8.45 v 0.2 H 5 V 8.45 Q 5.55,8.4 5.75,8.35 5.95,8.25 5.95,8.05 5.95,7.95 5.8,7.75 5.7,7.5 5.45,7.2 L 2.9,4.5 2.5,4.9 v 2.35 q 0,0.7 0.25,0.9 0.2,0.2 0.95,0.3 v 0.2 H 0 v -0.2"
+         id="path1384"
+         fill="#0d902f"
+         fill-rule="evenodd"
+         stroke="none" />
+    </g>
+    <g
+       id="shape234">
+      <path
+         d="M 4.9,8.15 Q 4.15,9.05 2.95,9.1 1.85,9.05 0.9,8 0,7 0,5.2 0,2.95 1.8,1.35 3.4,0 5.35,0 L 5.4,0.2 Q 4.6,0.35 4.05,0.6 3.45,0.85 3,1.3 2.55,1.8 2.15,2.5 1.7,3.2 1.55,3.9 1.95,3.65 2.25,3.55 2.75,3.3 3.25,3.35 4.3,3.3 5,4.05 q 0.65,0.65 0.65,2 0,1.15 -0.75,2.1 M 4.25,5 Q 3.8,3.9 2.7,3.9 1.75,3.9 1.4,4.5 1.2,4.85 1.2,5.65 q 0,1.05 0.45,2.05 0.45,1 1.4,1 0.75,0 1.1,-0.65 Q 4.5,7.4 4.5,6.5 4.5,5.7 4.25,5"
+         id="path1387"
+         fill="#0d902f"
+         fill-rule="evenodd"
+         stroke="none" />
+    </g>
+    <g
+       id="shape235">
+      <path
+         d="M 0.55,3.35 Q 0.05,2.75 0.05,2 0.1,1.2 0.75,0.6 1.45,0 2.6,0 3.6,0 4.2,0.55 4.85,1.1 4.85,1.85 4.8,2.6 4.2,3.2 3.85,3.5 3.05,3.95 4.15,4.75 4.6,5.35 5.1,5.95 5.1,6.75 5.05,7.7 4.4,8.3 3.7,8.95 2.55,8.95 1.5,8.95 0.75,8.35 0,7.8 0,6.85 0,6.05 0.5,5.4 0.85,5 1.7,4.45 0.85,3.75 0.55,3.35 M 3.7,8.15 Q 4.1,7.75 4.1,7.15 4.05,6.45 3.7,6.05 3.3,5.6 2.05,4.7 1.5,5.05 1.25,5.6 1,6.15 1,6.65 1,7.55 1.45,8.05 1.9,8.6 2.6,8.6 3.3,8.55 3.7,8.15 M 3.5,3 Q 3.9,2.5 3.9,1.8 3.9,1.2 3.55,0.8 3.15,0.35 2.4,0.35 q -0.6,0 -1,0.4 -0.35,0.35 -0.35,0.9 0,0.6 0.45,1.1 Q 1.95,3.25 2.65,3.7 3.3,3.3 3.5,3"
+         id="path1390"
+         fill="#0d902f"
+         fill-rule="evenodd"
+         stroke="none" />
+    </g>
+    <g
+       id="shape236">
+      <path
+         d="M 5.25,1.55 Q 5.9,2.8 5.9,4.4 5.9,5.65 5.5,6.8 4.8,8.9 2.95,8.9 1.65,8.9 0.85,7.75 0,6.55 0,4.45 0,2.8 0.6,1.6 1.35,0 3,0 4.45,0 5.25,1.55 M 4.3,7.5 q 0.35,-1 0.35,-2.95 0,-1.55 -0.2,-2.5 -0.4,-1.7 -1.5,-1.7 -1.05,0 -1.5,1.75 -0.2,0.95 -0.2,2.5 0,1.45 0.25,2.3 0.4,1.65 1.5,1.65 0.95,0 1.3,-1.05"
+         id="path1393"
+         fill="#0d902f"
+         fill-rule="evenodd"
+         stroke="none" />
+    </g>
+    <g
+       id="shape237">
+      <path
+         d="M 0,8.45 Q 0.8,8.35 1,8.15 1.2,7.9 1.2,7.1 V 1.4 Q 1.2,0.7 0.95,0.5 0.75,0.3 0,0.25 V 0 H 3.7 V 0.25 Q 2.95,0.3 2.75,0.5 2.5,0.7 2.5,1.4 V 4.1 Q 3.7,3.05 4.5,2.35 5.85,1.05 5.85,0.65 5.85,0.4 5.6,0.35 5.4,0.25 4.95,0.25 V 0 H 8.4 V 0.25 Q 7.75,0.3 7.4,0.5 7.05,0.65 6.4,1.25 L 3.85,3.65 6.95,7 Q 7.8,7.9 8.1,8.15 8.45,8.35 9,8.45 v 0.2 H 5 V 8.45 Q 5.55,8.4 5.75,8.35 5.95,8.25 5.95,8.05 5.95,7.95 5.8,7.75 5.7,7.5 5.45,7.2 L 2.9,4.5 2.5,4.9 v 2.35 q 0,0.7 0.25,0.9 0.2,0.2 0.95,0.3 v 0.2 H 0 v -0.2"
+         id="path1396"
+         fill="#0d902f"
+         fill-rule="evenodd"
+         stroke="none" />
+    </g>
+    <g
+       id="shape238">
+      <path
+         d="M 5.6,0 V 0.2 L 2.85,8.75 H 2 L 4.6,0.95 H 1.8 Q 1.2,0.95 0.9,1.15 0.65,1.4 0.2,2 L 0,1.9 Q 0.4,0.9 0.5,0.65 0.6,0.4 0.75,0 H 5.6"
+         id="path1399"
+         fill="#0d902f"
+         fill-rule="evenodd"
+         stroke="none" />
+    </g>
+    <g
+       id="shape239">
+      <path
+         d="M 0,8.65 Q 2.35,6.25 3.15,5.1 4,3.95 4,2.9 4,1.95 3.5,1.45 3,0.95 2.3,0.95 1.4,0.95 0.85,1.6 0.55,1.95 0.3,2.65 L 0,2.6 Q 0.35,1.15 1.1,0.55 1.85,0 2.75,0 3.8,0 4.5,0.7 q 0.65,0.65 0.65,1.65 0,1.05 -0.75,2 -0.7,1 -3.1,3.45 H 4.2 Q 4.85,7.8 5.1,7.65 5.3,7.5 5.65,6.95 L 5.8,7 5.1,8.8 H 0 V 8.65"
+         id="path1402"
+         fill="#0d902f"
+         fill-rule="evenodd"
+         stroke="none" />
+    </g>
+    <g
+       id="shape240">
+      <path
+         d="M 5.25,1.55 Q 5.9,2.8 5.9,4.4 5.9,5.65 5.5,6.8 4.8,8.9 2.95,8.9 1.65,8.9 0.85,7.75 0,6.55 0,4.45 0,2.8 0.6,1.6 1.35,0 3,0 4.45,0 5.25,1.55 M 4.3,7.5 q 0.35,-1 0.35,-2.95 0,-1.55 -0.2,-2.5 -0.4,-1.7 -1.5,-1.7 -1.05,0 -1.5,1.75 -0.2,0.95 -0.2,2.5 0,1.45 0.25,2.3 0.4,1.65 1.5,1.65 0.95,0 1.3,-1.05"
+         id="path1405"
+         fill="#0d902f"
+         fill-rule="evenodd"
+         stroke="none" />
+    </g>
+    <g
+       id="shape241">
+      <path
+         d="M 0,8.45 Q 0.8,8.35 1,8.15 1.2,7.9 1.2,7.1 V 1.4 Q 1.2,0.7 0.95,0.5 0.75,0.3 0,0.25 V 0 H 3.7 V 0.25 Q 2.95,0.3 2.75,0.5 2.5,0.7 2.5,1.4 V 4.1 Q 3.7,3.05 4.5,2.35 5.85,1.05 5.85,0.65 5.85,0.4 5.6,0.35 5.4,0.25 4.95,0.25 V 0 H 8.4 V 0.25 Q 7.75,0.3 7.4,0.5 7.05,0.65 6.4,1.25 L 3.85,3.65 6.95,7 Q 7.8,7.9 8.1,8.15 8.45,8.35 9,8.45 v 0.2 H 5 V 8.45 Q 5.55,8.4 5.75,8.35 5.95,8.25 5.95,8.05 5.95,7.95 5.8,7.75 5.7,7.5 5.45,7.2 L 2.9,4.5 2.5,4.9 v 2.35 q 0,0.7 0.25,0.9 0.2,0.2 0.95,0.3 v 0.2 H 0 v -0.2"
+         id="path1408"
+         fill="#0d902f"
+         fill-rule="evenodd"
+         stroke="none" />
+    </g>
+    <g
+       id="shape242">
+      <path
+         d="M 5.6,0 V 0.2 L 2.85,8.75 H 2 L 4.6,0.95 H 1.8 Q 1.2,0.95 0.9,1.15 0.65,1.4 0.2,2 L 0,1.9 Q 0.4,0.9 0.5,0.65 0.6,0.4 0.75,0 H 5.6"
+         id="path1411"
+         fill="#0d902f"
+         fill-rule="evenodd"
+         stroke="none" />
+    </g>
+    <g
+       id="shape243">
+      <path
+         d="M 4.9,8.15 Q 4.15,9.05 2.95,9.1 1.85,9.05 0.9,8 0,7 0,5.2 0,2.95 1.8,1.35 3.4,0 5.35,0 L 5.4,0.2 Q 4.6,0.35 4.05,0.6 3.45,0.85 3,1.3 2.55,1.8 2.15,2.5 1.7,3.2 1.55,3.9 1.95,3.65 2.25,3.55 2.75,3.3 3.25,3.35 4.3,3.3 5,4.05 q 0.65,0.65 0.65,2 0,1.15 -0.75,2.1 M 4.25,5 Q 3.8,3.9 2.7,3.9 1.75,3.9 1.4,4.5 1.2,4.85 1.2,5.65 q 0,1.05 0.45,2.05 0.45,1 1.4,1 0.75,0 1.1,-0.65 Q 4.5,7.4 4.5,6.5 4.5,5.7 4.25,5"
+         id="path1414"
+         fill="#0d902f"
+         fill-rule="evenodd"
+         stroke="none" />
+    </g>
+    <g
+       id="shape244">
+      <path
+         d="M 5.25,1.55 Q 5.9,2.8 5.9,4.4 5.9,5.65 5.5,6.8 4.8,8.9 2.95,8.9 1.65,8.9 0.85,7.75 0,6.55 0,4.45 0,2.8 0.6,1.6 1.35,0 3,0 4.45,0 5.25,1.55 M 4.3,7.5 q 0.35,-1 0.35,-2.95 0,-1.55 -0.2,-2.5 -0.4,-1.7 -1.5,-1.7 -1.05,0 -1.5,1.75 -0.2,0.95 -0.2,2.5 0,1.45 0.25,2.3 0.4,1.65 1.5,1.65 0.95,0 1.3,-1.05"
+         id="path1417"
+         fill="#0d902f"
+         fill-rule="evenodd"
+         stroke="none" />
+    </g>
+    <g
+       id="shape245">
+      <path
+         d="M 0,8.45 Q 0.8,8.35 1,8.15 1.2,7.9 1.2,7.1 V 1.4 Q 1.2,0.7 0.95,0.5 0.75,0.3 0,0.25 V 0 H 3.7 V 0.25 Q 2.95,0.3 2.75,0.5 2.5,0.7 2.5,1.4 V 4.1 Q 3.7,3.05 4.5,2.35 5.85,1.05 5.85,0.65 5.85,0.4 5.6,0.35 5.4,0.25 4.95,0.25 V 0 H 8.4 V 0.25 Q 7.75,0.3 7.4,0.5 7.05,0.65 6.4,1.25 L 3.85,3.65 6.95,7 Q 7.8,7.9 8.1,8.15 8.45,8.35 9,8.45 v 0.2 H 5 V 8.45 Q 5.55,8.4 5.75,8.35 5.95,8.25 5.95,8.05 5.95,7.95 5.8,7.75 5.7,7.5 5.45,7.2 L 2.9,4.5 2.5,4.9 v 2.35 q 0,0.7 0.25,0.9 0.2,0.2 0.95,0.3 v 0.2 H 0 v -0.2"
+         id="path1420"
+         fill="#0d902f"
+         fill-rule="evenodd"
+         stroke="none" />
+    </g>
+    <g
+       id="shape246">
+      <path
+         d="M 0.55,3.35 Q 0.05,2.75 0.05,2 0.1,1.2 0.75,0.6 1.45,0 2.6,0 3.6,0 4.2,0.55 4.85,1.1 4.85,1.85 4.8,2.6 4.2,3.2 3.85,3.5 3.05,3.95 4.15,4.75 4.6,5.35 5.1,5.95 5.1,6.75 5.05,7.7 4.4,8.3 3.7,8.95 2.55,8.95 1.5,8.95 0.75,8.35 0,7.8 0,6.85 0,6.05 0.5,5.4 0.85,5 1.7,4.45 0.85,3.75 0.55,3.35 M 3.7,8.15 Q 4.1,7.75 4.1,7.15 4.05,6.45 3.7,6.05 3.3,5.6 2.05,4.7 1.5,5.05 1.25,5.6 1,6.15 1,6.65 1,7.55 1.45,8.05 1.9,8.6 2.6,8.6 3.3,8.55 3.7,8.15 M 3.5,3 Q 3.9,2.5 3.9,1.8 3.9,1.2 3.55,0.8 3.15,0.35 2.4,0.35 q -0.6,0 -1,0.4 -0.35,0.35 -0.35,0.9 0,0.6 0.45,1.1 Q 1.95,3.25 2.65,3.7 3.3,3.3 3.5,3"
+         id="path1423"
+         fill="#0d902f"
+         fill-rule="evenodd"
+         stroke="none" />
+    </g>
+    <g
+       id="shape247">
+      <path
+         d="M 5.25,1.55 Q 5.9,2.8 5.9,4.4 5.9,5.65 5.5,6.8 4.8,8.9 2.95,8.9 1.65,8.9 0.85,7.75 0,6.55 0,4.45 0,2.8 0.6,1.6 1.35,0 3,0 4.45,0 5.25,1.55 M 4.3,7.5 q 0.35,-1 0.35,-2.95 0,-1.55 -0.2,-2.5 -0.4,-1.7 -1.5,-1.7 -1.05,0 -1.5,1.75 -0.2,0.95 -0.2,2.5 0,1.45 0.25,2.3 0.4,1.65 1.5,1.65 0.95,0 1.3,-1.05"
+         id="path1426"
+         fill="#0d902f"
+         fill-rule="evenodd"
+         stroke="none" />
+    </g>
+    <g
+       id="shape248">
+      <path
+         d="M 5.25,1.55 Q 5.9,2.8 5.9,4.4 5.9,5.65 5.5,6.8 4.8,8.9 2.95,8.9 1.65,8.9 0.85,7.75 0,6.55 0,4.45 0,2.8 0.6,1.6 1.35,0 3,0 4.45,0 5.25,1.55 M 4.3,7.5 q 0.35,-1 0.35,-2.95 0,-1.55 -0.2,-2.5 -0.4,-1.7 -1.5,-1.7 -1.05,0 -1.5,1.75 -0.2,0.95 -0.2,2.5 0,1.45 0.25,2.3 0.4,1.65 1.5,1.65 0.95,0 1.3,-1.05"
+         id="path1429"
+         fill="#0d902f"
+         fill-rule="evenodd"
+         stroke="none" />
+    </g>
+    <g
+       id="shape249">
+      <path
+         d="M 0,8.45 Q 0.8,8.35 1,8.15 1.2,7.9 1.2,7.1 V 1.4 Q 1.2,0.7 0.95,0.5 0.75,0.3 0,0.25 V 0 H 3.7 V 0.25 Q 2.95,0.3 2.75,0.5 2.5,0.7 2.5,1.4 V 4.1 Q 3.7,3.05 4.5,2.35 5.85,1.05 5.85,0.65 5.85,0.4 5.6,0.35 5.4,0.25 4.95,0.25 V 0 H 8.4 V 0.25 Q 7.75,0.3 7.4,0.5 7.05,0.65 6.4,1.25 L 3.85,3.65 6.95,7 Q 7.8,7.9 8.1,8.15 8.45,8.35 9,8.45 v 0.2 H 5 V 8.45 Q 5.55,8.4 5.75,8.35 5.95,8.25 5.95,8.05 5.95,7.95 5.8,7.75 5.7,7.5 5.45,7.2 L 2.9,4.5 2.5,4.9 v 2.35 q 0,0.7 0.25,0.9 0.2,0.2 0.95,0.3 v 0.2 H 0 v -0.2"
+         id="path1432"
+         fill="#0d902f"
+         fill-rule="evenodd"
+         stroke="none" />
+    </g>
+    <g
+       id="shape250">
+      <path
+         d="M 1.35,4.3 Q 0.6,4.05 0.25,3.4 -0.2,2.65 0.15,1.8 0.45,0.95 1.4,0.4 2.3,-0.15 3.1,0.05 3.9,0.2 4.25,0.85 4.65,1.5 4.4,2.35 4.25,2.8 3.8,3.6 5.15,3.75 5.85,4 6.55,4.3 6.95,5 7.4,5.8 7.15,6.7 6.85,7.55 5.85,8.15 4.95,8.7 4,8.55 3.05,8.4 2.6,7.6 2.2,6.9 2.35,6.1 2.4,5.6 2.85,4.7 1.8,4.5 1.35,4.3 M 3.7,2.5 Q 3.8,1.9 3.45,1.3 3.15,0.75 2.6,0.6 2.1,0.4 1.45,0.8 0.9,1.1 0.75,1.6 0.65,2.1 0.9,2.55 1.2,3.1 1.85,3.3 2.5,3.55 3.35,3.55 3.65,2.9 3.7,2.5 M 6.45,6.9 Q 6.6,6.35 6.3,5.85 5.95,5.2 5.35,5.05 4.8,4.9 3.3,4.75 3,5.3 3.05,5.9 3.1,6.5 3.35,6.95 3.8,7.7 4.45,7.95 5.1,8.15 5.7,7.8 6.35,7.45 6.45,6.9"
+         id="path1435"
+         fill="#0d902f"
+         fill-rule="evenodd"
+         stroke="none" />
+    </g>
+    <g
+       id="shape251">
+      <path
+         d="M 0.65,0.3 1.2,0 4.05,5 5.2,4.3 5.65,5.05 4.5,5.7 5.6,7.6 4.7,8.1 3.6,6.2 0.4,8.05 0,7.3 0.65,0.3 m 0.3,1.35 -0.5,5.4 2.7,-1.55 -2.2,-3.85"
+         id="path1438"
+         fill="#0d902f"
+         fill-rule="evenodd"
+         stroke="none" />
+    </g>
+    <g
+       id="shape252">
+      <path
+         d="M 4.05,0.5 Q 5.2,1.3 6,2.65 6.65,3.8 6.9,4.95 7.3,7.15 5.7,8.05 4.6,8.7 3.35,8.1 1.95,7.5 0.9,5.65 0.1,4.25 0,2.95 -0.1,1.15 1.3,0.3 2.55,-0.4 4.05,0.5 M 6.2,6.2 Q 5.95,5.1 5,3.45 4.25,2.1 3.6,1.4 2.35,0.1 1.45,0.65 0.5,1.2 1.05,2.9 1.3,3.85 2.1,5.2 2.8,6.45 3.45,7.05 4.6,8.3 5.6,7.7 6.4,7.25 6.2,6.2"
+         id="path1441"
+         fill="#0d902f"
+         fill-rule="evenodd"
+         stroke="none" />
+    </g>
+    <g
+       id="shape253">
+      <path
+         d="M 4.2,11.5 Q 4.9,11.05 4.95,10.75 5,10.45 4.55,9.75 L 1.75,4.85 Q 1.35,4.2 1.1,4.15 0.8,4.05 0.1,4.4 L 0,4.2 3.2,2.35 3.35,2.55 Q 2.7,2.95 2.6,3.25 2.55,3.55 2.9,4.15 L 4.2,6.5 Q 4.75,5 5.05,4 5.6,2.15 5.4,1.85 5.3,1.6 5.05,1.65 4.8,1.7 4.4,1.9 L 4.3,1.7 7.25,0 7.4,0.2 Q 6.85,0.6 6.65,0.9 6.45,1.25 6.2,2.1 L 5.15,5.4 9.55,6.75 Q 10.7,7.15 11.1,7.2 11.45,7.2 12,7 l 0.15,0.15 -3.5,2 L 8.55,9 Q 9,8.7 9.15,8.55 9.3,8.4 9.2,8.2 9.15,8.1 8.9,8 8.7,7.85 8.3,7.75 L 4.75,6.65 4.6,7.15 5.8,9.2 Q 6.15,9.85 6.45,9.9 6.75,9.95 7.4,9.65 L 7.5,9.85 4.3,11.7 4.2,11.5"
+         id="path1444"
+         fill="#0d902f"
+         fill-rule="evenodd"
+         stroke="none" />
+    </g>
+    <g
+       id="shape254">
+      <path
+         d="m 3.3,0.1 q 1.3,0.35 2.2,1.45 0.6,0.7 1,1.7 Q 6.85,4.3 6.8,5.3 6.8,6.55 6.1,7.7 5.75,8.3 5,9.1 L 4.8,8.95 Q 5.2,8.4 5.45,8 5.85,7.25 5.9,6.6 6.05,5.65 5.85,4.8 5.6,3.9 5.35,3.45 L 5.3,3.7 Q 5.15,4.3 4.75,4.8 4.55,5.05 4.35,5.25 3.5,5.95 2.5,5.75 1.55,5.6 0.85,4.75 0,3.75 0,2.55 0,1.4 0.9,0.65 2,-0.25 3.3,0.1 M 4.9,3.7 Q 5.1,3.2 5.05,3.05 5,3 4.75,2.65 4.5,2.35 4.35,2.15 3.5,1.1 2.6,0.75 1.75,0.45 1.1,1 0.6,1.35 0.65,2.05 q 0.1,0.7 0.8,1.55 0.6,0.75 1.4,1.1 0.8,0.4 1.5,-0.25 Q 4.7,4.2 4.9,3.7"
+         id="path1447"
+         fill="#882482"
+         fill-rule="evenodd"
+         stroke="none" />
+    </g>
+    <g
+       id="shape255">
+      <path
+         d="m 3.3,0.1 q 1.3,0.35 2.2,1.45 0.6,0.7 1,1.7 Q 6.85,4.3 6.8,5.3 6.8,6.55 6.1,7.7 5.75,8.3 5,9.1 L 4.8,8.95 Q 5.2,8.4 5.45,8 5.85,7.25 5.9,6.6 6.05,5.65 5.85,4.8 5.6,3.9 5.35,3.45 L 5.3,3.7 Q 5.15,4.3 4.75,4.8 4.55,5.05 4.35,5.25 3.5,5.95 2.5,5.75 1.55,5.6 0.85,4.75 0,3.75 0,2.55 0,1.4 0.9,0.65 2,-0.25 3.3,0.1 M 4.9,3.7 Q 5.1,3.2 5.05,3.05 5,3 4.75,2.65 4.5,2.35 4.35,2.15 3.5,1.1 2.6,0.75 1.75,0.45 1.1,1 0.6,1.35 0.65,2.05 q 0.1,0.7 0.8,1.55 0.6,0.75 1.4,1.1 0.8,0.4 1.5,-0.25 Q 4.7,4.2 4.9,3.7"
+         id="path1450"
+         fill="#882482"
+         fill-rule="evenodd"
+         stroke="none" />
+    </g>
+    <g
+       id="shape256">
+      <path
+         d="M 3.65,0.25 Q 4.95,0.8 6,2.05 6.8,3 7.25,4.15 8,6.25 6.6,7.4 5.65,8.25 4.3,7.85 2.85,7.5 1.5,5.9 0.45,4.65 0.1,3.35 -0.3,1.6 0.9,0.55 2.05,-0.4 3.65,0.25 m 3.1,5.2 Q 6.35,4.45 5.1,2.95 4.1,1.8 3.35,1.2 1.95,0.15 1.1,0.85 0.3,1.55 1.1,3.15 1.55,4 2.55,5.2 3.5,6.3 4.2,6.85 5.55,7.8 6.45,7.1 7.15,6.5 6.75,5.45"
+         id="path1453"
+         fill="#882482"
+         fill-rule="evenodd"
+         stroke="none" />
+    </g>
+    <g
+       id="shape257">
+      <path
+         d="M 5.4,9.8 Q 5.95,9.25 5.95,9 5.9,8.7 5.4,8.05 L 1.75,3.75 q -0.4,-0.55 -0.7,-0.6 -0.3,0 -0.9,0.4 L 0,3.35 2.65,1.15 Q 3.9,0.1 5,0 q 1.1,-0.05 1.75,0.75 0.9,1 0.5,2.1 Q 6.9,3.95 5.8,4.9 5.6,5 5.35,5.2 5.1,5.45 5,5.55 l 1.5,1.8 Q 7,7.9 7.25,7.9 7.55,7.9 8.2,7.45 L 8.35,7.65 5.55,10 5.4,9.8 M 3.85,1.1 Q 3.25,1.25 2.6,1.8 2.3,2.05 2.3,2.2 2.25,2.3 2.45,2.5 l 2.2,2.6 Q 4.9,4.9 5,4.85 5.1,4.8 5.2,4.75 5.85,4.15 6.1,3.6 6.5,2.65 5.7,1.7 4.9,0.75 3.85,1.1"
+         id="path1456"
+         fill="#882482"
+         fill-rule="evenodd"
+         stroke="none" />
+    </g>
+    <g
+       id="shape258">
+      <path
+         d="M 1.9,4 Q 2.1,3.3 3,1.7 L 2.65,1.3 Q 2.25,0.75 2,0.65 1.55,0.5 1.05,0.9 0.75,1.15 0.65,1.45 0.55,1.75 0.75,2 0.8,2.05 0.95,2.15 1.05,2.3 1.1,2.35 1.35,2.6 1.25,2.85 1.2,3 1.05,3.15 0.85,3.3 0.6,3.25 0.35,3.25 0.2,3.05 -0.1,2.7 0.05,2 0.15,1.25 0.95,0.55 1.9,-0.25 2.75,0.1 q 0.5,0.2 1,0.85 L 5.4,2.9 Q 5.65,3.15 5.8,3.25 6,3.4 6.2,3.2 6.3,3.15 6.35,3.05 6.4,2.95 6.45,2.65 L 6.7,2.9 Q 6.7,3.2 6.6,3.5 6.5,3.9 6.2,4.15 5.9,4.45 5.55,4.35 5.2,4.25 4.95,3.95 4.85,4.6 4.7,5 4.5,5.6 4.1,5.95 3.65,6.3 3.1,6.25 2.55,6.25 2.2,5.75 1.6,5.05 1.9,4 M 3.25,1.95 Q 2.8,2.6 2.65,3.15 2.3,4.15 2.75,4.7 3.15,5.15 3.6,5.1 3.9,5.1 4.15,4.9 4.45,4.6 4.6,4.2 4.75,3.75 4.55,3.5 L 3.25,1.95"
+         id="path1459"
+         fill="#882482"
+         fill-rule="evenodd"
+         stroke="none" />
+    </g>
+    <g
+       id="shape259">
+      <path
+         d="m 0.7,0 q 0,0 0.05,0.05 L 6.65,5 Q 7,5.3 7.3,5.2 7.55,5.1 8.05,4.55 L 8.2,4.65 5.85,7.4 5.7,7.3 Q 6.2,6.7 6.2,6.4 6.2,6.1 5.8,5.75 L 1.25,1.95 Q 1,1.75 0.85,1.7 0.7,1.65 0.5,1.85 0.4,1.95 0.3,2.25 0.2,2.5 0.15,2.75 L 0,2.6 0.6,0.05 0.65,0 Q 0.7,0 0.7,0"
+         id="path1462"
+         fill="#882482"
+         fill-rule="evenodd"
+         stroke="none" />
+    </g>
+    <g
+       id="shape260">
+      <path
+         d="m 3.25,0.1 q 1.4,0.3 2.6,1.35 1,0.8 1.6,1.85 Q 8.6,5.2 7.4,6.6 6.6,7.6 5.2,7.45 3.7,7.35 2.1,6 0.85,4.95 0.3,3.75 -0.45,2.1 0.6,0.85 1.55,-0.3 3.25,0.1 M 7.2,4.65 Q 6.65,3.75 5.15,2.5 4,1.5 3.15,1.05 1.55,0.25 0.85,1.1 q -0.7,0.8 0.4,2.25 0.6,0.8 1.8,1.8 1.1,0.9 1.9,1.3 Q 6.45,7.2 7.15,6.3 7.8,5.6 7.2,4.65"
+         id="path1465"
+         fill="#882482"
+         fill-rule="evenodd"
+         stroke="none" />
+    </g>
+    <g
+       id="shape261">
+      <path
+         d="m 2.4,1.45 q 0.15,0.7 0,1.3 L 2.1,2.65 Q 2.25,1.95 2.1,1.55 1.9,1.1 1.7,0.9 1.65,0.85 1.6,0.9 1.55,0.9 1.5,0.95 L 1.25,1.35 Q 1.1,1.55 0.8,1.6 0.55,1.65 0.3,1.45 0.05,1.25 0,0.95 -0.05,0.7 0.2,0.35 0.5,0.05 0.9,0 1.4,-0.05 1.8,0.3 2.3,0.75 2.4,1.45"
+         id="path1468"
+         fill="#882482"
+         fill-rule="evenodd"
+         stroke="none" />
+    </g>
+    <g
+       id="shape262">
+      <path
+         d="M 7.2,5.6 Q 7.45,6.75 6.7,7.7 5.95,8.55 4.55,8.55 3.15,8.6 1.8,7.45 0.1,6.05 0,3.6 0,1.55 1.25,0 l 0.2,0.1 Q 1.05,0.8 0.85,1.4 0.7,2.05 0.75,2.65 0.8,3.3 1.1,4.1 1.35,4.85 1.8,5.4 1.85,4.95 1.95,4.65 2.15,4.15 2.45,3.75 3.15,2.95 4.1,2.9 5.1,2.8 6.1,3.65 6.95,4.4 7.2,5.6 M 4.4,4.1 Q 3.25,3.75 2.55,4.55 1.95,5.3 2.15,5.95 2.3,6.3 2.9,6.85 3.75,7.5 4.75,7.8 5.8,8.1 6.45,7.35 6.9,6.8 6.65,6.1 6.35,5.4 5.7,4.85 5.05,4.3 4.4,4.1"
+         id="path1471"
+         fill="#882482"
+         fill-rule="evenodd"
+         stroke="none" />
+    </g>
+    <g
+       id="shape263">
+      <path
+         d="M 6.25,8.4 Q 6.6,7.9 6.6,7.65 6.6,7.4 6.2,7.05 L 1.3,2.95 Q 0.95,2.65 0.75,2.7 0.55,2.7 0.4,2.95 0.3,3.05 0.25,3.1 0.2,3.2 0.15,3.25 L 0,3.15 0.25,2.6 Q 0.55,2 0.7,1.55 0.85,1.25 0.85,1.25 0.9,1.2 0.9,1.2 q 0,0 0.05,0.05 L 5.05,4.7 5,2.35 Q 5,2.1 4.95,1.95 4.95,1.85 4.9,1.8 4.75,1.7 4.65,1.8 4.5,1.9 4.25,2.15 L 4.15,2.05 5.85,0 6,0.1 q -0.45,0.6 -0.55,1.1 -0.1,0.45 0,2.15 v 0.5 L 7.4,3.95 Q 8.85,4 9.45,3.9 10.05,3.75 10.4,3.4 L 10.55,3.5 8.75,5.7 8.6,5.6 8.75,5.4 Q 8.8,5.3 8.85,5.25 8.85,5.15 8.8,5.05 8.7,5.05 8.65,5 8.6,5 8.5,5 L 5.25,4.85 7.05,6.35 Q 7.4,6.65 7.7,6.5 7.9,6.4 8.2,6.05 l 0.15,0.1 -2,2.35 -0.1,-0.1"
+         id="path1474"
+         fill="#882482"
+         fill-rule="evenodd"
+         stroke="none" />
+    </g>
+    <g
+       id="shape264">
+      <path
+         d="M 6.45,9.65 Q 6.85,9.05 6.8,8.75 6.75,8.45 6.15,7.95 L 1.8,4.3 Q 1.3,3.85 1,3.9 0.7,3.9 0.2,4.4 L 0,4.25 2.2,1.6 Q 3.3,0.35 4.35,0.05 5.4,-0.2 6.2,0.5 7.25,1.35 7.05,2.5 6.9,3.6 5.95,4.75 5.8,4.9 5.6,5.15 5.4,5.4 5.3,5.5 L 7.1,7.05 Q 7.65,7.5 7.95,7.45 8.25,7.4 8.8,6.85 L 9,7 6.65,9.8 6.45,9.65 M 3.4,1.35 Q 2.85,1.6 2.3,2.25 2.05,2.55 2.05,2.7 q 0,0.1 0.2,0.3 l 2.6,2.15 Q 5.15,4.95 5.2,4.85 5.25,4.75 5.35,4.7 5.9,4 6.05,3.45 6.3,2.4 5.3,1.6 4.4,0.85 3.4,1.35"
+         id="path1477"
+         fill="#882482"
+         fill-rule="evenodd"
+         stroke="none" />
+    </g>
+    <g
+       id="shape265">
+      <path
+         d="M 2.2,4 Q 2.25,3.35 2.9,1.55 L 2.5,1.2 Q 2,0.8 1.7,0.7 1.25,0.6 0.8,1.15 0.6,1.4 0.55,1.7 0.45,2.05 0.7,2.25 0.75,2.3 0.9,2.4 1.1,2.45 1.1,2.5 1.4,2.75 1.35,3 1.35,3.15 1.2,3.3 1.05,3.55 0.8,3.55 0.55,3.5 0.35,3.4 0,3.1 0,2.35 0,1.6 0.65,0.8 q 0.8,-0.95 1.7,-0.75 0.5,0.1 1.15,0.6 L 5.45,2.3 Q 5.75,2.55 5.9,2.6 6.1,2.7 6.3,2.5 6.4,2.4 6.4,2.3 6.45,2.2 6.45,1.9 L 6.7,2.1 Q 6.8,2.45 6.75,2.7 6.7,3.15 6.45,3.4 6.2,3.75 5.85,3.7 5.5,3.7 5.2,3.45 5.2,4.1 5.15,4.5 5.05,5.15 4.7,5.55 4.35,6 3.8,6.05 3.25,6.1 2.8,5.7 2.05,5.15 2.2,4 M 3.15,1.75 Q 2.85,2.5 2.75,3.05 2.65,4.1 3.15,4.55 3.6,4.95 4.05,4.8 4.35,4.75 4.55,4.5 4.85,4.2 4.9,3.75 4.95,3.3 4.7,3.05 L 3.15,1.75"
+         id="path1480"
+         fill="#882482"
+         fill-rule="evenodd"
+         stroke="none" />
+    </g>
+    <g
+       id="shape266">
+      <path
+         d="M 3,0.05 Q 4.4,0.2 5.75,1.1 6.8,1.8 7.5,2.75 8.85,4.55 7.8,6.1 7.1,7.1 5.7,7.15 4.2,7.2 2.45,6 1.1,5.1 0.45,3.95 -0.45,2.4 0.45,1.05 1.3,-0.15 3,0.05 m 4.4,4.1 Q 6.75,3.3 5.15,2.2 3.85,1.35 3,1 1.35,0.4 0.75,1.25 0.1,2.2 1.35,3.5 2.05,4.2 3.3,5.05 4.5,5.9 5.35,6.2 6.9,6.75 7.55,5.8 8.05,5.05 7.4,4.15"
+         id="path1483"
+         fill="#882482"
+         fill-rule="evenodd"
+         stroke="none" />
+    </g>
+    <g
+       id="shape267">
+      <path
+         d="M 2.45,1.3 Q 2.7,2 2.55,2.6 L 2.3,2.55 Q 2.35,1.85 2.15,1.4 1.95,1 1.7,0.85 1.65,0.8 1.6,0.85 1.55,0.85 1.5,0.9 L 1.3,1.3 Q 1.15,1.5 0.9,1.6 0.6,1.7 0.35,1.5 0.1,1.35 0.05,1.1 -0.05,0.8 0.15,0.45 0.4,0.1 0.85,0 q 0.4,-0.05 0.9,0.25 0.5,0.35 0.7,1.05"
+         id="path1486"
+         fill="#882482"
+         fill-rule="evenodd"
+         stroke="none" />
+    </g>
+    <g
+       id="shape268">
+      <path
+         d="M 7.4,4.95 Q 7.8,6.05 7.1,7.05 6.45,8 5.1,8.2 3.7,8.35 2.25,7.4 0.4,6.1 0.05,3.75 -0.2,1.65 0.9,0 L 1.1,0.1 Q 0.8,0.85 0.7,1.45 0.55,2.1 0.7,2.7 0.8,3.35 1.15,4.1 1.55,4.8 2,5.35 2.05,4.85 2.1,4.55 2.2,4.05 2.5,3.6 3.05,2.75 4.05,2.6 5,2.4 6.1,3.15 7.05,3.8 7.4,4.95 M 4.45,3.75 Q 3.3,3.5 2.7,4.4 2.15,5.2 2.45,5.8 2.6,6.15 3.3,6.6 4.15,7.2 5.2,7.4 6.3,7.6 6.85,6.8 7.25,6.15 6.9,5.5 6.55,4.85 5.85,4.35 5.15,3.9 4.45,3.75"
+         id="path1489"
+         fill="#882482"
+         fill-rule="evenodd"
+         stroke="none" />
+    </g>
+    <g
+       id="shape269">
+      <path
+         d="M 6.1,8.2 Q 5.4,4.95 4.9,3.6 4.45,2.25 3.55,1.65 2.75,1.15 2.05,1.3 1.4,1.4 1,2 0.5,2.75 0.7,3.55 0.85,4 1.3,4.65 L 1.1,4.8 Q 0.05,3.75 0,2.8 -0.05,1.85 0.45,1.1 1.05,0.2 2,0.05 2.9,-0.15 3.75,0.4 4.6,1 5,2.15 5.4,3.3 6.1,6.65 L 7.75,4.25 Q 8.1,3.75 8.1,3.45 8.15,3.15 7.85,2.6 L 8,2.5 9.05,4.05 6.2,8.3 6.1,8.2"
+         id="path1492"
+         fill="#882482"
+         fill-rule="evenodd"
+         stroke="none" />
+    </g>
+    <g
+       id="shape270">
+      <path
+         d="M 6.5,6.5 Q 7.1,6.25 7.35,5.9 7.8,5.15 7.55,4.45 7.3,3.8 6.7,3.4 6.15,3 5.55,3 4.45,3 3.7,4.15 3.65,4.25 3.6,4.3 3.55,4.35 3.5,4.45 L 3.35,4.4 Q 3.65,3.3 3.55,2.55 3.5,1.8 2.85,1.4 2.25,1 1.7,1.15 1.15,1.35 0.8,1.85 0.4,2.4 0.55,3.15 0.6,3.55 0.9,4.15 L 0.75,4.3 Q 0.1,3.55 0,2.65 -0.05,1.75 0.45,1 0.95,0.2 1.7,0.05 2.45,-0.1 3.05,0.3 q 0.5,0.35 0.7,1 0.1,0.35 0.1,1 Q 4.4,1.95 4.9,1.8 5.85,1.65 6.7,2.2 7.7,2.85 7.95,4.2 8.2,5.5 7.2,6.95 6.75,7.6 6.4,7.75 6,7.85 5.8,7.7 5.65,7.65 5.6,7.45 5.5,7.3 5.65,7.1 5.85,6.8 6.5,6.5"
+         id="path1495"
+         fill="#882482"
+         fill-rule="evenodd"
+         stroke="none" />
+    </g>
+    <g
+       id="shape271">
+      <path
+         d="M 0.2,2.85 0,2.75 Q 0.25,2.05 0.45,1.45 0.6,0.85 0.6,0.8 0.65,0.85 0.7,0.85 L 3.9,3 Q 3.75,2.7 3.7,2.3 3.65,1.55 4.05,0.9 4.6,0.1 5.6,0 q 1.05,-0.1 2.1,0.6 1.1,0.75 1.4,2 0.35,1.3 -0.45,2.45 -0.4,0.6 -1,1 Q 7.05,6.45 6.8,6.3 L 1.2,2.5 Q 0.9,2.3 0.7,2.3 0.5,2.3 0.3,2.6 L 0.2,2.85 m 7.7,2.3 Q 8.25,4.85 8.45,4.6 8.95,3.85 8.6,3.1 8.3,2.4 7.5,1.85 6.75,1.3 5.85,1.2 4.95,1.1 4.45,1.8 4.2,2.2 4.2,2.7 4.15,3.25 4.5,3.45 L 7.2,5.3 Q 7.55,5.4 7.9,5.15"
+         id="path1498"
+         fill="#882482"
+         fill-rule="evenodd"
+         stroke="none" />
+    </g>
+    <g
+       id="shape272">
+      <path
+         d="M 2.35,4 Q 2.4,3.3 2.8,1.45 L 2.35,1.15 Q 1.8,0.8 1.55,0.75 1.05,0.7 0.7,1.25 0.5,1.55 0.45,1.9 q 0,0.3 0.25,0.5 0.05,0 0.25,0.1 0.15,0.1 0.2,0.1 0.3,0.2 0.25,0.5 0,0.15 -0.1,0.3 Q 1.15,3.65 0.9,3.65 0.65,3.65 0.5,3.55 0.1,3.3 0,2.55 -0.1,1.85 0.5,0.95 1.2,-0.1 2.1,0 2.6,0.05 3.3,0.55 l 2.15,1.4 q 0.3,0.2 0.45,0.25 0.25,0.05 0.4,-0.15 0.05,-0.1 0.1,-0.2 0,-0.15 0,-0.4 L 6.65,1.6 q 0.1,0.35 0.1,0.6 0,0.45 -0.2,0.75 Q 6.3,3.3 5.95,3.3 5.65,3.3 5.3,3.1 5.35,3.75 5.35,4.15 5.3,4.85 5,5.25 4.7,5.7 4.15,5.85 3.6,5.95 3.15,5.6 2.35,5.1 2.35,4 M 3.1,1.65 Q 2.85,2.4 2.85,2.95 2.8,4.05 3.4,4.45 3.9,4.75 4.3,4.6 4.6,4.5 4.8,4.25 5,3.9 5.05,3.45 5.05,3 4.75,2.8 L 3.1,1.65"
+         id="path1501"
+         fill="#882482"
+         fill-rule="evenodd"
+         stroke="none" />
+    </g>
+    <g
+       id="shape273">
+      <path
+         d="M 4.2,6.6 Q 4.5,6.05 4.45,5.8 4.45,5.6 4,5.3 L 1.65,3.7 Q 1.1,3.3 0.8,3.25 0.5,3.2 0.35,3.5 0.3,3.5 0.25,3.65 0.2,3.7 0.15,3.85 L 0,3.7 Q 0.1,3.35 0.2,2.95 0.3,2.55 0.35,2.4 0.4,2.05 0.45,1.7 q 0.05,-0.05 0.1,0 0,0 0.1,0.05 L 1.5,2.35 Q 1.3,1.65 1.2,1.2 1.2,0.7 1.4,0.35 1.6,0.1 1.85,0 2.15,-0.05 2.4,0.1 2.6,0.25 2.65,0.5 2.7,0.7 2.6,0.9 2.45,1.15 2.15,1.2 1.8,1.3 1.7,1.4 q -0.1,0.2 0,0.65 0.15,0.5 0.45,0.7 l 2.4,1.6 Q 5,4.65 5.3,4.55 5.65,4.45 5.95,3.95 L 6.15,4.1 4.35,6.7 4.2,6.6"
+         id="path1504"
+         fill="#882482"
+         fill-rule="evenodd"
+         stroke="none" />
+    </g>
+    <g
+       id="shape274">
+      <path
+         d="m 1.8,0 0.15,0.1 5,5.15 -0.3,0.6 L 2.1,1.1 1.05,3.05 q -0.2,0.45 -0.15,0.7 0,0.3 0.3,0.8 L 1.05,4.7 Q 0.5,4 0.35,3.85 0.25,3.7 0,3.4 L 1.8,0"
+         id="path1507"
+         fill="#882482"
+         fill-rule="evenodd"
+         stroke="none" />
+    </g>
+    <g
+       id="shape275">
+      <path
+         d="m 0.1,0 q 0,0 0.05,0.05 L 5.6,2.9 Q 5.95,3.1 6.15,2.95 6.3,2.85 6.6,2.35 L 6.75,2.4 5.4,4.95 5.25,4.85 Q 5.5,4.3 5.5,4.1 5.45,3.85 5.05,3.65 L 0.85,1.4 Q 0.65,1.3 0.5,1.3 0.35,1.3 0.25,1.45 0.2,1.6 0.15,1.8 q 0,0.25 0,0.45 L 0,2.15 0.05,0.05 V 0 Q 0.1,0 0.1,0"
+         id="path1510"
+         fill="#882482"
+         fill-rule="evenodd"
+         stroke="none" />
+    </g>
+    <g
+       id="shape276">
+      <path
+         d="M 2,0.9 Q 2.2,1.45 2.2,1.95 L 1.95,1.9 Q 1.95,1.35 1.75,1.05 1.55,0.7 1.35,0.6 q -0.05,0 -0.1,0 0,0.05 -0.05,0.1 L 1.05,1 Q 1,1.2 0.75,1.3 0.55,1.4 0.3,1.25 0.15,1.15 0.05,0.95 -0.05,0.7 0.1,0.45 0.25,0.15 0.6,0.05 0.95,-0.05 1.35,0.15 1.8,0.4 2,0.9"
+         id="path1513"
+         fill="#882482"
+         fill-rule="evenodd"
+         stroke="none" />
+    </g>
+    <g
+       id="shape277">
+      <path
+         d="m 1.85,0 q 1.1,-0.1 2.05,0.4 0.7,0.4 1.25,1 0.6,0.65 0.9,1.45 Q 6.35,3.75 6.2,4.8 6.15,5.4 5.8,6.2 L 5.6,6.15 Q 5.75,5.6 5.8,5.2 5.9,4.55 5.75,4.05 5.55,3.3 5.15,2.75 4.7,2.15 4.4,1.85 V 2.1 Q 4.5,2.55 4.35,3.05 4.25,3.35 4.15,3.5 3.75,4.3 3,4.45 2.2,4.6 1.45,4.2 0.5,3.7 0.15,2.85 -0.2,1.95 0.25,1.15 0.8,0.15 1.85,0 M 4.1,2.2 Q 4.15,1.8 4.05,1.7 4,1.65 3.7,1.5 3.45,1.3 3.25,1.2 2.3,0.7 1.55,0.7 0.8,0.75 0.5,1.35 q -0.25,0.4 0,0.9 0.25,0.5 1.05,0.9 Q 2.2,3.55 2.9,3.55 3.6,3.6 3.95,2.95 4.1,2.65 4.1,2.2"
+         id="path1516"
+         fill="#882482"
+         fill-rule="evenodd"
+         stroke="none" />
+    </g>
+    <g
+       id="shape278">
+      <path
+         d="M 0.15,2.75 0,2.7 Q 0.15,2.1 0.25,1.6 0.3,1.15 0.3,1.1 q 0.05,0 0.1,0 L 3.15,2.6 Q 2.95,2.35 2.9,2 2.8,1.4 3.05,0.9 q 0.4,-0.7 1.2,-0.85 0.8,-0.2 1.7,0.3 0.95,0.5 1.3,1.5 Q 7.6,2.8 7.1,3.8 6.8,4.3 6.35,4.65 5.9,5.05 5.7,4.95 L 0.95,2.4 q -0.3,-0.15 -0.4,-0.1 -0.2,0 -0.3,0.25 l -0.1,0.2 m 6.3,1.2 Q 6.75,3.65 6.85,3.45 7.2,2.8 6.9,2.25 6.55,1.7 5.9,1.35 5.25,1 4.5,0.95 3.8,0.95 3.45,1.6 3.3,1.9 3.3,2.3 3.35,2.7 3.65,2.9 l 2.3,1.2 Q 6.2,4.2 6.45,3.95"
+         id="path1519"
+         fill="#882482"
+         fill-rule="evenodd"
+         stroke="none" />
+    </g>
+    <g
+       id="shape279">
+      <path
+         d="M 2,3.15 Q 2,2.6 2.15,1.1 L 1.8,0.9 Q 1.3,0.65 1.1,0.65 q -0.4,0 -0.65,0.5 -0.1,0.2 -0.1,0.45 0,0.3 0.2,0.4 0.1,0.05 0.2,0.1 Q 0.9,2.15 0.95,2.15 1.2,2.3 1.2,2.5 1.2,2.65 1.15,2.75 1.05,2.95 0.85,3 0.65,3.05 0.5,2.95 0.15,2.8 0.05,2.2 -0.1,1.65 0.3,0.9 0.75,0 1.5,0 q 0.4,0 1,0.3 l 1.8,1 Q 4.55,1.4 4.7,1.45 4.9,1.45 5,1.3 5.05,1.15 5.05,1.1 5.05,1 5,0.8 L 5.25,0.9 Q 5.35,1.15 5.35,1.35 5.4,1.7 5.25,1.95 5.1,2.3 4.85,2.3 4.55,2.35 4.3,2.2 4.4,2.7 4.4,3.05 4.45,3.55 4.25,3.95 4.05,4.35 3.6,4.45 3.2,4.6 2.75,4.4 2.1,4.05 2,3.15 M 2.4,1.2 Q 2.3,1.85 2.3,2.3 2.4,3.15 2.9,3.4 3.3,3.65 3.65,3.45 3.85,3.35 3.95,3.15 4.15,2.85 4.1,2.5 4.1,2.1 3.8,2 L 2.4,1.2"
+         id="path1522"
+         fill="#882482"
+         fill-rule="evenodd"
+         stroke="none" />
+    </g>
+    <g
+       id="shape280">
+      <path
+         d="M 3.6,5.05 Q 3.75,4.6 3.7,4.45 3.7,4.25 3.3,4.05 l -2,-1.1 Q 0.85,2.75 0.6,2.7 0.35,2.7 0.25,2.9 0.25,2.95 0.2,3.05 0.15,3.1 0.15,3.2 L 0,3.1 Q 0.05,2.85 0.1,2.5 0.15,2.2 0.15,2.05 0.2,1.8 0.2,1.5 0.25,1.45 0.25,1.45 0.3,1.45 0.35,1.5 L 1.1,1.9 Q 0.85,1.4 0.75,1 0.7,0.6 0.85,0.35 0.95,0.1 1.15,0.05 1.4,-0.05 1.6,0.05 1.75,0.15 1.85,0.35 1.9,0.5 1.8,0.7 1.75,0.85 1.5,0.95 1.25,1.05 1.2,1.15 1.1,1.3 1.25,1.65 q 0.1,0.4 0.4,0.5 l 2,1.1 q 0.4,0.2 0.65,0.1 0.25,-0.1 0.45,-0.5 L 4.9,2.9 3.75,5.15 3.6,5.05"
+         id="path1525"
+         fill="#882482"
+         fill-rule="evenodd"
+         stroke="none" />
+    </g>
+    <g
+       id="shape281">
+      <path
+         d="M 2.5,0 2.65,0.1 8.6,6.9 8.15,7.6 2.8,1.4 1.35,3.75 q -0.3,0.55 -0.3,0.9 0.05,0.3 0.4,1 L 1.25,5.8 Q 0.6,4.9 0.45,4.7 0.25,4.5 0,4.15 L 2.5,0"
+         id="path1528"
+         fill="#882482"
+         fill-rule="evenodd"
+         stroke="none" />
+    </g>
+    <g
+       id="shape282">
+      <path
+         d="M 2.5,1.25 Q 2.7,1.9 2.65,2.5 L 2.4,2.45 Q 2.4,1.75 2.15,1.35 1.95,0.95 1.7,0.8 1.65,0.75 1.6,0.8 1.55,0.85 1.5,0.9 L 1.3,1.3 Q 1.2,1.5 0.9,1.6 0.65,1.7 0.35,1.55 0.15,1.4 0.05,1.15 -0.1,0.85 0.15,0.5 0.35,0.15 0.8,0.05 1.2,-0.1 1.7,0.2 2.25,0.55 2.5,1.25"
+         id="path1531"
+         fill="#882482"
+         fill-rule="evenodd"
+         stroke="none" />
+    </g>
+    <g
+       id="shape283">
+      <path
+         d="M 6.7,6.3 Q 7.3,5.95 7.5,5.65 7.95,4.85 7.65,4.2 7.4,3.5 6.75,3.15 6.2,2.8 5.55,2.8 4.5,2.9 3.8,4.1 3.75,4.15 3.7,4.2 3.65,4.3 3.6,4.4 L 3.45,4.3 Q 3.7,3.25 3.55,2.5 3.45,1.75 2.8,1.35 2.2,1 1.65,1.2 1.1,1.4 0.8,1.9 0.4,2.5 0.6,3.25 0.7,3.65 1,4.2 L 0.85,4.35 Q 0.2,3.65 0.05,2.75 -0.1,1.85 0.35,1.1 0.85,0.25 1.6,0.05 2.35,-0.1 2.95,0.25 3.45,0.55 3.7,1.2 3.8,1.55 3.85,2.2 4.4,1.8 4.9,1.7 5.8,1.4 6.7,1.95 7.75,2.6 8.05,3.85 8.35,5.2 7.45,6.7 7,7.35 6.65,7.5 6.3,7.65 6.05,7.5 5.95,7.45 5.85,7.25 5.75,7.1 5.9,6.9 6.1,6.6 6.7,6.3"
+         id="path1534"
+         fill="#882482"
+         fill-rule="evenodd"
+         stroke="none" />
+    </g>
+    <g
+       id="shape284">
+      <path
+         d="m 0.3,0 q 0,0 0.05,0.05 L 6.95,4 Q 7.35,4.25 7.6,4.1 7.85,3.95 8.25,3.35 L 8.4,3.45 6.55,6.5 6.4,6.4 Q 6.75,5.75 6.7,5.45 6.7,5.15 6.2,4.85 L 1.15,1.8 Q 0.85,1.65 0.7,1.65 0.5,1.6 0.4,1.85 0.3,2 0.25,2.25 0.2,2.55 0.15,2.8 L 0,2.7 0.2,0.05 V 0 q 0.05,0 0.1,0"
+         id="path1537"
+         fill="#882482"
+         fill-rule="evenodd"
+         stroke="none" />
+    </g>
+    <g
+       id="shape285">
+      <path
+         d="M 0.2,3.15 0,3.05 Q 0.25,2.35 0.35,1.75 0.5,1.15 0.5,1.1 q 0.05,0 0.1,0 l 3.3,2 Q 3.75,2.85 3.65,2.4 3.55,1.65 3.95,1 4.45,0.2 5.45,0.05 6.5,-0.15 7.55,0.5 8.7,1.2 9.1,2.45 9.5,3.7 8.75,4.9 8.4,5.5 7.8,5.95 7.2,6.4 6.95,6.25 L 1.2,2.75 Q 0.85,2.55 0.7,2.6 0.5,2.6 0.3,2.9 L 0.2,3.15 M 8,5.05 Q 8.35,4.7 8.5,4.45 9,3.7 8.6,2.95 8.3,2.25 7.45,1.75 6.65,1.3 5.75,1.2 4.85,1.15 4.4,1.9 4.15,2.3 4.15,2.8 4.2,3.3 4.55,3.55 L 7.35,5.2 Q 7.65,5.35 8,5.05"
+         id="path1540"
+         fill="#882482"
+         fill-rule="evenodd"
+         stroke="none" />
+    </g>
+    <g
+       id="shape286">
+      <path
+         d="M 2.45,3.95 Q 2.4,3.25 2.75,1.4 L 2.3,1.15 Q 1.75,0.8 1.45,0.8 1,0.75 0.65,1.35 q -0.2,0.25 -0.2,0.6 0,0.35 0.25,0.5 0.05,0.05 0.25,0.1 0.15,0.05 0.2,0.1 0.3,0.2 0.3,0.45 0,0.15 -0.1,0.3 Q 1.25,3.65 1,3.7 0.75,3.75 0.55,3.6 0.15,3.4 0.05,2.65 -0.1,1.95 0.45,1.05 1.1,-0.05 2,0 2.5,0.05 3.2,0.45 L 5.4,1.8 Q 5.75,1.95 5.85,2 6.15,2.05 6.25,1.85 6.35,1.7 6.35,1.6 q 0,-0.1 0,-0.4 L 6.6,1.35 Q 6.75,1.7 6.75,1.95 6.75,2.4 6.6,2.7 6.35,3.1 6,3.1 5.7,3.15 5.35,2.95 5.45,3.55 5.45,4 5.45,4.65 5.15,5.1 4.9,5.55 4.35,5.7 3.8,5.85 3.3,5.55 2.5,5.1 2.45,3.95 M 3.05,1.6 Q 2.85,2.35 2.85,2.9 2.9,4 3.5,4.35 4,4.65 4.45,4.45 4.7,4.35 4.85,4.1 5.1,3.7 5.1,3.25 5.1,2.8 4.75,2.65 L 3.05,1.6"
+         id="path1543"
+         fill="#882482"
+         fill-rule="evenodd"
+         stroke="none" />
+    </g>
+    <g
+       id="shape287">
+      <path
+         d="M 4.35,6.45 Q 4.6,5.95 4.55,5.7 4.55,5.45 4.1,5.2 L 1.6,3.7 Q 1.1,3.35 0.8,3.35 0.5,3.3 0.35,3.55 0.3,3.6 0.25,3.7 0.2,3.8 0.2,3.9 L 0,3.8 Q 0.1,3.45 0.15,3.05 0.25,2.65 0.25,2.5 0.35,2.15 0.35,1.8 0.4,1.75 0.4,1.75 q 0.05,0 0.15,0.05 l 0.9,0.55 Q 1.15,1.7 1.1,1.2 1,0.75 1.2,0.4 1.4,0.1 1.65,0 1.95,-0.05 2.2,0.1 2.4,0.25 2.5,0.45 2.55,0.7 2.45,0.9 2.3,1.1 2,1.2 1.65,1.3 1.6,1.4 1.5,1.6 1.65,2.05 1.75,2.55 2.1,2.75 L 4.55,4.2 q 0.5,0.3 0.8,0.2 0.3,-0.15 0.6,-0.65 l 0.2,0.1 -1.65,2.7 -0.15,-0.1"
+         id="path1546"
+         fill="#882482"
+         fill-rule="evenodd"
+         stroke="none" />
+    </g>
+    <g
+       id="shape288">
+      <path
+         d="M 6.3,8.1 Q 5.45,4.8 4.95,3.5 4.45,2.2 3.5,1.6 2.7,1.15 2.05,1.3 1.35,1.45 0.95,2.05 0.5,2.8 0.75,3.6 0.9,4.05 1.35,4.65 l -0.2,0.2 Q 0.1,3.8 0,2.85 -0.05,1.95 0.4,1.2 0.95,0.25 1.9,0.05 2.85,-0.15 3.65,0.35 4.55,0.95 5,2.05 5.4,3.2 6.25,6.55 L 7.8,4.05 q 0.35,-0.5 0.35,-0.8 0,-0.3 -0.3,-0.85 L 8,2.3 9.1,3.85 6.4,8.15 6.3,8.1"
+         id="path1549"
+         fill="#882482"
+         fill-rule="evenodd"
+         stroke="none" />
+    </g>
+    <g
+       id="shape289">
+      <path
+         d="M 2.5,1.25 Q 2.7,1.95 2.65,2.5 H 2.35 Q 2.4,1.8 2.15,1.4 1.95,0.95 1.7,0.85 1.65,0.75 1.6,0.8 1.55,0.85 1.5,0.9 L 1.3,1.3 Q 1.2,1.5 0.9,1.6 0.65,1.7 0.35,1.55 0.15,1.4 0.05,1.1 -0.1,0.85 0.15,0.45 0.35,0.15 0.8,0.05 1.25,-0.1 1.7,0.2 2.25,0.55 2.5,1.25"
+         id="path1552"
+         fill="#882482"
+         fill-rule="evenodd"
+         stroke="none" />
+    </g>
+    <g
+       id="shape290">
+      <path
+         d="M 0,0.5 0.3,0 5.2,3.05 5.9,1.9 6.6,2.35 5.9,3.5 7.75,4.65 7.2,5.5 5.4,4.35 3.45,7.45 2.7,7 0,0.5 M 0.9,1.55 3,6.55 4.65,3.9 0.9,1.55"
+         id="path1555"
+         fill="#882482"
+         fill-rule="evenodd"
+         stroke="none" />
+    </g>
+    <g
+       id="shape291">
+      <path
+         d="M 7.5,4.7 Q 7.85,5.85 7.25,6.85 6.65,7.8 5.25,8.05 3.9,8.25 2.4,7.35 0.5,6.15 0.05,3.75 -0.25,1.7 0.8,0 L 1,0.1 Q 0.7,0.85 0.65,1.45 0.55,2.1 0.7,2.7 0.8,3.35 1.2,4.05 1.6,4.8 2.1,5.3 2.1,4.85 2.15,4.5 2.25,4 2.55,3.55 3.05,2.7 4.05,2.45 5,2.25 6.1,2.95 7.1,3.55 7.5,4.7 M 4.45,3.65 Q 3.3,3.4 2.75,4.35 2.2,5.15 2.55,5.75 2.7,6.1 3.4,6.55 4.3,7.1 5.35,7.25 6.45,7.4 6.95,6.55 7.35,5.95 7,5.3 6.6,4.65 5.9,4.2 5.15,3.75 4.45,3.65"
+         id="path1558"
+         fill="#882482"
+         fill-rule="evenodd"
+         stroke="none" />
+    </g>
+    <g
+       id="shape292">
+      <path
+         d="M 0.2,3.05 0,2.95 Q 0.25,2.25 0.4,1.65 0.5,1.05 0.55,1 0.6,1 0.6,1.05 L 3.9,3.1 Q 3.75,2.8 3.7,2.35 3.6,1.6 4,0.95 4.5,0.15 5.5,0 6.55,-0.1 7.6,0.55 8.75,1.25 9.1,2.5 9.45,3.75 8.75,4.95 8.35,5.55 7.75,6 7.15,6.4 6.9,6.25 L 1.2,2.7 Q 0.9,2.5 0.7,2.5 0.5,2.5 0.3,2.8 L 0.2,3.05 m 7.75,2 Q 8.3,4.75 8.5,4.5 8.95,3.75 8.65,3 8.3,2.3 7.5,1.8 6.65,1.3 5.8,1.2 4.9,1.1 4.4,1.85 4.15,2.25 4.15,2.75 4.2,3.3 4.55,3.5 L 7.3,5.25 q 0.3,0.1 0.65,-0.2"
+         id="path1561"
+         fill="#882482"
+         fill-rule="evenodd"
+         stroke="none" />
+    </g>
+    <g
+       id="shape293">
+      <path
+         d="M 2.4,4 Q 2.4,3.25 2.8,1.45 L 2.3,1.15 Q 1.75,0.8 1.5,0.8 1,0.75 0.65,1.3 q -0.2,0.3 -0.2,0.65 0,0.3 0.25,0.5 0.05,0 0.25,0.1 0.15,0.05 0.2,0.1 0.3,0.15 0.3,0.45 0,0.15 -0.1,0.3 Q 1.2,3.65 0.95,3.7 0.7,3.7 0.5,3.6 0.15,3.35 0,2.65 -0.1,1.9 0.45,1 q 0.7,-1.05 1.6,-1 0.5,0.05 1.2,0.5 L 5.4,1.85 Q 5.75,2.05 5.9,2.05 6.15,2.15 6.3,1.9 6.35,1.8 6.35,1.7 6.4,1.55 6.35,1.3 l 0.3,0.15 q 0.1,0.3 0.1,0.6 0,0.45 -0.2,0.75 Q 6.35,3.15 6,3.2 5.65,3.2 5.3,3 5.4,3.65 5.4,4.05 5.4,4.7 5.1,5.15 4.85,5.6 4.3,5.75 3.75,5.9 3.25,5.6 2.45,5.1 2.4,4 M 3.05,1.6 Q 2.85,2.35 2.85,2.9 2.85,4 3.45,4.4 3.95,4.7 4.4,4.5 4.7,4.4 4.85,4.15 5.05,3.75 5.05,3.3 5.1,2.9 4.75,2.7 L 3.05,1.6"
+         id="path1564"
+         fill="#882482"
+         fill-rule="evenodd"
+         stroke="none" />
+    </g>
+    <g
+       id="shape294">
+      <path
+         d="M 4.3,6.5 Q 4.55,6 4.55,5.75 4.5,5.5 4.05,5.2 L 1.6,3.7 Q 1.1,3.35 0.8,3.3 0.5,3.25 0.35,3.55 0.3,3.6 0.25,3.7 0.2,3.8 0.2,3.9 L 0,3.8 Q 0.1,3.4 0.15,3 0.25,2.6 0.3,2.45 q 0.05,-0.3 0.1,-0.7 0.05,0 0.05,0 0.05,0 0.15,0.05 L 1.45,2.35 Q 1.2,1.7 1.15,1.2 1.05,0.7 1.3,0.35 1.45,0.1 1.75,0 2,-0.05 2.25,0.1 2.45,0.25 2.55,0.45 2.6,0.7 2.5,0.9 2.35,1.1 2.05,1.2 1.7,1.3 1.65,1.4 1.5,1.6 1.65,2.05 1.8,2.55 2.1,2.75 l 2.45,1.5 q 0.5,0.3 0.8,0.2 0.3,-0.1 0.6,-0.6 L 6.15,3.95 4.45,6.6 4.3,6.5"
+         id="path1567"
+         fill="#882482"
+         fill-rule="evenodd"
+         stroke="none" />
+    </g>
+    <g
+       id="shape295">
+      <path
+         d="M 6.9,6.05 Q 7.5,5.7 7.65,5.35 8.1,4.55 7.75,3.9 7.45,3.2 6.8,2.9 6.2,2.55 5.6,2.65 4.5,2.75 3.85,4 3.85,4.05 3.8,4.15 3.75,4.2 3.7,4.3 L 3.55,4.25 Q 3.75,3.15 3.6,2.4 3.4,1.65 2.75,1.3 2.1,0.95 1.6,1.2 1.05,1.45 0.75,1.95 0.45,2.6 0.65,3.3 0.75,3.7 1.1,4.3 L 1,4.45 Q 0.25,3.75 0.05,2.85 -0.15,2 0.3,1.15 0.75,0.3 1.5,0.1 q 0.7,-0.25 1.35,0.1 0.5,0.3 0.75,0.9 0.15,0.4 0.25,1 0.5,-0.4 1,-0.55 0.9,-0.3 1.8,0.15 Q 7.75,2.3 8.1,3.55 8.5,4.85 7.65,6.4 7.3,7.1 6.95,7.25 6.55,7.45 6.35,7.3 6.2,7.2 6.1,7.05 6,6.9 6.15,6.7 6.3,6.35 6.9,6.05"
+         id="path1570"
+         fill="#882482"
+         fill-rule="evenodd"
+         stroke="none" />
+    </g>
+    <g
+       id="shape296">
+      <path
+         d="M 2.25,0 2.45,0.1 8.7,6.55 8.3,7.3 2.65,1.35 1.35,3.8 Q 1.05,4.35 1.1,4.7 1.15,5.05 1.55,5.7 L 1.35,5.85 Q 0.6,5 0.45,4.8 0.3,4.6 0,4.25 L 2.25,0"
+         id="path1573"
+         fill="#882482"
+         fill-rule="evenodd"
+         stroke="none" />
+    </g>
+    <g
+       id="shape297">
+      <path
+         d="M 2.5,1.15 Q 2.8,1.8 2.75,2.4 H 2.45 Q 2.45,1.7 2.2,1.3 1.95,0.9 1.7,0.8 1.65,0.75 1.6,0.75 1.55,0.8 1.5,0.85 L 1.35,1.25 Q 1.2,1.5 0.95,1.6 0.7,1.75 0.4,1.6 0.2,1.45 0.05,1.2 -0.1,0.9 0.1,0.55 q 0.2,-0.4 0.65,-0.5 0.4,-0.15 0.9,0.1 0.6,0.35 0.85,1"
+         id="path1576"
+         fill="#882482"
+         fill-rule="evenodd"
+         stroke="none" />
+    </g>
+    <g
+       id="shape298">
+      <path
+         d="M 7.6,4.2 Q 8.1,5.35 7.5,6.4 7,7.35 5.65,7.7 4.25,8 2.7,7.2 0.75,6.15 0.15,3.8 -0.3,1.75 0.65,0 l 0.2,0.05 Q 0.6,0.85 0.55,1.45 0.5,2.1 0.7,2.7 0.85,3.35 1.3,4.05 1.75,4.7 2.3,5.2 2.25,4.7 2.3,4.4 2.35,3.9 2.6,3.4 3.05,2.5 4,2.25 4.95,1.95 6.1,2.55 7.15,3.15 7.6,4.2 M 4.55,3.35 Q 3.35,3.25 2.85,4.2 2.4,5.05 2.75,5.65 2.95,5.95 3.65,6.35 4.6,6.8 5.65,6.9 6.75,6.95 7.2,6.15 7.55,5.45 7.15,4.85 6.75,4.25 6,3.85 5.25,3.45 4.55,3.35"
+         id="path1579"
+         fill="#882482"
+         fill-rule="evenodd"
+         stroke="none" />
+    </g>
+    <g
+       id="shape299">
+      <path
+         d="M 0.2,3.45 0,3.35 Q 0.2,2.65 0.3,2.05 0.4,1.4 0.4,1.4 q 0.05,0 0.1,0 L 3.9,3.25 Q 3.7,2.95 3.65,2.5 3.5,1.8 3.85,1.1 4.3,0.25 5.3,0.05 q 1,-0.2 2.1,0.4 1.2,0.6 1.65,1.85 0.45,1.2 -0.2,2.45 -0.35,0.6 -0.9,1.1 -0.6,0.45 -0.8,0.3 L 1.15,3 Q 0.85,2.85 0.65,2.85 0.45,2.85 0.3,3.2 L 0.2,3.45 M 8.1,4.9 Q 8.4,4.6 8.6,4.3 9,3.5 8.6,2.8 8.2,2.15 7.4,1.7 6.55,1.25 5.65,1.2 4.75,1.2 4.3,2 4.1,2.35 4.15,2.9 4.2,3.4 4.55,3.6 l 2.9,1.55 Q 7.75,5.2 8.1,4.9"
+         id="path1582"
+         fill="#882482"
+         fill-rule="evenodd"
+         stroke="none" />
+    </g>
+    <g
+       id="shape300">
+      <path
+         d="M 2.55,3.95 Q 2.45,3.25 2.7,1.4 L 2.25,1.15 Q 1.65,0.8 1.35,0.8 0.9,0.8 0.55,1.4 0.45,1.7 0.45,2.05 0.45,2.35 0.7,2.5 0.8,2.55 0.95,2.6 1.15,2.65 1.15,2.7 1.5,2.85 1.5,3.15 1.5,3.3 1.4,3.45 1.3,3.7 1.05,3.75 0.8,3.8 0.6,3.7 0.2,3.5 0.05,2.75 -0.15,2.05 0.35,1.1 0.95,0 1.85,0 2.4,0 3.1,0.4 L 5.35,1.6 Q 5.7,1.75 5.85,1.8 6.1,1.85 6.25,1.6 6.3,1.45 6.3,1.35 6.3,1.25 6.25,0.95 l 0.3,0.2 Q 6.7,1.4 6.7,1.7 6.75,2.15 6.6,2.45 6.4,2.85 6.05,2.9 5.7,2.95 5.35,2.75 5.5,3.4 5.5,3.8 5.55,4.45 5.3,4.95 5.05,5.4 4.5,5.6 4,5.75 3.45,5.5 2.65,5.05 2.55,3.95 M 3,1.55 Q 2.85,2.3 2.9,2.85 2.95,3.95 3.6,4.25 4.1,4.55 4.55,4.35 4.8,4.2 4.95,3.95 5.15,3.55 5.15,3.1 5.1,2.65 4.8,2.5 L 3,1.55"
+         id="path1585"
+         fill="#882482"
+         fill-rule="evenodd"
+         stroke="none" />
+    </g>
+    <g
+       id="shape301">
+      <path
+         d="M 4.45,6.3 Q 4.7,5.8 4.65,5.55 4.6,5.3 4.15,5.05 L 1.6,3.7 Q 1.05,3.4 0.75,3.4 0.45,3.35 0.3,3.65 0.3,3.7 0.25,3.8 0.2,3.9 0.2,4 L 0,3.9 Q 0.05,3.55 0.1,3.15 0.2,2.7 0.2,2.55 q 0.05,-0.3 0.05,-0.7 0.05,0 0.05,0 0.05,0 0.15,0.05 l 0.9,0.45 Q 1.05,1.75 0.95,1.25 0.85,0.8 1.05,0.4 1.2,0.15 1.45,0.05 1.75,-0.05 2,0.1 2.2,0.2 2.3,0.45 2.4,0.65 2.3,0.85 2.15,1.1 1.85,1.2 1.55,1.3 1.45,1.4 1.4,1.6 1.55,2.1 1.7,2.55 2.05,2.7 L 4.6,4.05 Q 5.05,4.3 5.35,4.2 5.7,4.05 5.95,3.55 l 0.2,0.1 -1.5,2.75 -0.2,-0.1"
+         id="path1588"
+         fill="#882482"
+         fill-rule="evenodd"
+         stroke="none" />
+    </g>
+    <g
+       id="shape302">
+      <path
+         d="m 0.15,0 q 0,0 0.05,0.05 L 7,3.65 Q 7.4,3.85 7.65,3.7 7.9,3.55 8.25,2.9 L 8.45,3 6.75,6.2 6.55,6.1 Q 6.9,5.4 6.85,5.1 6.8,4.8 6.3,4.55 L 1.1,1.75 Q 0.8,1.65 0.65,1.6 0.45,1.6 0.35,1.85 0.25,2 0.2,2.25 0.2,2.55 0.15,2.8 L 0,2.7 0.05,0.05 0.1,0 q 0,0 0.05,0"
+         id="path1591"
+         fill="#882482"
+         fill-rule="evenodd"
+         stroke="none" />
+    </g>
+    <g
+       id="shape303">
+      <path
+         d="M 2.25,0 2.45,0.1 8.7,6.55 8.3,7.3 2.65,1.35 1.35,3.8 Q 1.05,4.35 1.1,4.7 1.15,5.05 1.55,5.7 L 1.35,5.85 Q 0.6,5 0.45,4.8 0.3,4.6 0,4.25 L 2.25,0"
+         id="path1594"
+         fill="#882482"
+         fill-rule="evenodd"
+         stroke="none" />
+    </g>
+    <g
+       id="shape304">
+      <path
+         d="M 2.5,1.15 Q 2.8,1.8 2.75,2.4 H 2.45 Q 2.45,1.7 2.2,1.3 1.95,0.9 1.7,0.8 1.65,0.75 1.6,0.8 1.55,0.8 1.5,0.85 L 1.35,1.25 Q 1.2,1.5 0.95,1.6 0.7,1.75 0.4,1.6 0.2,1.45 0.05,1.2 -0.1,0.9 0.1,0.55 0.3,0.15 0.75,0.05 1.15,-0.1 1.65,0.2 2.25,0.45 2.5,1.15"
+         id="path1597"
+         fill="#882482"
+         fill-rule="evenodd"
+         stroke="none" />
+    </g>
+    <g
+       id="shape305">
+      <path
+         d="M 2.4,4.7 Q 1.65,4.8 1,4.45 0.25,4.1 0.05,3.2 -0.15,2.3 0.4,1.3 0.85,0.4 1.65,0.1 2.4,-0.15 3.05,0.2 3.75,0.55 3.95,1.35 4.1,1.85 4.1,2.75 5.3,2.15 6.05,2.05 6.8,1.9 7.55,2.3 8.35,2.7 8.55,3.6 8.8,4.55 8.25,5.55 7.75,6.45 6.9,6.85 6.05,7.25 5.2,6.8 4.5,6.4 4.2,5.65 4,5.2 3.9,4.2 2.9,4.6 2.4,4.7 M 3.45,1.9 Q 3.2,1.3 2.6,1 2.05,0.7 1.5,0.85 1,0.95 0.6,1.65 0.35,2.15 0.5,2.65 0.65,3.2 1.1,3.45 1.65,3.7 2.3,3.55 2.95,3.4 3.7,2.95 3.6,2.25 3.45,1.9 M 8.1,4.15 Q 7.95,3.65 7.4,3.35 6.8,3 6.2,3.15 5.65,3.3 4.3,4 4.35,4.65 4.7,5.1 5.1,5.6 5.55,5.85 6.3,6.25 6.95,6.1 7.65,5.95 7.95,5.35 8.3,4.65 8.1,4.15"
+         id="path1600"
+         fill="#882482"
+         fill-rule="evenodd"
+         stroke="none" />
+    </g>
+    <g
+       id="shape306">
+      <path
+         d="M 0.2,3.45 0,3.35 Q 0.2,2.65 0.3,2.05 0.4,1.4 0.4,1.4 q 0.05,0 0.1,0 L 3.9,3.25 Q 3.7,2.95 3.65,2.5 3.5,1.8 3.85,1.1 4.3,0.25 5.3,0.05 q 1,-0.2 2.1,0.4 1.2,0.6 1.65,1.85 0.45,1.2 -0.2,2.45 -0.35,0.6 -0.9,1.1 -0.6,0.45 -0.8,0.3 L 1.15,3 Q 0.85,2.85 0.65,2.85 0.45,2.85 0.3,3.2 L 0.2,3.45 M 8.1,4.9 Q 8.4,4.6 8.6,4.3 9,3.5 8.6,2.8 8.2,2.15 7.4,1.7 6.55,1.25 5.65,1.2 4.75,1.2 4.3,2 4.1,2.35 4.15,2.9 4.2,3.4 4.55,3.6 l 2.9,1.55 Q 7.75,5.25 8.1,4.9"
+         id="path1603"
+         fill="#882482"
+         fill-rule="evenodd"
+         stroke="none" />
+    </g>
+    <g
+       id="shape307">
+      <path
+         d="M 2.55,3.95 Q 2.45,3.25 2.7,1.4 L 2.25,1.15 Q 1.65,0.8 1.35,0.8 0.9,0.8 0.55,1.4 0.45,1.7 0.45,2.05 0.45,2.35 0.7,2.5 0.8,2.55 0.95,2.6 1.15,2.65 1.15,2.7 1.5,2.85 1.5,3.15 1.5,3.3 1.4,3.45 1.3,3.7 1.05,3.75 0.8,3.8 0.6,3.7 0.2,3.5 0.05,2.75 -0.15,2.05 0.35,1.1 0.95,0 1.85,0 2.4,0 3.1,0.4 L 5.4,1.6 Q 5.7,1.75 5.85,1.8 6.1,1.85 6.25,1.6 6.3,1.45 6.3,1.35 6.3,1.25 6.25,0.95 l 0.3,0.2 Q 6.7,1.4 6.7,1.7 6.75,2.15 6.6,2.45 6.4,2.85 6.05,2.9 5.7,2.95 5.35,2.75 5.5,3.4 5.5,3.8 5.55,4.45 5.3,4.95 5.05,5.4 4.5,5.6 4,5.75 3.45,5.5 2.65,5.05 2.55,3.95 M 3,1.55 Q 2.85,2.3 2.9,2.85 2.95,3.95 3.6,4.25 4.1,4.55 4.55,4.35 4.8,4.2 4.95,3.95 5.15,3.55 5.15,3.1 5.1,2.65 4.8,2.5 L 3,1.55"
+         id="path1606"
+         fill="#882482"
+         fill-rule="evenodd"
+         stroke="none" />
+    </g>
+    <g
+       id="shape308">
+      <path
+         d="M 4.45,6.3 Q 4.7,5.8 4.65,5.55 4.6,5.3 4.15,5.05 L 1.6,3.7 Q 1.05,3.4 0.75,3.4 0.45,3.35 0.3,3.65 0.3,3.7 0.25,3.8 0.2,3.9 0.2,4 L 0,3.9 Q 0.05,3.55 0.1,3.15 0.2,2.7 0.2,2.55 q 0.05,-0.3 0.05,-0.7 0.05,0 0.05,0 0.05,0 0.15,0.05 l 0.9,0.5 Q 1.05,1.75 0.95,1.25 0.85,0.8 1.05,0.4 1.2,0.15 1.45,0.05 1.75,-0.05 2,0.1 2.2,0.2 2.3,0.45 2.4,0.65 2.3,0.85 2.15,1.1 1.85,1.2 1.55,1.3 1.45,1.4 1.35,1.6 1.55,2.1 1.7,2.55 2.05,2.7 L 4.6,4.05 Q 5.05,4.3 5.35,4.2 5.7,4.05 5.95,3.55 l 0.2,0.1 -1.5,2.75 -0.2,-0.1"
+         id="path1609"
+         fill="#882482"
+         fill-rule="evenodd"
+         stroke="none" />
+    </g>
+    <g
+       id="shape309">
+      <path
+         d="M 5.35,6.25 Q 4.5,3.7 4,2.65 3.5,1.65 2.75,1.25 2.1,0.9 1.55,1.05 1,1.25 0.75,1.75 0.4,2.35 0.65,3 0.8,3.3 1.2,3.8 L 1.05,3.95 Q 0.15,3.2 0.05,2.45 -0.1,1.65 0.25,1.05 0.65,0.3 1.4,0.1 2.1,-0.15 2.8,0.25 3.55,0.6 3.95,1.5 4.35,2.35 5.2,5 L 6.3,2.95 Q 6.55,2.5 6.55,2.25 6.5,2.05 6.25,1.6 l 0.1,-0.1 1,1.2 -1.9,3.6 -0.1,-0.05"
+         id="path1612"
+         fill="#882482"
+         fill-rule="evenodd"
+         stroke="none" />
+    </g>
+    <g
+       id="shape310">
+      <path
+         d="M 5.35,6.25 Q 4.5,3.7 4,2.65 3.5,1.65 2.75,1.25 2.1,0.9 1.55,1.05 1,1.25 0.75,1.75 0.4,2.35 0.65,3 0.8,3.3 1.2,3.8 L 1.05,3.95 Q 0.15,3.2 0.05,2.45 -0.1,1.65 0.25,1.05 0.65,0.3 1.4,0.1 2.1,-0.15 2.8,0.25 3.55,0.6 3.95,1.5 4.35,2.35 5.2,5 L 6.3,2.95 Q 6.55,2.5 6.55,2.3 6.5,2.05 6.25,1.6 l 0.1,-0.1 1,1.2 -1.9,3.6 -0.1,-0.05"
+         id="path1615"
+         fill="#882482"
+         fill-rule="evenodd"
+         stroke="none" />
+    </g>
+    <g
+       id="shape311">
+      <path
+         d="M 2.2,0 Q 3.3,0 4.45,0.6 5.35,1.1 6,1.8 7.2,3.1 6.5,4.4 6.05,5.3 4.95,5.45 3.75,5.6 2.25,4.8 1.1,4.2 0.5,3.35 -0.35,2.2 0.25,1.05 0.8,0 2.2,0 M 6.05,2.95 Q 5.45,2.3 4.1,1.55 3,1 2.25,0.8 0.9,0.4 0.5,1.2 0.1,1.95 1.2,2.9 1.75,3.4 2.85,4 3.9,4.5 4.6,4.7 5.85,5 6.3,4.25 6.65,3.55 6.05,2.95"
+         id="path1618"
+         fill="#882482"
+         fill-rule="evenodd"
+         stroke="none" />
+    </g>
+    <g
+       id="shape312">
+      <path
+         d="M 0.15,2.75 0,2.7 Q 0.15,2.1 0.25,1.6 0.3,1.15 0.3,1.1 q 0.05,0 0.1,0 L 3.15,2.6 Q 2.95,2.35 2.9,2 2.8,1.4 3.05,0.9 q 0.4,-0.7 1.2,-0.85 0.8,-0.2 1.7,0.3 0.95,0.5 1.3,1.5 Q 7.6,2.8 7.1,3.8 6.8,4.3 6.35,4.65 5.9,5.05 5.7,4.95 L 0.95,2.4 q -0.3,-0.15 -0.4,-0.1 -0.2,0 -0.3,0.25 l -0.1,0.2 m 6.3,1.2 Q 6.75,3.65 6.85,3.45 7.2,2.8 6.9,2.25 6.55,1.7 5.9,1.35 5.25,1 4.5,0.95 3.8,0.95 3.45,1.6 3.3,1.9 3.3,2.3 3.35,2.7 3.65,2.9 l 2.3,1.2 Q 6.2,4.2 6.45,3.95"
+         id="path1621"
+         fill="#882482"
+         fill-rule="evenodd"
+         stroke="none" />
+    </g>
+    <g
+       id="shape313">
+      <path
+         d="M 2.05,3.15 Q 1.95,2.6 2.15,1.1 L 1.8,0.9 Q 1.3,0.65 1.1,0.65 q -0.4,0 -0.65,0.5 -0.1,0.2 -0.1,0.45 0,0.3 0.2,0.4 0.1,0.05 0.2,0.1 Q 0.9,2.15 0.95,2.15 1.2,2.3 1.2,2.5 1.2,2.65 1.15,2.75 1.05,2.95 0.85,3 0.65,3.05 0.5,2.95 0.15,2.8 0.05,2.2 -0.1,1.65 0.3,0.9 0.75,0 1.5,0 q 0.4,0 1,0.3 l 1.8,1 Q 4.55,1.4 4.7,1.45 4.9,1.45 5,1.3 5.05,1.15 5.05,1.1 5.05,1 5,0.8 L 5.25,0.9 Q 5.35,1.15 5.35,1.35 5.4,1.7 5.25,1.95 5.1,2.3 4.85,2.3 4.55,2.35 4.3,2.2 4.4,2.7 4.4,3.05 4.45,3.55 4.25,3.95 4.05,4.35 3.6,4.45 3.2,4.6 2.75,4.4 2.1,4.05 2.05,3.15 M 2.4,1.2 Q 2.3,1.85 2.3,2.3 2.4,3.15 2.9,3.4 3.3,3.65 3.65,3.45 3.85,3.35 3.95,3.15 4.15,2.85 4.1,2.5 4.1,2.1 3.85,2 L 2.4,1.2"
+         id="path1624"
+         fill="#882482"
+         fill-rule="evenodd"
+         stroke="none" />
+    </g>
+    <g
+       id="shape314">
+      <path
+         d="M 3.6,5.05 Q 3.75,4.6 3.7,4.45 3.7,4.25 3.3,4.05 l -2,-1.1 Q 0.85,2.75 0.6,2.7 0.35,2.7 0.25,2.9 0.25,2.95 0.2,3.05 0.15,3.1 0.15,3.2 L 0,3.1 Q 0.05,2.85 0.1,2.5 0.15,2.2 0.15,2.05 0.2,1.8 0.2,1.5 0.25,1.45 0.25,1.45 0.3,1.45 0.35,1.5 L 1.1,1.9 Q 0.85,1.4 0.75,1 0.7,0.6 0.85,0.35 0.95,0.1 1.15,0.05 1.4,-0.05 1.6,0.05 1.75,0.15 1.85,0.35 1.9,0.5 1.8,0.7 1.75,0.85 1.5,0.95 1.25,1.05 1.2,1.15 1.1,1.3 1.25,1.65 q 0.1,0.4 0.4,0.5 l 2,1.1 q 0.4,0.2 0.65,0.1 0.25,-0.1 0.45,-0.5 L 4.9,2.9 3.75,5.15 3.6,5.05"
+         id="path1627"
+         fill="#882482"
+         fill-rule="evenodd"
+         stroke="none" />
+    </g>
+    <g
+       id="shape315">
+      <path
+         d="M 0.05,0 Q 0.1,0 0.15,0.05 L 5.6,2.8 Q 5.95,3 6.15,2.85 6.35,2.7 6.6,2.2 L 6.75,2.3 5.45,4.85 5.3,4.8 Q 5.55,4.2 5.5,4 5.5,3.75 5.05,3.55 L 0.85,1.4 Q 0.65,1.3 0.5,1.3 0.35,1.3 0.25,1.45 0.2,1.6 0.15,1.8 q 0,0.25 0,0.45 L 0,2.15 V 0.05 L 0.05,0 q 0,0 0,0"
+         id="path1630"
+         fill="#882482"
+         fill-rule="evenodd"
+         stroke="none" />
+    </g>
+    <g
+       id="shape316">
+      <path
+         d="M 5.4,6.2 Q 4.5,3.65 4,2.6 3.5,1.6 2.75,1.2 2.05,0.9 1.55,1.05 1,1.25 0.75,1.75 0.4,2.4 0.7,3 0.8,3.35 1.25,3.8 L 1.1,3.95 Q 0.15,3.2 0.05,2.45 -0.1,1.7 0.25,1.1 q 0.35,-0.8 1.1,-1 0.7,-0.25 1.4,0.1 0.75,0.4 1.2,1.25 0.4,0.9 1.3,3.5 l 1.1,-2.1 Q 6.55,2.45 6.55,2.2 6.5,1.95 6.25,1.55 l 0.1,-0.1 1,1.15 L 5.5,6.25 5.4,6.2"
+         id="path1633"
+         fill="#882482"
+         fill-rule="evenodd"
+         stroke="none" />
+    </g>
+    <g
+       id="shape317">
+      <path
+         d="M 0,0.45 0.2,0 4.3,2.1 4.8,1.15 5.4,1.45 4.9,2.4 6.45,3.2 6.1,3.9 4.55,3.1 3.2,5.75 2.6,5.45 0,0.45 M 0.8,1.2 2.8,5.05 3.95,2.8 0.8,1.2"
+         id="path1636"
+         fill="#882482"
+         fill-rule="evenodd"
+         stroke="none" />
+    </g>
+    <g
+       id="shape318">
+      <path
+         d="M 0.15,2.85 0,2.75 Q 0.15,2.2 0.2,1.7 0.3,1.2 0.3,1.2 q 0.05,0 0.05,0 l 2.8,1.4 Q 2.95,2.4 2.9,2.05 2.75,1.45 3.05,0.9 3.4,0.25 4.2,0.05 5,-0.15 5.9,0.35 6.85,0.8 7.25,1.8 7.6,2.75 7.1,3.75 6.85,4.25 6.4,4.65 5.95,5 5.75,4.9 L 0.95,2.45 q -0.3,-0.1 -0.45,-0.1 -0.1,0 -0.25,0.3 l -0.1,0.2 M 6.5,3.9 Q 6.75,3.65 6.9,3.4 7.2,2.75 6.9,2.2 6.55,1.65 5.9,1.3 5.2,1 4.5,0.95 3.75,0.95 3.45,1.6 3.25,1.95 3.3,2.35 3.35,2.75 3.65,2.9 L 6,4.1 Q 6.25,4.15 6.5,3.9"
+         id="path1639"
+         fill="#882482"
+         fill-rule="evenodd"
+         stroke="none" />
+    </g>
+    <g
+       id="shape319">
+      <path
+         d="M 2.05,3.15 Q 2,2.6 2.15,1.1 L 1.75,0.9 Q 1.3,0.65 1.1,0.65 q -0.4,0 -0.65,0.5 -0.1,0.2 -0.1,0.5 0,0.25 0.2,0.4 0.1,0 0.2,0.05 Q 0.9,2.15 0.95,2.15 1.2,2.3 1.2,2.5 1.2,2.65 1.15,2.75 1.05,2.95 0.85,3 0.65,3.05 0.5,2.95 0.2,2.8 0.05,2.25 -0.1,1.65 0.3,0.9 0.7,0 1.45,0 q 0.4,0 1,0.3 L 4.3,1.25 Q 4.55,1.35 4.65,1.4 4.9,1.4 4.95,1.2 5.05,1.1 5.05,1.05 5.05,0.95 5,0.7 L 5.25,0.85 Q 5.35,1.05 5.35,1.3 5.4,1.65 5.25,1.9 5.1,2.2 4.85,2.25 4.55,2.3 4.3,2.15 4.4,2.65 4.45,3 4.45,3.5 4.3,3.9 4.05,4.3 3.65,4.45 3.25,4.55 2.8,4.35 2.15,4.05 2.05,3.15 M 2.4,1.2 Q 2.3,1.8 2.35,2.25 2.4,3.15 2.9,3.4 3.35,3.6 3.65,3.45 3.9,3.3 4,3.1 4.15,2.8 4.1,2.45 4.1,2.05 3.85,1.95 L 2.4,1.2"
+         id="path1642"
+         fill="#882482"
+         fill-rule="evenodd"
+         stroke="none" />
+    </g>
+    <g
+       id="shape320">
+      <path
+         d="M 3.6,5 Q 3.8,4.6 3.75,4.4 3.7,4.2 3.35,4 L 1.3,2.95 Q 0.85,2.75 0.6,2.7 q -0.25,0 -0.35,0.25 0,0 -0.05,0.1 Q 0.15,3.15 0.15,3.2 L 0,3.15 q 0.05,-0.3 0.1,-0.65 0,-0.3 0.05,-0.4 0,-0.3 0.05,-0.6 0,0 0,0 0.05,0 0.1,0 L 1.05,1.9 Q 0.8,1.4 0.7,1 0.65,0.65 0.8,0.35 0.9,0.1 1.1,0.05 q 0.25,-0.1 0.45,0 0.15,0.1 0.25,0.3 0.05,0.15 0,0.35 -0.1,0.15 -0.35,0.25 -0.25,0.1 -0.3,0.2 -0.1,0.15 0.05,0.5 0.15,0.4 0.4,0.5 L 3.65,3.2 Q 4.05,3.4 4.3,3.3 4.55,3.2 4.75,2.75 L 4.9,2.85 3.75,5.1 3.6,5"
+         id="path1645"
+         fill="#882482"
+         fill-rule="evenodd"
+         stroke="none" />
+    </g>
+    <g
+       id="shape321">
+      <path
+         d="M 5.5,4.85 Q 6,4.55 6.15,4.25 6.45,3.65 6.2,3.1 5.95,2.6 5.45,2.3 4.95,2.05 4.45,2.1 3.65,2.2 3.1,3.2 3.05,3.25 3.05,3.3 3,3.35 3,3.45 L 2.85,3.4 Q 3,2.5 2.85,1.95 2.75,1.35 2.2,1.05 1.7,0.8 1.25,0.95 0.85,1.15 0.6,1.6 0.35,2.05 0.5,2.65 0.6,2.95 0.9,3.4 L 0.8,3.55 Q 0.2,3 0.05,2.3 -0.1,1.6 0.25,0.95 0.6,0.25 1.2,0.05 1.75,-0.1 2.25,0.15 2.7,0.4 2.9,0.9 3,1.2 3.05,1.7 3.5,1.35 3.85,1.2 4.6,1 5.35,1.35 6.2,1.85 6.5,2.85 6.8,3.85 6.1,5.1 5.85,5.65 5.55,5.8 5.25,5.95 5.05,5.85 4.95,5.75 4.9,5.65 4.8,5.5 4.9,5.35 5.05,5.1 5.5,4.85"
+         id="path1648"
+         fill="#882482"
+         fill-rule="evenodd"
+         stroke="none" />
+    </g>
+    <g
+       id="shape322">
+      <path
+         d="M 2.2,0 Q 3.3,0 4.45,0.6 5.35,1.1 6,1.8 7.2,3.1 6.5,4.4 6.05,5.3 4.95,5.45 3.75,5.6 2.25,4.8 1.1,4.2 0.5,3.35 -0.35,2.2 0.25,1.05 0.8,0 2.2,0 M 6.05,2.95 Q 5.45,2.3 4.1,1.55 3,1 2.25,0.8 0.9,0.4 0.5,1.2 0.1,1.95 1.2,2.9 1.75,3.4 2.85,4 3.9,4.5 4.6,4.7 5.85,5 6.3,4.25 6.65,3.55 6.05,2.95"
+         id="path1651"
+         fill="#882482"
+         fill-rule="evenodd"
+         stroke="none" />
+    </g>
+    <g
+       id="shape323">
+      <path
+         d="M 2.2,0 Q 3.3,0 4.45,0.6 5.35,1.1 6,1.8 7.2,3.1 6.5,4.4 6.05,5.3 4.95,5.45 3.75,5.6 2.25,4.8 1.1,4.2 0.5,3.35 -0.35,2.2 0.25,1.05 0.8,0 2.2,0 M 6.05,2.95 Q 5.45,2.3 4.1,1.55 3,1 2.25,0.8 0.9,0.4 0.5,1.2 0.1,1.95 1.2,2.9 1.75,3.4 2.85,4 3.9,4.5 4.6,4.7 5.85,5 6.3,4.25 6.65,3.55 6.05,2.95"
+         id="path1654"
+         fill="#882482"
+         fill-rule="evenodd"
+         stroke="none" />
+    </g>
+    <g
+       id="shape324">
+      <path
+         d="M 0.15,2.75 0,2.7 Q 0.15,2.1 0.25,1.6 0.3,1.15 0.3,1.1 q 0.05,0 0.1,0 L 3.15,2.6 Q 2.95,2.35 2.9,2 2.8,1.4 3.05,0.9 q 0.4,-0.7 1.2,-0.85 0.8,-0.2 1.7,0.3 0.95,0.5 1.3,1.5 Q 7.6,2.8 7.1,3.8 6.8,4.3 6.35,4.65 5.9,5.05 5.7,4.95 L 0.95,2.4 q -0.3,-0.15 -0.4,-0.1 -0.2,0 -0.3,0.25 l -0.1,0.2 m 6.3,1.2 Q 6.75,3.65 6.85,3.45 7.2,2.8 6.9,2.25 6.55,1.7 5.9,1.35 5.25,1 4.5,0.95 3.8,0.95 3.45,1.6 3.3,1.9 3.3,2.3 3.35,2.7 3.65,2.9 l 2.3,1.2 Q 6.2,4.2 6.45,3.95"
+         id="path1657"
+         fill="#882482"
+         fill-rule="evenodd"
+         stroke="none" />
+    </g>
+    <g
+       id="shape325">
+      <path
+         d="M 2.05,3.15 Q 1.95,2.6 2.15,1.1 L 1.8,0.9 Q 1.3,0.65 1.1,0.65 q -0.4,0 -0.65,0.5 -0.1,0.2 -0.1,0.5 0,0.25 0.2,0.35 0.1,0.05 0.2,0.1 Q 0.9,2.15 0.95,2.15 1.2,2.3 1.2,2.5 1.2,2.65 1.15,2.75 1.05,2.95 0.85,3 0.65,3.05 0.5,2.95 0.15,2.8 0.05,2.2 -0.1,1.65 0.3,0.9 0.75,0 1.5,0 q 0.4,0 1,0.3 l 1.8,1 Q 4.55,1.4 4.7,1.45 4.9,1.45 5,1.3 5.05,1.15 5.05,1.1 5.05,1 5,0.8 L 5.25,0.9 Q 5.35,1.15 5.35,1.35 5.4,1.7 5.25,1.95 5.1,2.3 4.85,2.3 4.55,2.35 4.3,2.2 4.4,2.7 4.4,3.05 4.45,3.55 4.25,3.95 4.05,4.35 3.6,4.45 3.2,4.6 2.75,4.4 2.1,4.05 2.05,3.15 M 2.4,1.2 Q 2.3,1.85 2.3,2.3 2.4,3.15 2.9,3.4 3.3,3.65 3.65,3.45 3.85,3.35 3.95,3.15 4.15,2.85 4.1,2.5 4.1,2.1 3.85,2 L 2.4,1.2"
+         id="path1660"
+         fill="#882482"
+         fill-rule="evenodd"
+         stroke="none" />
+    </g>
+    <g
+       id="shape326">
+      <path
+         d="M 3.6,5.05 Q 3.75,4.6 3.7,4.45 3.7,4.25 3.3,4.05 l -2,-1.1 Q 0.85,2.75 0.6,2.7 0.35,2.7 0.25,2.9 0.25,2.95 0.2,3.05 0.15,3.1 0.15,3.2 L 0,3.1 Q 0.05,2.85 0.1,2.5 0.15,2.2 0.15,2.05 0.2,1.8 0.2,1.5 0.25,1.45 0.25,1.45 0.3,1.45 0.35,1.5 L 1.1,1.9 Q 0.85,1.4 0.75,1 0.7,0.6 0.85,0.35 0.95,0.1 1.15,0.05 1.4,-0.05 1.6,0.05 1.75,0.15 1.85,0.35 1.9,0.5 1.8,0.7 1.75,0.85 1.5,0.95 1.25,1.05 1.2,1.15 1.1,1.3 1.25,1.65 q 0.1,0.4 0.4,0.5 l 2,1.1 q 0.4,0.2 0.65,0.1 0.25,-0.1 0.45,-0.5 L 4.9,2.9 3.75,5.15 3.6,5.05"
+         id="path1663"
+         fill="#882482"
+         fill-rule="evenodd"
+         stroke="none" />
+    </g>
+    <g
+       id="shape327">
+      <path
+         d="m 3.1,0.35 q 1,0.5 1.7,1.6 Q 5.4,2.8 5.6,3.7 6.1,5.45 4.85,6.25 4,6.8 2.95,6.45 1.85,6 0.9,4.6 0.2,3.55 0.05,2.5 -0.2,1.05 0.9,0.35 q 1,-0.7 2.2,0 m 2.05,4.4 Q 4.9,3.9 4.05,2.6 3.35,1.55 2.8,1.05 1.75,0.1 1.05,0.55 0.3,1.05 0.85,2.4 1.15,3.15 1.8,4.15 2.45,5.1 3,5.6 4,6.5 4.75,6 5.35,5.55 5.15,4.75"
+         id="path1666"
+         fill="#334b97"
+         fill-rule="evenodd"
+         stroke="none" />
+    </g>
+    <g
+       id="shape328">
+      <path
+         d="m 1.75,1.45 q -0.05,0.6 -0.3,1 L 1.25,2.3 Q 1.5,1.85 1.45,1.45 1.45,1.1 1.35,0.9 1.3,0.85 1.25,0.85 1.2,0.85 1.15,0.9 L 0.9,1.1 Q 0.7,1.25 0.5,1.2 0.25,1.2 0.1,1 0,0.8 0,0.55 0,0.3 0.3,0.15 0.55,-0.05 0.9,0 q 0.35,0.1 0.6,0.45 0.3,0.45 0.25,1"
+         id="path1669"
+         fill="#334b97"
+         fill-rule="evenodd"
+         stroke="none" />
+    </g>
+    <g
+       id="shape329">
+      <path
+         d="M 1.15,3.55 Q 0.6,3.35 0.25,2.85 -0.15,2.3 0.05,1.6 0.3,0.85 1,0.4 1.7,-0.1 2.35,0 3,0.1 3.3,0.6 3.65,1.1 3.5,1.75 3.45,2.15 3.1,2.8 4.15,2.85 4.75,3.05 5.35,3.2 5.7,3.75 6.1,4.35 5.95,5.1 5.75,5.8 4.95,6.35 4.3,6.8 3.55,6.75 2.8,6.7 2.35,6.1 2,5.55 2.05,4.9 2.1,4.5 2.4,3.75 1.55,3.65 1.15,3.55 m 1.8,-1.6 Q 3,1.45 2.7,1 2.45,0.6 2,0.5 1.55,0.35 1.05,0.7 0.65,0.95 0.55,1.4 0.5,1.8 0.7,2.15 1,2.55 1.5,2.7 2.05,2.85 2.75,2.8 2.95,2.25 2.95,1.95 M 5.4,5.3 Q 5.5,4.85 5.2,4.45 4.9,4 4.45,3.9 3.95,3.8 2.75,3.75 q -0.2,0.5 -0.1,0.95 0.05,0.5 0.3,0.8 0.4,0.6 0.9,0.75 0.55,0.1 1,-0.2 0.5,-0.3 0.55,-0.75"
+         id="path1672"
+         fill="#334b97"
+         fill-rule="evenodd"
+         stroke="none" />
+    </g>
+    <g
+       id="shape330">
+      <path
+         d="m 3.1,0.35 q 1,0.5 1.7,1.6 Q 5.4,2.8 5.6,3.7 6.1,5.45 4.85,6.25 4,6.8 2.95,6.45 1.85,6 0.9,4.6 0.2,3.55 0.05,2.5 -0.15,1.05 0.9,0.35 q 1,-0.7 2.2,0 m 2.05,4.4 Q 4.9,3.9 4.05,2.6 3.35,1.55 2.8,1.05 1.75,0.1 1.05,0.55 0.3,1.05 0.85,2.4 1.15,3.15 1.8,4.15 2.5,5.1 3,5.6 4,6.5 4.75,6 5.35,5.55 5.15,4.75"
+         id="path1675"
+         fill="#334b97"
+         fill-rule="evenodd"
+         stroke="none" />
+    </g>
+    <g
+       id="shape331">
+      <path
+         d="m 1.75,1.45 q -0.05,0.6 -0.3,1 L 1.25,2.3 Q 1.5,1.85 1.45,1.45 1.45,1.1 1.35,0.9 1.3,0.85 1.25,0.85 1.2,0.85 1.15,0.9 L 0.9,1.1 Q 0.7,1.25 0.5,1.2 0.25,1.2 0.1,1 0,0.8 0,0.55 0,0.3 0.3,0.15 0.55,-0.05 0.9,0 q 0.35,0.1 0.6,0.45 0.3,0.45 0.25,1"
+         id="path1678"
+         fill="#334b97"
+         fill-rule="evenodd"
+         stroke="none" />
+    </g>
+    <g
+       id="shape332">
+      <path
+         d="M 5.25,5.6 Q 5.2,6.55 4.4,7.1 3.65,7.6 2.55,7.3 1.45,7.05 0.7,5.85 -0.3,4.4 0.15,2.5 0.6,0.9 1.9,0 L 2.05,0.15 Q 1.55,0.6 1.3,1 1.05,1.45 0.95,1.95 0.85,2.45 0.9,3.1 0.9,3.75 1.15,4.3 1.3,3.95 1.4,3.75 1.7,3.35 2,3.15 2.7,2.7 3.45,2.85 4.25,3 4.8,3.85 5.35,4.65 5.25,5.6 M 3.4,3.85 Q 2.6,3.3 1.9,3.8 1.25,4.25 1.3,4.75 1.35,5.1 1.7,5.6 2.15,6.3 2.9,6.75 3.65,7.25 4.25,6.8 4.75,6.45 4.7,5.9 4.65,5.3 4.25,4.7 3.9,4.15 3.4,3.85"
+         id="path1681"
+         fill="#334b97"
+         fill-rule="evenodd"
+         stroke="none" />
+    </g>
+    <g
+       id="shape333">
+      <path
+         d="m 3.1,0.35 q 1,0.5 1.7,1.6 Q 5.4,2.8 5.6,3.7 6.1,5.45 4.85,6.25 4,6.8 2.95,6.45 1.85,6 0.9,4.6 0.2,3.55 0.05,2.5 -0.15,1.05 0.9,0.35 q 1,-0.7 2.2,0 m 2.05,4.4 Q 4.9,3.9 4.05,2.6 3.35,1.55 2.8,1.05 1.75,0.1 1.05,0.55 0.3,1.05 0.85,2.4 1.15,3.15 1.8,4.15 2.5,5.1 3,5.6 4,6.5 4.75,6 5.35,5.55 5.15,4.75"
+         id="path1684"
+         fill="#334b97"
+         fill-rule="evenodd"
+         stroke="none" />
+    </g>
+    <g
+       id="shape334">
+      <path
+         d="m 1.75,1.45 q -0.05,0.6 -0.3,1 L 1.25,2.3 Q 1.5,1.85 1.45,1.45 1.45,1.1 1.35,0.9 1.3,0.85 1.25,0.85 1.2,0.85 1.15,0.9 L 0.9,1.1 Q 0.7,1.25 0.5,1.2 0.25,1.2 0.1,1 0,0.8 0,0.55 0,0.3 0.3,0.15 0.55,-0.05 0.9,0 q 0.35,0.1 0.6,0.45 0.3,0.45 0.25,1"
+         id="path1687"
+         fill="#334b97"
+         fill-rule="evenodd"
+         stroke="none" />
+    </g>
+    <g
+       id="shape335">
+      <path
+         d="M 0.15,0.25 0.55,0 3.1,3.8 4,3.2 4.4,3.8 3.5,4.35 4.45,5.8 3.8,6.25 2.8,4.85 0.4,6.45 0,5.9 0.15,0.25 m 0.3,1.1 -0.1,4.3 2.1,-1.4 -2,-2.9"
+         id="path1690"
+         fill="#334b97"
+         fill-rule="evenodd"
+         stroke="none" />
+    </g>
+    <g
+       id="shape336">
+      <path
+         d="m 3.1,0.35 q 1,0.5 1.7,1.6 Q 5.4,2.8 5.6,3.7 6.1,5.45 4.85,6.25 4,6.8 2.95,6.45 1.85,6 0.9,4.6 0.2,3.55 0.05,2.5 -0.15,1.05 0.9,0.35 q 1,-0.7 2.2,0 m 2.05,4.4 Q 4.9,3.9 4.05,2.6 3.35,1.55 2.8,1.05 1.75,0.1 1.05,0.55 0.3,1.05 0.85,2.4 1.15,3.15 1.8,4.15 2.5,5.1 3,5.6 4,6.5 4.75,6 5.35,5.55 5.15,4.75"
+         id="path1693"
+         fill="#334b97"
+         fill-rule="evenodd"
+         stroke="none" />
+    </g>
+    <g
+       id="shape337">
+      <path
+         d="m 1.75,1.45 q -0.05,0.6 -0.3,1 L 1.25,2.3 Q 1.5,1.85 1.45,1.45 1.45,1.1 1.35,0.9 1.3,0.85 1.25,0.85 1.2,0.85 1.15,0.9 L 0.9,1.1 Q 0.7,1.25 0.5,1.2 0.25,1.2 0.1,1 0,0.8 0,0.55 0,0.3 0.3,0.15 0.55,-0.05 0.9,0 q 0.35,0.1 0.6,0.45 0.3,0.45 0.25,1"
+         id="path1696"
+         fill="#334b97"
+         fill-rule="evenodd"
+         stroke="none" />
+    </g>
+    <g
+       id="shape338">
+      <path
+         d="M 3,7.35 Q 3.45,4.65 3.5,3.55 3.55,2.4 3.05,1.7 2.65,1.1 2.05,1 1.5,0.9 1.05,1.2 0.45,1.6 0.4,2.25 0.35,2.6 0.5,3.25 L 0.3,3.3 Q -0.15,2.2 0.1,1.5 0.35,0.75 0.9,0.35 1.65,-0.1 2.4,0.05 3.1,0.2 3.55,0.85 4.05,1.55 4,2.5 3.95,3.45 3.45,6.2 L 5.4,4.9 Q 5.8,4.6 5.9,4.4 6,4.2 5.95,3.65 H 6.1 L 6.45,5.15 3.05,7.45 3,7.35"
+         id="path1699"
+         fill="#334b97"
+         fill-rule="evenodd"
+         stroke="none" />
+    </g>
+    <g
+       id="shape339">
+      <path
+         d="M 2.6,1.3 Q 2.5,2.5 1.3,2.6 0.1,2.5 0,1.3 0.1,0.1 1.3,0 2.5,0.1 2.6,1.3"
+         id="path1702"
+         fill="#000"
+         fill-rule="evenodd"
+         stroke="none" />
+    </g>
+    <g
+       id="shape340">
+      <path
+         d="m 2.85,1.55 q -0.1,1.15 -1.3,1.3 -1.2,-0.1 -1.3,-1.3 0.1,-1.2 1.3,-1.3 1.15,0.1 1.3,1.3 z"
+         id="path1705"
+         fill="none"
+         stroke="#000"
+         stroke-width=".45"
+         stroke-linecap="round"
+         stroke-linejoin="round" />
+    </g>
+    <g
+       id="shape341">
+      <path
+         d="M 7.15,0.25 Q 8.05,0.5 8.15,0.5 8.4,0.5 8.6,0.4 8.8,0.25 8.85,0 H 9.2 L 9.35,3.5 H 9 Q 8.65,2.5 8.15,1.85 7.2,0.6 5.55,0.6 3.9,0.65 2.85,1.9 q -1,1.35 -1.05,3.6 0.05,2.1 1.1,3.35 1.15,1.25 2.8,1.25 1.25,0 2.25,-0.55 0.6,-0.35 1.3,-1 L 9.55,8.8 Q 9,9.5 8.25,10 6.9,10.8 5.4,10.8 2.85,10.85 1.35,9.2 0,7.7 0,5.5 0,3.2 1.45,1.65 2.95,0 5.4,0 6.25,0 7.15,0.25"
+         id="path1708"
+         fill="#000"
+         fill-rule="evenodd"
+         stroke="none" />
+    </g>
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient42"
+       id="linearGradient43"
+       x1="269.73396"
+       y1="305.56983"
+       x2="282.95169"
+       y2="305.56983"
+       gradientUnits="userSpaceOnUse" />
+  </defs>
+  <rect
+     style="fill:#00ffff;stroke:#000000;stroke-width:0.5"
+     id="rect26"
+     width="331.28732"
+     height="170.72734"
+     x="155.8999"
+     y="67.78257" />
+  <path
+     sodipodi:type="star"
+     style="fill:#ff0000;stroke:#000000;stroke-width:0.5"
+     id="path27"
+     inkscape:flatsided="true"
+     sodipodi:sides="6"
+     sodipodi:cx="216.90424"
+     sodipodi:cy="57.615185"
+     sodipodi:r1="52.423763"
+     sodipodi:r2="45.400311"
+     sodipodi:arg1="0.77968394"
+     sodipodi:arg2="1.3032827"
+     inkscape:rounded="0"
+     inkscape:randomized="0"
+     d="M 254.18465,94.471958 203.62554,108.32936 166.34513,71.472584 179.62382,20.758412 230.18293,6.9010129 267.46334,43.757786 Z"
+     transform="translate(99.13201,25.842105)" />
+  <rect
+     style="fill:#00ffff;stroke:#000000;stroke-width:0.5"
+     id="rect26-6"
+     width="331.28732"
+     height="170.72734"
+     x="162.45621"
+     y="287.55341"
+     inkscape:export-filename="rect26-6.png"
+     inkscape:export-xdpi="96"
+     inkscape:export-ydpi="96" />
+  <path
+     style="fill:#00ff00;stroke:#000000;stroke-width:1.6;stroke-dasharray:none;stroke-opacity:1"
+     d="m 323.83398,286.41016 c -2.97601,0.0198 -5.9523,0.053 -8.92773,0.11718 -3.78494,0.0918 -7.56977,0.22907 -11.35547,0.28907 -3.15813,0.007 -6.31675,0.0113 -9.47461,0.0586 -2.63122,0.0423 -5.26153,0.11262 -7.89062,0.22852 -2.46547,0.12568 -4.92983,0.20932 -7.39844,0.23632 -2.23481,0.0654 -4.46882,0.14792 -6.70117,0.27344 -2.18658,0.0817 -4.37673,0.0149 -6.56446,0.0312 -2.39399,-0.007 -4.78773,-0.0121 -7.18164,-0.0351 -2.54819,-0.0321 -5.10034,-0.0436 -7.64453,-0.19727 -0.38534,-0.0474 -0.76902,-0.0992 -1.15234,-0.1582 l -7.58789,28.98437 37.2793,36.85742 50.55859,-13.85742 13.14258,-50.19336 c -0.30569,-0.0449 -0.6099,-0.0959 -0.91407,-0.1543 -3.04606,-0.55443 -6.08142,-1.16192 -9.12109,-1.75 -0.83064,-0.15804 -2.16019,-0.42933 -3.00781,-0.52343 -2.00811,-0.22298 -4.04212,-0.19903 -6.0586,-0.20703 z"
+     id="path42" />
+  <text
+     xml:space="preserve"
+     style="font-size:26.6667px;font-family:Consolas;-inkscape-font-specification:'Consolas, Normal';writing-mode:lr-tb;direction:ltr;fill:#000000;stroke:none;stroke-width:0.9;stroke-dasharray:none;stroke-opacity:1"
+     x="269.01208"
+     y="312.22348"
+     id="text42"><tspan
+       sodipodi:role="line"
+       id="tspan42"
+       x="269.01208"
+       y="312.22348"
+       style="fill:#000000;stroke:none">m</tspan></text>
+  <text
+     xml:space="preserve"
+     style="font-size:26.6667px;font-family:Consolas;-inkscape-font-specification:'Consolas, Normal';writing-mode:lr-tb;direction:ltr;fill:#000000;stroke:none;stroke-width:0.9;stroke-dasharray:none;stroke-opacity:1"
+     x="306.71613"
+     y="81.339088"
+     id="text43"><tspan
+       sodipodi:role="line"
+       id="tspan43"
+       x="306.71613"
+       y="81.339088">M</tspan></text>
+  <text
+     xml:space="preserve"
+     style="font-size:26.6667px;font-family:Consolas;-inkscape-font-specification:'Consolas, Normal';writing-mode:lr-tb;direction:ltr;fill:#000000;stroke:none;stroke-width:0.9;stroke-dasharray:none;stroke-opacity:1"
+     x="543.10785"
+     y="183.01294"
+     id="text44"><tspan
+       sodipodi:role="line"
+       id="tspan44"
+       x="543.10785"
+       y="183.01294">Mg =mg</tspan></text>
+</svg>

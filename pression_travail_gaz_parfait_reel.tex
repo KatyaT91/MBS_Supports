@@ -1,0 +1,153 @@
+% This syllabus template was created by:
+% Brian R. Hall
+% Assistant Professor, Champlain College
+% www.brianrhall.net
+
+% Document settings
+\documentclass[11pt]{article}
+\usepackage[margin=1in]{geometry}
+\usepackage[pdftex]{graphicx}
+\usepackage{multirow}
+\usepackage{setspace}
+\usepackage{listings}
+\pagestyle{plain}
+\setlength\parindent{0pt}
+
+\begin{document}
+	
+	% Course information
+	\begin{tabular}{ l l }
+		
+		& \LARGE Physique-chimie \\\\
+		& \LARGE Printemps 2026 \\\\
+	\end{tabular}
+	\vspace{10mm}
+	
+	% Course Outline
+	
+	Le contenu peut être modifié en fonction des progrès des étudiants.
+	
+	Semaine 2  
+	
+	\subsection*{Rappel de la notion de pression. Travail exercé par le gaz ou sur le gaz}
+	
+	La pression est définie comme la force divisée par la surface :
+	\begin{lstlisting}
+		P = F/S
+	\end{lstlisting}
+	
+	Le travail est la force multipliée par le déplacement de son point d'application :
+	\[
+	W = P \times S \times dx
+	\]
+	
+	Le travail sur le gaz peut être positif ou négatif. Dans le second cas, on dit que le gaz exerce le travail.
+	\begin{itemize}
+		\item le gaz est comprimé : il exerce un travail négatif ;
+		\item le gaz se détend : il exerce un travail positif.
+	\end{itemize}
+	
+	On modifie l'énergie d'un système lorsqu'on exerce un travail.
+	
+	\subsection*{L'autre moyen de changer l'énergie d'un système : le transfert de chaleur}
+	
+	On modifie l'énergie d'un système lorsqu'on lui fournit ou qu'on lui retire de la chaleur.
+	
+	Dans les processus réversibles, la quantité de chaleur échangée avec le système est définie par le changement d'un paramètre : l'entropie :
+	\[
+	Q = T \times (S_{apres}- S_{avant})
+	\]
+	
+	où $Q$ est la quantité de chaleur échangée avec le système, $T$ la température absolue et $S$ l'entropie du système.
+	
+	C'est à la fois une définition de l'entropie et de la température absolue.
+	
+	Si le processus est irréversible, l'entropie peut augmenter même en l'absence d'échange de chaleur.
+	
+	\subsection*{Le bilan d’énergie}
+	
+	\[
+	\Delta U = W + Q
+	\]
+	
+	Pour un processus réversible :
+	\[
+	\Delta U = W + T \times \Delta S 
+	\]
+	
+	\subsubsection*{Les cas particuliers}
+	
+	\begin{itemize}
+		\item À volume constant : il n'y a pas de travail mécanique. Toute la chaleur sert à modifier l'énergie interne en changeant la température.
+		\[
+		\Delta U = Q
+		\]
+		On introduit la capacité thermique à volume constant $C_V$ :
+		
+		c'est la chaleur fournie pour une variation de température à volume constant :
+		\[
+		Q = C_V \,\Delta T
+		\]
+		
+		\item À pression constante : il y a un travail mécanique sur le gaz.
+		$
+		\Delta U = Q - P\,\Delta V
+	$
+		On introduit la capacité thermique à pression constante $C_P$ :
+	$
+		Q = C_P \,\Delta T
+$
+		
+		On peut aussi remarquer que
+\[	Q = \Delta U + P\,\Delta V	\]
+	
+
+		
+		ou encore
+	
+		\[ Q = \Delta H \]  avec  \[ H = U + PV\]
+	
+		
+		$H$ est appelée l'enthalpie. À pression constante, la quantité de chaleur nécessaire pour changer l'état d'un corps (fusion, évaporation) correspond à la variation de son enthalpie ; on parle alors d'enthalpie de fusion ou d'évaporation.
+	\end{itemize}
+	
+	La capacité thermique peut être massique (par kilogramme) ou molaire (par mole).
+	
+	\subsection*{Modèle du gaz parfait et équation d’état}
+	
+	\[
+	PV = nRT
+	\]
+	
+	$n$ : nombre de moles, \quad $R = 8{,}3 \ \mathrm{J \cdot mol^{-1} \cdot K^{-1}}$
+	
+	Transformations : adiabatique, isotherme, isochore.
+	
+	Représentation graphique sur les diagrammes :
+	\begin{itemize}
+		\item $(P, V)$
+		\includegraphics[width=0.4\linewidth]{diagramme_pv_isobare_isotherme_isochore.jpg}
+		\item $(T, V)$
+	\end{itemize}
+	
+	La capacité thermique à volume constant d’un gaz parfait dépend du nombre d’atomes dans ses molécules : plus il est grand, plus la capacité est élevée. Pour un gaz monoatomique, sa capacité thermique molaire est :
+	\[
+	C_V = \frac{3}{2} R
+	\]
+	\newpage
+	\subsection*{Le gaz réel et ses diagrammes} 
+ Diagramme de phase de Clapeyron
+ 
+ 
+		\includegraphics[width=0.7\linewidth]{courbe_rosee_isothermes.jpg}
+ 
+Point critique pour eau:
+T = 374°C , P=218 atmosphères (221 bar)
+
+\subsection*{A venir} 
+Le diagramme de Mollier représente plusieurs caractéristiques du système liquide-vapeur. Il sera étudié à la leçon suivante.
+	
+\end{document}
+
+
+
